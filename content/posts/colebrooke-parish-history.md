@@ -109,11 +109,8 @@ a distant branch o£ the family.
 Coplestones held the office of Sheriff of Devon in 1471, 1561 and 1597,
 and two were Members of Parliament. John, who was buried in the north
 aisle in 1457, was Escheator of Devon and Cornwall, and Steward of the
-Earl of Devon’s lands. He was one of those who “had
-
-great marriages”, for his wife Elizabeth was granddaughter and heiress
-of the well-known John Hawley, of Dartmouth, and her mother and
-grandmother were also heiresses.
+Earl of Devon’s lands. He was one of those who “had great marriages”, for his wife Elizabeth was granddaughter and heiress
+of the well-known John Hawley, of Dartmouth, and her mother and grandmother were also heiresses.
 
 It was the marriage of John’s son Philip to Anne Bonville, of Shute in
 East Devon, which ultimately led to the family leaving Coplestone House.
@@ -453,4 +450,4 @@ Troney was the name of the river, and it is marked thus now on maps.\
 By Neville P. Enderson\
 © Neville P. Enderson
 
-[*Edit*](https://colebrooke.org/wp-admin/post.php?post=28&action=edit)
+
