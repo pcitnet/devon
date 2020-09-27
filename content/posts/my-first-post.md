@@ -1,0 +1,553 @@
+---
+title: "My First Post"
+date: 2020-09-27T16:28:44+01:00
+draft: false
+---
+Colebrooke Church Bells History
+===============================
+
+There have been bells ringing at Colebrooke for centuries, in common
+with many Devon churches. Even a parish church as small as Colebrooke
+has supported, almost continuously, the numerous small expenses and
+occasionally large ones involved in keeping a ring of bells in working
+order. A large number of records survive which demonstrate to us the
+dedication with which, among all their other duties, our forbears took
+care of the bells which we still ring today.
+
+Following his father’s Reformation of the Church, Edward VI ordered a
+survey to be made of the goods of the Church of England. Thus our first
+glimpse of the bellringing tradition at Colebrooke is contained in the
+Inventory of Church Goods, dated 1553, currently held in the Public
+Record Office. In the Hundred of Crediton – “Colebrooke iiij belles yn
+the towre their”. The date of these bells, their weight and whether they
+were hung for full circle ringing, sadly we do not know. However, the
+Parish Accounts from 1597 onwards are liberally sprinkled with items of
+expenditure for the upkeep of these four bells. At Midsummer 1598, for
+example, we read of 3s. 4d. Being paid to one John Sparke for providing
+a bell-rope ( John Sparke was the Parish Constable ).In 1618, we find
+“Itm. Payed for neayles for the Bells wheles …vjd.” More interesting is
+the following item. “Payed for expenses of the Ryners ( sic. ) the 5 of
+November …iiijs.” Ringing on Guy Fawkes Night was a tradition that
+began, therefore, not many years after King James 1st deliverance, and
+continued steadily up until the last century. The payment for this
+service varied from year to year, presumably with the number or
+experience of the available ringers. From the 4s.. recorded in 1618, it
+rose to 10s. In 1750. In 1761, however, the Churchwardens passed a
+resolution not to pay the ringers more than 7s. 6d. in future.
+
+The years 1620 to 1626 saw a large amount of work done on the bells,
+which were, perhaps, getting difficult to handle. The clapper on the
+third of the old ring gave problems needing to be mended at a cost of
+5s., then replaced (10s. ), the work being done by one Marcus Tozer.
+Finally, the Churchwardens took the following action: “Item, more payd
+to the sayd Markus in consideration that hee the sayd Mark shall att all
+tymes hereafter firmly mayntayne the said Clapper att his own cost
+during the life of the said Marckes Tozer.” The third needed a new wheel
+the same year at a cost of 6s and three years later payment was made for
+“mending of the piggs and the braces” of the same bell.
+
+Several entries in the accounts during those years refer to “Mendyng of
+the bells collers” ( 1618 ) or “Leather to mend the bell collar .. vjd.”
+( 1621 ). Also, in 1620, we read of a ” Bolster for the great bell and
+for a Hoope for the same .. vjd.” In 1625, a lot more work was done on
+the bells, including ” Mending of the pish two bell” – nothing too
+drastic presumably, as the work only cost 6d.. At some stage around this
+time, the decision was made to replace the bells and to augment the ring
+to five.
+
+The work was given to the Exeter bellfounder, Thomas Pennington. In the
+summer of 1627, the four bells were removed from the tower and
+transported, probably by ox cart, to Exeter. The actual place of casting
+cannot be pinpointed precisely. Pennington had a foundry at Paul Street
+in Exeter, but excavations of the site in 1980-1, before the building of
+the Habitat store and the subsequent development in that area revealed
+that before 1656 only small artefacts were manufactured there – pots,
+pans and the like. The capacity of the furnace was limited by the size
+of the foundry site, which in turn was determined by the proximity of
+the site to the city wall: the strip of land immediately within the
+walls had been kept clear for centuries for purposes of defence. In
+1659, however, this was no longer deemed necessary, and Exeter archives
+record several leases made by businesses of these strips of land at the
+end of their premises. The excavations mentioned above-discovered bell
+pits dating from this period.
+
+In 1627, therefore, the casting of the Colebrooke bells would have been
+done in Paul Street. There are references to bells from Woodbury and St.
+Peter’s Tiverton being brought to “the casting place outside Northgate,”
+so this may be a possible venue for the Colebrooke casting. It is
+interesting to note that over two hundred years later, in 1851.
+according to Pearson’s book on the church bells of Devon, William
+Pannell (who had taken over Bilbie’s of Cullompton) set up a foundry in
+Longbrook Street and the proximity of this to present-day Northernhay
+makes us wonder whether this may have been the same site as Penningtons
+casting place.
+
+**The present 4th at Colebrooke, showing Pennington’s name and the coin
+impresses. **
+
+Thomas Pennington opened his foundry in about 1625, so the Colebrooke
+bells were quite early examples of his work on this site. Before this,
+the main foundry in Exeter was Birdall’s of St. Thomas ( excavated in
+1984 before the construction of the library in St. Thomas ), but this
+had closed in 1624 with the death of Thomas Birdall.
+
+The method of casting bells in England had undergone a fundamental
+change during the late 16th and early 17th centuries. Evidence of
+medieval casting techniques was discovered under the tower of St. Mary
+Major Church in Cathedral Yard. These casting pits, dating from the
+12th. Century and excavated in 1971, revealed the use of tallow moulds
+as opposed to clay moulds, which were later preferred. On this site, the
+mould was built up outside the pit and then lowered in, a laborious
+process later replaced by the much more sensible one of building the
+mould in the pit. The best of both worlds was achieved ultimately, and
+moulds of clay were built in the casting pit. Remains from the
+Pennington and Birdall foundries show annular foundations of stone in
+the pits onto which the clay mould was built. This would have been the
+method used by Pennington for the Colebrooke bells.
+
+The Parish accounts for 1627 detail the sums of money paid for all the
+tasks involved in casting and augmenting the ring of bells from four to
+five. We see Marcus Tozer’s name again for “mendinge the Bell-clapers
+and collers”. The sum of £1 15s. 4d. was paid for “carriage of the Bells
+to Exeter and Backe againe”. “Extra tin” was needed to make up the
+weight, 60 pounds of it, and “Tynn glasse”. According to George Elphick
+in ” Craft of the Bellfounder”, tin was added at a rate of one pound per
+hundredweight of metal. Rev. Ellacombe was dogmatic on the subject of
+bell metal: three parts copper to one of tin was generally the ratio,
+according to his paper delivered to the Exeter Diocesan Architectural
+Society on June 7th. 1866, though he felt that a ratio of 2;1 was
+preferable.
+
+The men who worked on the bells certainly did not go hungry, nor indeed
+would thirst have been a problem, judging by the amount of “Bread and
+Beare” and “meat and drincke” paid for by the church. New headstocks
+were made and, as large amounts of timber were purchased, presumably a
+new frame was built. The most interesting entry is, of course, the
+payment to Thomas Pennington himself: “pd. To Mr. Pennington …. £16 1s.
+0d.” Some of the money – £5 13s. 9d. – was raised by voluntary
+subscription which was traditionally the responsibility of the young men
+of the parish.
+
+Of this new ring of five, the fourth bell of the current ring is a
+survivor, testament to Pennington’s craft. It was decorated, as was
+Pennington’s style, with a frieze of fleurs-de-lys, and was impressed
+with a penny from the reign in which it was cast, that of Charles I.
+Pennington often cast his full name on to his bells to distinguish his
+work from that of his rival, Thomas Purdue, who tended to use his
+initials. It is thought that Pennington’s custom of impressing a penny
+on the mould was a pun on his own name. The inscription on the 4th bell
+reads “Thomas Pennington New Caste Us Fyve the xx of July 1627”.
+
+It is interesting to compare the Pennington bells at Colebrooke to their
+grander cousins hung in Exeter Cathedral. Thomas Pennington was
+commissioned in 1625 to recast three of the Cathedral bells, namely
+“Pongamouth,” “Oldham” and “Grandisson” – respectively the 2nd 7th and
+tenor of the present Mixolydian Eight. The work, seemingly, did not take
+place until 1630, and of these three bells, only ” Pongamouth” survives
+today in Pennington’s casting, (2000), the other two having to be recast
+again in 1729 by William Evans. “Grandison” was subsequently recast in
+1902 by Taylor’s. “Pongamouth” bears the same fleur-de-lys frieze as the
+4th. Bell at Colebrooke.
+
+The new ring of five at Colebrooke was not without its problems. It was
+only 37 years before the “leetle bell” needed to be recast, the work
+being done by “Mr. Penitant” This was John Pennington, Thomas’s brother,
+who also cast the bells for St. Mary Steps Church, Exeter. The new work
+which had to be set in train was in spite of great care taken to keep
+the bells in good repair, as witnessed by a contract made in 1654
+between the churchwarden, John Yonge and one Henry Martyn. By this
+contract, Henry Martyn was to have the annual payment of fifteen
+shillings … “for keepinge the bels and the promiseth for the sayd summe
+to keepe them wel repayred”. This contract was to last until 1673, but
+more work was needed in 1676, and instead of returning to the local bell
+foundry, Pennington’s, the Colebrooke churchwardens took the business to
+the Somerset establishment of Thomas Purdue.
+
+There seems to have been a certain amount of rivalry between the
+foundries of Pennington and Purdue. Thomas Purdue was based at Closworth
+in Somerset, where he was buried on his death at over 90 years of age.
+As luck would have it, he brought his equipment down to Exeter in 1676
+to do some major work on the Cathedral bells and while he was there, he
+undertook to do this work for Colebrooke. Purdue’s contract with the
+Dean and Chapter was to recast “Cobthorne”, “Stafford” and “Grandisson”,
+…. respectively the 9th., 11th. and tenor of the major twelve. He also
+had to add another 6th. as an alternative to “Pongamouth” the flat 6th..
+and to recast the great bell “Peter”. The work he did for Colebrooke,
+which the Churchwardens’ Accounts show to have been carried out in
+Exeter, was to recast again the troublesome treble of the five (the 2nd.
+of the present ring). We can assume with a fair degree of confidence,
+that this work was done in Cathedral Yard.
+
+The accounts give us a fair picture of all the activity that went on, in
+and out of the tower. Four men and seven horses were sent .. “to fech
+the timber to Coleford,” this timber being .. “to use about the bells
+and planking”. The timber itself cost £4 4s. 0d., quite an expense.
+There are several other interesting entries concerning the recasting: ”
+It. pd. For carring of the bell to Exon and feching of him home againe
+.. £2 0s. 0d.” “It. pd. For waying of the bell before it was cast .. 5s.
+0d.” “It. pd. Thomas Purdue for casting of the bell and addition of
+wight .. £20 6s. 0d.” (Funnily enough, the bells at Colebrooke are still
+referred to as “he” rather than the feminine pronoun used in many
+towers).
+
+For all the competition between Purdue and Pennington and the general
+feeling that Purdue was the master, it is the Pennington 4th. bell that
+survives at Colebrooke, rather than the Purdue 2nd., which was recast in
+1934., (although, as we shall see, it may not have been Purdue’s bell
+wearing out that necessitated its recasting). A plaque placed in the
+tower on that occasion records the inscription cast on the 2nd. In 1676
+( no longer there, of course ): “John Yonge, Gent: Will Snell, Wardens
+1676”.
+
+A final item in connection with this work is as follows: “It pd. the
+ringers the 5 of Novembere when Mr. Bevis was heere .. 12s. 0d.” Mr.
+Bevis was the local bell expert, and presumably, he came to hear the
+bells rung for Guy Fawkes night to approve the new bell. His name
+appears in connection with some work done on the bells of South Tawton,
+when he and Mr. Pennington drank copious amounts of beer paid for by the
+churchwardens!
+
+The ringers and churchwardens must have been very content with the work
+done over those fifty years because no further major work was needed for
+a. number of years. The records show a steady trickle of expenditures on
+such things as ropes and items paid for general maintenance. The ringers
+were paid for ringing on many great occasions – for instance in 1704
+“Item. Gave the Ringers when the D. Marelburrow (sic) beat ye french ..
+5s. 0d.”(Battle of Blenheim) The year 1714 saw the accession of George I
+and the ringers contributed to the celebrations: “pd. The Ringers at the
+Crowning of the King .. 5s.0d.” They were also paid for “.. the arrivall
+or proclaiming the King .. 5s, 0d.” This was only half as much, however,
+as they received for ringing on November 5th.
+
+**The external tower door. The arch of which is anonymously carved
+“1674” **
+
+The year 1737 saw the next flurry of activity concerning the bells. Mr.
+Samuel Rowe of Spreyton was contracted to re-hang the five balls in a
+new oak frame, and the Churchwarden’s accounts record a substantial
+amount paid out on this occasion: “pd. Samuel Row for Repairing and
+Hanging the Bells as by his said covenants apeare .. £36 0s. 0d.” On
+14th. September, Mr. Rowe had a meeting with William Pidsley, Thomas
+Southcott and Richard Hole, the churchwardens, at appropriately enough,
+the sign of the Bell in Colebrooke. The agreement they drew up survives
+and details the work to be carried out, and the nature of the materials
+to be used. The frame, wheels and headstocks were to be made of “heart
+oak” and ” well seasoned dry sound Elm for making the fells and
+feathering of the said wheels”. The new stays were to be made of iron
+“In such manner that the Ringers may take them off or on at their wills
+and pleasures”. Rowe undertook to protect the clock during all the work
+and it was agreed that he could keep all the old materials from the
+tower. He also undertook to maintain the bells, for the which service he
+was to be paid £1 5s. 0d. Yearly on 29th. September for 24 years “.. if
+the said Samuel shall see fortune to live”. A separate document records
+the fact that Rowe and one Nathaniel Risdon “Gent. Of Spreyton” bound
+themselves to maintain the tower.
+
+In 1750, there was a further expense when the 4th. (5th. Of the present
+ring) needed to be recast. The work was given to Thomas Bilbie of
+Cullompton for a change. Pennington’s Paul Street foundry had closed in
+1720 on the death of the last Thomas Pennington. One of the last bells
+he cast was in that year for Ide Church. Bilbie was, therefore, the
+nearest available founder. There was a Cornish Pennington advertising
+earlier in the century, though his foundry does not appear to have
+lasted long. Wroth of Wellington was a little further afield. Evans of
+Chepstow did some work for the Cathedral in 1729, and an interesting
+record survives in the Cathedral archives of the meeting between Evans
+and the Chapter. He tried to obtain tenure of his working site in Exeter
+for three years. Presumably to make the effort of setting up a temporary
+foundry more worthwhile by attracting other contracts, but permission
+was refused.
+
+Bilbie just had the one bell to deal with. The bell was removed to
+Cullompton rather than Bilbie setting up a foundry at Colebrooke. Before
+it was melted down, the bell was weighed and the weight noted as 12 cwt.
+8lb. 1oz. The Churchwardens’ Accounts note the expenses of 3s. 6d. For
+one Thomas Westhaks ( sic.) who rode to Cullompton to watch the bell
+being weighed. After casting, it was slightly lighter at 12 cwt. 7lb.
+7oz. Thomas Bilbie was paid £15 5s 0d. for his work, but the
+churchwardens were careful enough to withhold the last £5, which was to
+be paid on 7th. June 1751 if the bell remained sound and in tune.
+
+In 1764, it is recorded that four raised seats were built at the back of
+the church with steps from the seats to the belfry. These steps and
+seats no longer exist, having been demolished in the 19th. Century.
+
+The churchwardens must have been satisfied with Bilbie’s work because,
+in 1787, his services were requested again. This time it was the tenor
+that needed attention, and Bilbie removed and recast it.
+
+Another long period ensued when little except routine maintenance was
+needed for the five bells of mixed pedigree. Of the Pennington five.
+Only the 2nd. and 3rd. ( 3rd. And 4th. Or the present ring ) remained in
+his casting at this point, and it was the 2nd.. that needed attention
+next. The work was given to a firm not long established in Exeter, that
+of Charles Pannell.
+
+Pannell’s father, William, had originally been a tin-man but had bought
+Bilbie’s business in Cullompton. Charles Pannell had been apprenticed to
+Warner’s Bellfoundry at Cripplegate and had come back to Devon to
+succeed his father. He had removed the foundry to Exeter in about 1851
+and established himself in Longbrook Street – on the site of
+Pennington‘s casting place perhaps? The foundry was not open long and
+shut down only a year after his work for Colebrooke, that is, in 1855.
+
+We find several entries in the accounts relating to Mr. Pannell’s
+contract, and the local assistance gave him in his work;
+
+“Paid for agreement stamp to bind Mr. Pannell in respect of recasting
+the 2nd. Bell … 2s. 6d.” “Paid Mr. J. Lee as per Bill for the carriage
+of 2nd bell too and from Exeter… £1 18s. 1d.” ( Mr. J. Lee was one of
+the churchwardens whose name appears on the inscription on the bell. )
+
+Another entry records 6s. 0d. paid to one Thomas Gipson for three days‘
+work assisting Mr. Pannell about the bell. The most important item is
+the amount paid for the new bell itself: ” Paid Mr. Pannell of Exeter as
+per the agreement for recasting the 2nd. bell, besides allowing him to
+take the old Metal in part of payment … £13 8s. 11d.” Part of the cost
+of recasting the bell was defrayed by Mr. John Sillifant of Coombe
+House, a prominent church member, whose contribution of £6 8s. 0d. was
+received with thanks by the churchwardens. Pannell made a turret bell
+for the little school at the same time. It seems that no part of the
+payment was withheld on this occasion from the founder.
+
+The next thirty years or so saw the usual small sums paid out for items
+connected with the bells: £1 6s. 10d. paid to Robert Jewell in 1880 for
+repairing ironwork for the bells, and later in that same month of May,
+16s. 9d. To T.H. Lee for woodwork to do with the bells. New bell ropes
+in April of the following year cost 10s. 6d., payable to Henry Rice.
+Regular payments were also paid to the “chimers”.
+
+1887 was the Golden Jubilee year of Queen Victoria and all over the
+country parish, churches celebrated this splendid and virtually unique
+occasion by looking to their bells. At that time only Henry 111, Edward
+111 and George 111 had reigned longer than 50 years, and Victoria, of
+course, was to outstrip them all by surviving yet another thirteen
+years. (This record has now been surpassed by our present Queen
+Elizabeth 2nd ). In 1887 Colebrooke was fortunate to have among its
+parishioners a family interested in the bells and well-to-do enough to
+help pay for their continued maintenance. The family was the Sillifant
+family, who have already appeared in this account, and so due to the
+generosity of Mr. A.O. Sillifant, in 1887, Colebrooke’s ring was
+augmented from five bells to the present six.
+
+The plaque in the tower, which commemorates this event, states that a
+new tenor and a new treble were given, but this is slightly misleading.
+The treble was new, but the tenor was recast, as recorded by the
+inscription on the bell itself. The work was done by Warner of
+Cripplegate, the foundry which had cast Big Ben earlier in the century.
+
+**The tenor recast in 1887 by Warner. **
+
+The Churchwardens’ Accounts make no mention of the work, so we must
+assume that the contract was privately made between Mr. Sillifant and
+Warner’s. A special service was held on 15th. June 1887 for the
+re-dedication of the bells. A copy of the Order of Service is kept at
+the County Records Office in Exeter, and some of the fine prayers remind
+us unequivocally of the purpose for which the bells are rung: “Grant O
+Lord, that they who with their outward ears shall hear the sound of
+these bells may be aroused inwardly in their spirits and draw nigh unto
+Thee, the God of their salvation, through Jesus Christ our Lord. Amen”.
+The ringers who rang the six after their re-dedication are named as the
+following:-
+
+1\. W. T. Leamon. (Stationmaster Copplestone)
+
+2\. H. Ellis. (Thatcher Colebrooke)
+
+3\. J. Willcocks. (Farmer Coleford)
+
+4\. J. Ellis (Thatcher Coleford)
+
+5\. W. Leyman (Farmworker Colebrooke)
+
+6\. A. Gregory. (Shepherd Colebrooke)
+
+The names Leaman and Leyman we find often associated with Colebrooke
+Church at this time. Around 1881, James Leyman received regular payments
+for blowing the organ. He was also, it seems, the sexton. A brass plaque
+in the North aisle was put up in memory of Charles G. Leamam. A Lance
+Corporal in the 2nd. Devons, who was killed in the 1914-19 War. The name
+W. Leyman seen above appears on the oldest surviving competition
+certificate in the tower, dated 10th. June 1939, when Colebrooke came
+second in the Cadbury Deanery Competition held at Down St. Mary just
+before the outbreak of war.
+
+The story of the church itself now enters rather a gloomy phase. At the
+induction of the Rev. Isidore Daimpre in 1885, it seems that the church
+fabric was already getting rather dilapidated. Rev. Daimpre was a
+colourful character, with a wife many years younger than himself and six
+sons whose names appear on the Roll of Service board in the church for
+playing their part in the Great War. He was devoted to his parish
+church, and wrote a history of it, which includes the following piece of
+Victorian verse:-
+
+“I have heard bells chiming full many a chime in, Tolling sublime in
+Cathedral shrine. While at a glib rate brass tongues would relate, But
+all their music spoke nought to thine”.
+
+Daimpre records how the church bell was rung at 8 am of a Sunday and how
+the passing bell was rung. He spent a lot of his own money on repairs to
+the church and sadly, he was declared bankrupt a few years after he
+became the vicar. He applied for admission to the workhouse in Crediton
+for himself and his wife and children, but never entered the same.
+
+In 1895, a great deal of work was done in the body of the church to
+improve the seating arrangements, among other things. The four seats
+rising back to the belfry were removed and also the West gallery, which
+enabled the fine tower arch to be opened up. The church was re-opened
+the same year. The following year, Mrs. F Sillifant gave the reredos,
+the plans for which can be seen in the County Records Office. It was to
+be in memory of her late husband Francis Synge Sillifant and carried the
+unusual proviso that she was to be portrayed as the Blessed Virgin Mary,
+and her husband was to appear as one of the Apostles.
+
+By 1912, the tower itself was unsafe. Plans were set in motion to raise
+money to have the necessary work done. A letter to Isidore Daimpre from
+one S. Calmady-Hamlyn of Bridestowe offers £5 to help set the ball
+rolling. However, the fundraising effort did not get underway until
+1925, when the churchwarden, Mr. Jack Pope, got his teeth into the
+matter.
+
+An account was opened at the bank of Messrs. Fox, Fowler & Co. ( later
+Lloyds ) in Exeter. Only one transaction was recorded in the account: a
+deposit of eleven guineas. The account was closed in the same year,
+having accrued interest of 5s. 3d. The Exeter architect W. Harbottle
+Reed was commissioned to come and view the tower, and he opined that the
+pinnacles, windows and pointing were all in a bad state. Mr. Jack Pope
+had hand-bills printed, and letters asking for help in the fund-raising
+were sent out all over the country – some even further afield – to
+anyone who had any connection with Colebrooke Church, however tenuous. A
+remarkable number of replies still survive, including several charming
+letters to Mr. Pope from John Sillifant, ( a cousin of the previously
+mentioned A O Sillifant) who had recently removed to Adelaide, South
+Australia. He promised £100 to the tower restoration fund, though his
+solicitor, Mr. Ford of Southernhay, was somewhat tardy in releasing the
+money. Mr. Sillifant proudly mentions his two motor cars, one of which
+is a Sunbeam, and writes wistfully how he “… should love to be with you
+once again & have a yarn & smoke in your den”.
+
+Back in England, the fund-raising progressed apace. A dance at
+Colebrooke School in January 1925 bed ruined £4. 6s. 3d. A list of
+subscribers was published. And among the names, we see a Mrs. E.
+Enderson, who contributed a shilling, and a Mrs. A. Enderson, who was
+able to give one pound. One firm of solicitors approached by Mr. Pope
+for a contribution agreed to donate on condition that their name did not
+appear on the list of subscribers for fear of being asked for some kind
+of favour by other fund-raising committees.
+
+**The South Face of the tower. **
+
+The money was paid to Hr. Harbottle Reed in instalments, and the
+following year, the work was completed. The Western Times and the Devon
+and Exeter Gazette newspapers both of February 5th 1926 record the
+re-dedication service, and the celebrations which followed. There is
+also a plaque at the back of the South aisle of the church which reads:-
+
+“The tower, pinnacles and bell-chamber windows were restored by public
+subscription 1925-1926. H. Cowper Pratt – Vicar. R.C.Brook & J.M. Pope –
+Churchwardens”.
+
+Rev. H. Cowper Pratt was another clergyman very active in the
+preservation of the church fabric. In 1934, it was decided that the
+bells needed attention and a fair amount of attention at that. The
+foundry contacted on this occasion was that of Mears and Stainbank in
+London, whose estimate for the work required is preserved in both
+handwritten and typed copies. The typed estimate is dated 8th. February
+1934, and gives very detailed specifications of the work to be carried
+out. All the bells, headstocks and wheels were to be removed from the
+tower, and the headstocks and wheels sent to the foundry for attention.
+A new headstock was to be made for the 2nd. Bell, and new wrought iron
+clappers for the 2nd. And 5th. New floor pulleys were to be installed in
+the bell chamber and a second set on the floor of the clock chamber. The
+chiming mechanism was to be overhauled and new cords and rubber
+handpieces fitted. The 2nd. and 5th. Belle were to be quarter-turned and
+all six were to be fitted with new steel gudgeons and re-hung on
+“totally enclosed se1f\~lubricating and self-aligning double row ball
+bearings fitted with grease caps”.
+
+There is a plaque in the tower which states ” The six bells were re-hung
+with ball bearings and the second and fifth bells were recast in 1934 by
+Mears and Stainbank”. The estimate from Mears and Stainbank, which
+totals £104 0s. 0d., does not make any mention of recasting any of the
+bells. However, the flagstones on the floor of the ringing chamber are
+broken where one of the bells (current 2nd.) was dropped as it was being
+lowered from the bell chamber. As there are specific clauses in the
+contract concerning damage caused by the foundry’s employees and an
+undertaking to leave the bells “in perfect running order” it is perhaps
+reasonable to assume that an accident did occur and that the 2nd. or the
+5th. or both had to be recast at the expense of Mears and Stainbank.
+Colebrooke Church does not appear to have had to pay for that work.
+Mears and Stainbank later became the Whitechapel Bell Foundry, but
+although their records go back to this time, unfortunately, they have no
+correspondence relating to the accident.
+
+A Diocesan Faculty was applied for in March 1934 for the re-hanging of
+the bells. And it was agreed to in May 1935 by the Rt, Rev. William
+Cecil, Bishop of Exeter ( who, incidentally, died the following year.)
+By the time it was approved, the work had already been done and paid for
+by public subscription.
+
+**The crowded bell chamber, showing the wheels of the front five
+bells. **
+
+This is the latest time to date that major work has been done on
+Colebrooke bells. Despite their mixed pedigree. They still sound fine
+and the 17 cwt. Tenor falls nicely into the 16-25 cwt. bracket
+prescribed by Rev. Ellacombe as the ideal weight for the tenor of a ring
+of six bells. Ringing seems to have continued steadily for many, many
+years, as witnessed by the competition certificates displayed in the
+tower, with occasional periods in the doldrums, such as must have
+occurred when the tower was unsafe round about 1912-26.
+
+**The 5th Bell, recast in 1934. by Mears and Stainbank. **
+
+Currently, the bells are rung for Sunday services, and on regular
+practise nights, and the ringing tradition seems set to continue at
+Colebrooke, with the enthusiasm of several learners. The “fine tower
+archway” which was opened up in 1895, has now been boarded up again,
+primarily for keeping the body of the church warm, but it has also come
+in useful for displaying the certificates won by Colebrooke ringers in
+recent years. The art of call-change ringing so strongly maintained in
+this corner of England will be practised for many years yet to call the
+faithful to worship in the church on the hill at Colebrooke.
+
+**Some of the certificates won by Colebrooke ringers, on display in the
+tower. **
+
+1\. Treble – Cast 1887 – Warner
+
+2\. 2nd – Cast 1627 – Pennington
+
+Recast – 1664 – Pennington
+
+Recast – 1676 – Purdue
+
+Recast – 1934 – Mears & Stainbank
+
+3\. 3rd – Cast 1627 – Pennington
+
+Recast – 1854 – Pannell
+
+4\. 4th – Cast 1627 – Pennington
+
+5\. 5th – Cast 1627 – Pennington
+
+Recast – 1751 – Bilbie
+
+Recast – 1934 – Mears & Stainbank
+
+6\. Tenor – Cast 1627 – Pennington
+
+Recast – 1787 – Bilbie
+
+Recast – 1887 – Warner
+
+Acknowledgements.
+
+I acknowledge with grateful thanks the help and time given with such
+enthusiasm and unstinting generosity by Mr. Harold Dart of Colebrooke;
+Mr. Neville Enderson of Coleford; Mr. Stuart Blaylock of the Albert
+Memorial Museum, Exeter; and Rev. John Scott.
+
+By Margaret B. J. Enderson\
+© Margaret B. J. Enderson
