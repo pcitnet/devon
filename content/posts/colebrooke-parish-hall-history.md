@@ -1,3 +1,9 @@
+---
+title: "Colebrooke Parish Hall History"
+
+draft: false
+---
+
 Colebrooke Parish Hall History
 ==============================
 

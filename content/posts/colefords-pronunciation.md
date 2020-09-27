@@ -1,3 +1,9 @@
+---
+title: "Coleford’s Pronunciation"
+
+draft: false
+---
+
 ### Coleford’s Pronunciation
 
 Coleford in Devon can be pronounced wrongly by a great number of people.

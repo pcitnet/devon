@@ -1,3 +1,9 @@
+---
+title: "Colebrooke Parish History"
+
+draft: false
+---
+
 Colebrooke Parish History
 =========================
 
