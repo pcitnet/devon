@@ -104,7 +104,7 @@ family “grew unto greatness, and albeit they had great marriages and
 lands, yett hath not any been knighted, and therefore they received the
 name of Silver Spur, and for their revenue called Copelston”. The John
 Coplestone, who was knighted after Pole’s time by Cromwell, belonged to
-a distant branch o£ the family.
+a distant branch of the family.
 
 Coplestones held the office of Sheriff of Devon in 1471, 1561 and 1597,
 and two were Members of Parliament. John, who was buried in the north
