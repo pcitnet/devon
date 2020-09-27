@@ -82,8 +82,7 @@ Longbrook Street and the proximity of this to present-day Northernhay
 makes us wonder whether this may have been the same site as Penningtons
 casting place.
 
-**The present 4th at Colebrooke, showing Pennington’s name and the coin
-impresses. **
+**The present 4th at Colebrooke showing Penningtons name and the coin impresses.**
 
 Thomas Pennington opened his foundry in about 1625, so the Colebrooke
 bells were quite early examples of his work on this site. Before this,
@@ -219,8 +218,7 @@ Crowning of the King .. 5s.0d.” They were also paid for “.. the arrivall
 or proclaiming the King .. 5s, 0d.” This was only half as much, however,
 as they received for ringing on November 5th.
 
-**The external tower door. The arch of which is anonymously carved
-“1674” **
+**The external tower door.** **The arch of which is anonymously carved "1674".**
 
 The year 1737 saw the next flurry of activity concerning the bells. Mr.
 Samuel Rowe of Spreyton was contracted to re-hang the five balls in a
@@ -336,7 +334,7 @@ The treble was new, but the tenor was recast, as recorded by the
 inscription on the bell itself. The work was done by Warner of
 Cripplegate, the foundry which had cast Big Ben earlier in the century.
 
-**The tenor recast in 1887 by Warner. **
+**The tenor recast in 1887 by Warner.**
 
 The Churchwardens’ Accounts make no mention of the work, so we must
 assume that the contract was privately made between Mr. Sillifant and
@@ -487,8 +485,7 @@ Cecil, Bishop of Exeter ( who, incidentally, died the following year.)
 By the time it was approved, the work had already been done and paid for
 by public subscription.
 
-**The crowded bell chamber, showing the wheels of the front five
-bells. **
+**The crowded bell chamber showing the wheels of the front five bells. **
 
 This is the latest time to date that major work has been done on
 Colebrooke bells. Despite their mixed pedigree. They still sound fine
@@ -511,8 +508,7 @@ recent years. The art of call-change ringing so strongly maintained in
 this corner of England will be practised for many years yet to call the
 faithful to worship in the church on the hill at Colebrooke.
 
-**Some of the certificates won by Colebrooke ringers, on display in the
-tower. **
+**Some of the certificates won by Colebrooke ringers on display in the tower.**
 
 1\. Treble – Cast 1887 – Warner
 
@@ -551,3 +547,4 @@ Memorial Museum, Exeter; and Rev. John Scott.
 
 By Margaret B. J. Enderson\
 © Margaret B. J. Enderson
+
