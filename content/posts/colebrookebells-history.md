@@ -507,18 +507,18 @@ faithful to worship in the church on the hill at Colebrooke.
 
 **Some of the certificates won by Colebrooke ringers on display in the tower.**
 
-**1\. Treble – Cast 1887 – Warner
-2\. 2nd – Cast 1627 – Pennington
+ **1. Treble – Cast 1887 – Warner
+ 2.  2nd – Cast 1627 – Pennington
 Recast – 1664 – Pennington
 Recast – 1676 – Purdue
 Recast – 1934 – Mears & Stainbank
-3\. 3rd – Cast 1627 – Pennington
+ 3. 3rd – Cast 1627 – Pennington
 Recast – 1854 – Pannell
-4\. 4th – Cast 1627 – Pennington
-5\. 5th – Cast 1627 – Pennington
+ 4. 4th – Cast 1627 – Pennington
+ 5. 5th – Cast 1627 – Pennington
 Recast – 1751 – Bilbie
 Recast – 1934 – Mears & Stainbank
-6\. Tenor – Cast 1627 – Pennington
+ 6. Tenor – Cast 1627 – Pennington
 Recast – 1787 – Bilbie
 Recast – 1887 – Warner**
 
@@ -531,5 +531,6 @@ Memorial Museum, Exeter; and Rev. John Scott.
 
 By Margaret B. J. Enderson\
 © Margaret B. J. Enderson
+
 
 
