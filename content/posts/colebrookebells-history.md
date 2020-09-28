@@ -1,8 +1,10 @@
+
 ---
 title: "Colebrooke Church Bells History"
-date: 2020-09-27T16:28:44+01:00
+
 draft: false
 ---
+
 Colebrooke Church Bells History
 ===============================
 
@@ -163,8 +165,7 @@ foundry, Pennington’s, the Colebrooke churchwardens took the business to
 the Somerset establishment of Thomas Purdue.
 
 There seems to have been a certain amount of rivalry between the
-foundries of Pennington and Purdue. Thomas Purdue was based at Closworth
-in Somerset, where he was buried on his death at over 90 years of age.
+foundries of Pennington and Purdue. Thomas Purdue was based at Closworth in Somerset, where he was buried on his death at over 90 years of age.
 As luck would have it, he brought his equipment down to Exeter in 1676
 to do some major work on the Cathedral bells and while he was there, he
 undertook to do this work for Colebrooke. Purdue’s contract with the
@@ -348,17 +349,12 @@ Thee, the God of their salvation, through Jesus Christ our Lord. Amen”.
 The ringers who rang the six after their re-dedication are named as the
 following:-
 
-1\. W. T. Leamon. (Stationmaster Copplestone)
-
+**1\. W. T. Leamon. (Stationmaster Copplestone)
 2\. H. Ellis. (Thatcher Colebrooke)
-
 3\. J. Willcocks. (Farmer Coleford)
-
 4\. J. Ellis (Thatcher Coleford)
-
 5\. W. Leyman (Farmworker Colebrooke)
-
-6\. A. Gregory. (Shepherd Colebrooke)
+6\. A. Gregory. (Shepherd Colebrooke)**
 
 The names Leaman and Leyman we find often associated with Colebrooke
 Church at this time. Around 1881, James Leyman received regular payments
@@ -414,8 +410,9 @@ Reed was commissioned to come and view the tower, and he opined that the
 pinnacles, windows and pointing were all in a bad state. Mr. Jack Pope
 had hand-bills printed, and letters asking for help in the fund-raising
 were sent out all over the country – some even further afield – to
-anyone who had any connection with Colebrooke Church, however tenuous. A
-remarkable number of replies still survive, including several charming
+anyone who had any connection with Colebrooke Church, however tenuous. 
+
+A remarkable number of replies still survive, including several charming
 letters to Mr. Pope from John Sillifant, ( a cousin of the previously
 mentioned A O Sillifant) who had recently removed to Adelaide, South
 Australia. He promised £100 to the tower restoration fund, though his
@@ -433,7 +430,7 @@ for a contribution agreed to donate on condition that their name did not
 appear on the list of subscribers for fear of being asked for some kind
 of favour by other fund-raising committees.
 
-**The South Face of the tower. **
+**The South Face of the tower.** 
 
 The money was paid to Hr. Harbottle Reed in instalments, and the
 following year, the work was completed. The Western Times and the Devon
@@ -460,7 +457,7 @@ the bell chamber and a second set on the floor of the clock chamber. The
 chiming mechanism was to be overhauled and new cords and rubber
 handpieces fitted. The 2nd. and 5th. Belle were to be quarter-turned and
 all six were to be fitted with new steel gudgeons and re-hung on
-“totally enclosed se1f\~lubricating and self-aligning double row ball
+“totally enclosed self-lubricating and self-aligning double row ball
 bearings fitted with grease caps”.
 
 There is a plaque in the tower which states ” The six bells were re-hung
@@ -485,7 +482,7 @@ Cecil, Bishop of Exeter ( who, incidentally, died the following year.)
 By the time it was approved, the work had already been done and paid for
 by public subscription.
 
-**The crowded bell chamber showing the wheels of the front five bells. **
+**The crowded bell chamber showing the wheels of the front five bells.** 
 
 This is the latest time to date that major work has been done on
 Colebrooke bells. Despite their mixed pedigree. They still sound fine
@@ -496,7 +493,7 @@ years, as witnessed by the competition certificates displayed in the
 tower, with occasional periods in the doldrums, such as must have
 occurred when the tower was unsafe round about 1912-26.
 
-**The 5th Bell, recast in 1934. by Mears and Stainbank. **
+**The 5th Bell, recast in 1934 by Mears and Stainbank.**
 
 Currently, the bells are rung for Sunday services, and on regular
 practise nights, and the ringing tradition seems set to continue at
@@ -510,33 +507,20 @@ faithful to worship in the church on the hill at Colebrooke.
 
 **Some of the certificates won by Colebrooke ringers on display in the tower.**
 
-1\. Treble – Cast 1887 – Warner
-
+**1\. Treble – Cast 1887 – Warner
 2\. 2nd – Cast 1627 – Pennington
-
 Recast – 1664 – Pennington
-
 Recast – 1676 – Purdue
-
 Recast – 1934 – Mears & Stainbank
-
 3\. 3rd – Cast 1627 – Pennington
-
 Recast – 1854 – Pannell
-
 4\. 4th – Cast 1627 – Pennington
-
 5\. 5th – Cast 1627 – Pennington
-
 Recast – 1751 – Bilbie
-
 Recast – 1934 – Mears & Stainbank
-
 6\. Tenor – Cast 1627 – Pennington
-
 Recast – 1787 – Bilbie
-
-Recast – 1887 – Warner
+Recast – 1887 – Warner**
 
 Acknowledgements.
 
@@ -547,4 +531,5 @@ Memorial Museum, Exeter; and Rev. John Scott.
 
 By Margaret B. J. Enderson\
 © Margaret B. J. Enderson
+
 

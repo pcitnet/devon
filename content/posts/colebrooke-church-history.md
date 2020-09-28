@@ -4,8 +4,6 @@ title: "Colebrooke Church History"
 draft: false
 ---
 
-
-
 Colebrooke Church History
 =========================
 
@@ -39,7 +37,7 @@ inextricably linked with Colebrooke.
 
 June 2002.
 
-THE CHURCH AND PARISH OF ST. ANDREW, COLEBROOKE DEVON 
+THE CHURCH AND PARISH OF ST. ANDREW, COLEBROOKE DEVON 
 ======================================================
 
 It is nearly fifty years since the Rev. Isidore Daimpre, a former Vicar,
@@ -54,10 +52,10 @@ Funds.
 
 October 1952.
 
-St. Andrew’s Church Colebrooke 
+St. Andrew’s Church Colebrooke 
 ===============================
 
-THE DEDICATION 
+THE DEDICATION 
 ---------------
 
 In the past, books of reference have variously named St. Mary, St.
@@ -67,10 +65,10 @@ last-named, for on 8th June 1418, one Thomas Reymound left “XXs. for the
 fabric fund of the Church of St. Andrew at Colebrooke”, and the Church
 is known by this title nowadays.
 
-THE HISTORY OF THE BUILDING 
+THE HISTORY OF THE BUILDING 
 ----------------------------
 
-**First Stage: Twelfth Century **
+**First Stage: Twelfth Century** 
 
 The earliest known reference to the Church occurs in a letter written to
 King Henry II by Bartholomew, who was Bishop of Exeter 1162-84. In this,
@@ -99,7 +97,7 @@ So this early church probably followed the normal plan, being cruciform,
 with a narrow nave, a short chancel, transepts, aisles and probably a
 west tower.
 
-**Second Stage: c. 1320 **
+**Second Stage: c. 1320** 
 
 About a century later the building was in poor condition, for
 Visitations of 1281 and 1301 reported it as badly roofed, with a small
@@ -124,7 +122,7 @@ of five arches between them and the nave and chancel. To this period
 belong also the upper stages of the tower and the east window of the
 chancel.
 
-THE EXTERIOR OF THE BUILDING 
+THE EXTERIOR OF THE BUILDING 
 -----------------------------
 
 Outside the church, the visitor should notice in the south wall the
@@ -195,10 +193,10 @@ decided that all further repairs should be done in slate, and the roof
 is now wholly of that material. It was reslated by public subscription
 in 1985.
 
-THE INTERIOR OF THE BUILDING 
+THE INTERIOR OF THE BUILDING 
 -----------------------------
 
-### The Nave 
+### The Nave 
 
 On entering the Church by the south porch (noticing there the remains of
 a holy-water stoup in the right-hand wall by the door), we see the roof
@@ -217,7 +215,7 @@ Great Wotton, whose son was a benefactor to the parish. A tablet to
 members of the family is on the wall above. Near this seat is a
 \`squint’ through which the altar in the side chapel could be seen.
 
-### The South Transept 
+### The South Transept 
 
 The south transept, or Horwell aisle as it is called from the estate
 with which it now goes, was probably built by Sir Walter de Bathe, lord
@@ -247,7 +245,7 @@ stained glass window in the South Wall depicting “The Resurrection”, was
 a gift from Mrs. Frances Norrish of Horwell in memory of her husband
 Samuel who died in 1888.
 
-### The Chancel 
+### The Chancel 
 
 Leaving the transept, we notice on our right the modern pulpit presented
 in 1903 by Mrs. Frances G. Norrish. Opposite to it, on the north side,
@@ -333,7 +331,7 @@ inscriptions, including one Mary Pidsley (late of Great Wotton), who
 died in 1824 aged 65. She was probably the last person to be interred in
 the Church.
 
-### The Coplestone Aisle 
+### The Coplestone Aisle 
 
 Leaving the Chancel and passing through the parclose screen on the north
 side, we find ourselves in the Coplestone Chantry Chapel, or Aisle as it
@@ -370,7 +368,7 @@ Furzedowns and Beers, to Mr. Calmady Pollexfen Hamlyn who owned the
 Paschoe and Whelmstone estates and whose family was connected with the
 Coplestones by marriage.
 
-### The Screen 
+### The Screen 
 
 The most striking feature of this chantry, and perhaps of the whole
 church, is the very beautiful screen on its south and west sides. It is
@@ -403,7 +401,7 @@ Carved on the westernmost capital of the arcade is the head of an
 animal. It would be difficult to say what it represents. It is not the
 Coplestone crest, for that is a demi-leopard and not just a head.
 
-### The Font 
+### The Font 
 
 Nearby, in the nave, is the fifteenth-century font with the staple and
 hinge fastening of an early lid still to be seen. The notable cover,
@@ -431,35 +429,22 @@ done in 1934. A plaque in the Tower states “The six bells were rehung
 with ball bearings and the second and fifth bells recast in 1934 by
 Mears & Stainbank”.
 
-**Treble. Cast 1887. Warner. **
+**Treble. Cast 1887. Warner. 
+2nd. Cast 1627. Pennington. 
+Recast 1664. Pennington. 
+Recast 1676. Purdue. 
+Recast 1934. Mears and Stainbank. 
+3rd. Cast 1627. Pennington.
+Recast 1854. Pannell. 
+4th, Cast 1627. Pennington. 
+5th. Cast 1627. Pennington. 
+Recast 1751. Bilbie. 
+Recast 1934. Mears and Stainbank. 
+Tenor. Cast 1627. Pennington. 
+Recast 1787. Bilbie. 
+Recast 1887. Warner.** 
 
-**2nd. Cast 1627. Pennington. **
-
-**Recast 1664. Pennington. **
-
-**Recast 1676. Purdue. **
-
-**Recast 1934. Mears and Stainbank. **
-
-**3rd. Cast 1627. Pennington**.
-
-**Recast 1854. Pannell. **
-
-**4th, Cast 1627. Pennington. **
-
-**5th. Cast 1627. Pennington. **
-
-**Recast 1751. Bilbie. **
-
-**Recast 1934. Mears and Stainbank. **
-
-**Tenor. Cast 1627. Pennington. **
-
-**Recast 1787. Bilbie. **
-
-**Recast 1887. Warner. **
-
-### The Registers, etc. 
+### The Registers, etc. 
 
 The Registers date from 1558 and are complete to the present day, except
 for the period 1605-22, and for part of the Commonwealth Interregnum
@@ -535,107 +520,57 @@ security reasons.
 
 ### List Of Vicars
 
-**c.1170 Paganus **
-
-** William de Bisenam **
-
-**1280 Alanus **
-
-**1283 William de Churitone **
-
-**Before 1330 Sir Adam **
-
-**1334 Sir John de Nymet **
-
-**c. 1400 Andrew Hude **
-
-**1416 William Kelwa **
-
-** John Tregodynow **
-
-**1427 John Colmptone **
-
-**1441 Richard Stoyle **
-
-**1463 John Ewen **
-
-**1475 John Rogers **
-
-**1524 Roger Crugge **
-
-**1533 John Williams **
-
-**1546 John Moreman **
-
-**1554 Richard Martyn (deprived) **
-
-**1561 Henry Reddinge **
-
-**1573 John Chardon **
-
-**1578 Henry Eastebrooke, alias Shilston **
-
-**1604 Christoper Eaton **
-
-**c. 1644 Bartholomew Dickes } Intruded Ministers **
-
-**1653 William Crompton } Intruded Ministers **
-
-**1655 Richard Richards **
-
-**1662 Richard Richards subscribed 11th August **
-
-**1687 John Chilcot **
-
-**1723 Philip Sprey **
-
-**1724 Samuel Coker (deprived) **
-
-**1740 Thomas Michell **
-
-**1743 John Collins **
-
-**1745 John Elworthy **
-
-**1769 Peter Tucker, resigned c.1781 reinstated 1782 **
-
-**1803 William Short **
-
-**1805 Frederick Barnes, D.D. **
-
-**1807 William Hutchinson **
-
-**1816 Thomas Robyns **
-
-**1831 Arthur Grueber **
-
-**1848 Thomas Drosier **
-
-**1885 Isidore Daimpre. **
-
-**1923 Henry Cowper Pratt **
-
-**1945 Glyndwr Rogers **
-
-**1959 Arnold Pye **
-
-**1965 Ronald Baker **
-
-**1967 R.B.Smith **
-
-**1969 Brian Copus **
-
-**1974 Frank Chancellor **
-
-**1975 D.A.Davies (vicar of Bow) Plurality with Bow **
-
-**1978 Frank Atherton (Bow) **
-
-**1980 Bernard Gales (Bow) **
-
-**1994 John Hall (Bow). **
-
-**2004 Rev. Canon Michael Hall **
+**c.1170 Paganus 
+ William de Bisenam 
+1280 Alanus 
+1283 William de Churitone 
+Before 1330 Sir Adam 
+1334 Sir John de Nymet 
+c. 1400 Andrew Hude 
+1416 William Kelwa 
+ John Tregodynow 
+1427 John Colmptone 
+1441 Richard Stoyle 
+1463 John Ewen 
+1475 John Rogers 
+1524 Roger Crugge 
+1533 John Williams 
+1546 John Moreman 
+1554 Richard Martyn (deprived) 
+1561 Henry Reddinge 
+1573 John Chardon 
+1578 Henry Eastebrooke, alias Shilston 
+1604 Christoper Eaton 
+c. 1644 Bartholomew Dickes } Intruded Ministers 
+1653 William Crompton } Intruded Ministers 
+1655 Richard Richards 
+1662 Richard Richards subscribed 11th August 
+1687 John Chilcot 
+1723 Philip Sprey 
+1724 Samuel Coker (deprived) 
+1740 Thomas Michell 
+1743 John Collins 
+1745 John Elworthy 
+1769 Peter Tucker, resigned c.1781 reinstated 1782 
+1803 William Short 
+1805 Frederick Barnes, D.D. 
+1807 William Hutchinson 
+1816 Thomas Robyns 
+1831 Arthur Grueber 
+1848 Thomas Drosier 
+1885 Isidore Daimpre. 
+1923 Henry Cowper Pratt 
+1945 Glyndwr Rogers 
+1959 Arnold Pye
+1965 Ronald Baker 
+1967 R.B.Smith 
+1969 Brian Copus 
+1974 Frank Chancellor 
+1975 D.A.Davies (vicar of Bow) Plurality with Bow 
+1978 Frank Atherton (Bow) 
+1980 Bernard Gales (Bow) 
+1994 John Hall (Bow). 
+2004 Rev. Canon Michael Hall** 
 
 ### The Vicars
 
@@ -731,3 +666,4 @@ was found in the garden a small section of the shaft suggesting by its
 shape a date of the fifteenth century.\
 \
 By Neville P. Enderson © Neville P. Enderson
+
