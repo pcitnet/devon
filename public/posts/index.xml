@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on Colebrooke Parish</title>
     <link>/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on Colebrooke Parish</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Colebrooke Church Bells History</title>
       <link>/posts/colebrookebells-history/</link>
@@ -30,7 +34,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/posts/colebrooke-parish-hall-history/</guid>
-      <description>Colebrooke Parish Hall History {width=&amp;ldquo;6.25in&amp;rdquo; height=&amp;ldquo;4.75in&amp;rdquo;}
+      <description>Colebrooke Parish Hall History {width=&amp;quot;6.25in&amp;rdquo; height=&amp;quot;4.75in&amp;rdquo;}
 Photograph of the official opening of the Village Hall in 1960 by Miss Mary Pope with members of the Parish Council and Village Hall Committee Left to Right: Miss Mary Pope, Mrs. F. Lowndes, Mr. A.C. Thorne, Mrs. L. Olding, Mr. E. J. Mock, Mr. E. H. Pennington, Mr. F. W. Hockridge, Mr. D. N. Burrow, Mr. W. Hockridge, Mrs. J. Pope, Mrs. N. Drew, Master P.</description>
     </item>
     
