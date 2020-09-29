@@ -1,4 +1,34 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Colebrooke Parish"
-theme = "ananke"
+theme = "notrack"
+newContentEditor = "nvim"
+mainSections = ["blog"]
+# disqusShortname = "colebrooke"
+paginate = 4
+
+[params]
+  author = "John Enderson"
+  siteHeading = "Colebrooke Parish" # defaults to author
+  showBlogLatest = true
+  mainSections = ["blog"]
+  showTaxonomyLinks = false
+  nBlogLatest = 4 # number of blog post om the home page
+  blogLatestHeading = "Latest.."
+
+  [params.social]
+    github = "example"
+    linkedin = "example"
+    email = "example@example.com"
+    mastodon = "example"
+    medium = "example"
+    keybase = "example"
+
+[taxonomies]
+  year = "year"
+  month = "month"
+  tags = "tags"
+  categories = "categories"
+
+[permalinks]
+  blog = "/blog/:year/:month/:slug"
