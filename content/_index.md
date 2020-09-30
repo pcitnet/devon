@@ -10,8 +10,74 @@ menu:
 
 {{<image float="right" width="11em" frame="true" caption="Portrait of me by Michiel Jansz. van Mierevelt" src="img/hugo-portrait.jpg" >}}
 
-# Colebrooke Parish
+THE DEVONSHIRE NIGHTINGALES 
+============================
 
-Colebrooke is a parish and village, 2 miles south from Copplestone station and 1-mile north-west from Yeoford station, both on the North Devon branch of the Southern railway, and 4 miles west of Crediton, in the South Molton division of the county, hundred, petty sessional division and rural district of Crediton, county court district of Exeter, rural deanery of Cadbury, and archdeaconry and diocese of Exeter. The Southern railway lines to Barnstaple and Plymouth pass through the parish.
+Many people will be unaware of the fact that in Colebrooke cemetery lie
+two Colebrooke celebrities of international repute. The sisters Florence
+and Bertha Salter were farmers’ daughters born at Broomhill Farm in 1870
+and 1872. Florence and Bertha first performed in public in 1890, when
+they gave a concert at Crediton Town Hall which was a great success.
+Then, at the suggestion of Mr Jekyll of Exeter, who had given them
+singing lessons, they went to Brussels to study. They performed in
+Brussels in 1893 before Queen Marie Henriette of Belgium and her
+daughter Princess Clementine. The sisters also performed at Biarritz, in
+front of, amongst many other celebrities, King Oscar of Sweden. This
+concert resulted in glowing reports in the French press. One report
+said:
 
-The church of St. Andrew is a building of stone in the Perpendicular style, consisting of chancel, nave, north aisle, a lady chapel on the south side of the nave, south porch and an embattled western tower with pinnacles, containing a clock and 6 bells, dated respectively 1676, 1854, 1627, 1751, 1787 and 1887; the five original bells were re-hung and a sixth added in 1887 at the cost of the late A.O. Sillifant Esq. D.L., J.P. of Culm Leigh, Stoke Canon; in 1934 they were again rehung, two being recast: the tower was restored in 1926: the north aisle, dating from about the middle of the 15th century, was erected by John Copleston, and retains a handsome screen of oak, with pierced tracery and carved panels with the linen pattern: some of the ancient bench ends display the arms of Copleston and Gorges, supported by figures in chain armour: in the centre of the floor of the north aisle is a flat stone inscribed to John Copleston Esq. ob. 1455, and his wife, ob. June 9, 1457: in the lady chapel are two arched canopied recesses, a piscina and two hagioscopes, and in the chancel are mural tablets to the Sillifants, to Elizabeth, wife of Sir John Coryton bart ob. 1677 and to the Burringtons of West Sandford, 1666 and 1659, with a quant epitaph. There are modern memorials to the Hamlyns, a memorial window in the chancel to John Woolcombe Sillifant Esq. Of Coombe d. 1868, and one in the chapel to Samuel Norrish Esq. d. 1888: the reredos was presented in 1896 by Mrs F. S. Sillifant in memory of her husband: the font has a restored cover of the period before the 9th century: the carved oak pulpit was presented in 1904 by Mrs. Norrish as a memorial to her husband: there is a brass tablet to the memorial of 14 men of the parish who fell in the Great War, 1914-18: the modern sun-dial on the tower was the gift of Charles Turner:
+**“This concert surpassed anything we have had the chance of listening to
+before in Biarritz. The Misses Florence and Bertha Salter possess vocal
+organs of exceptional merit. The high and sweet soprano of Miss Florence
+Salter stood out in delightful contrast to her sister's perfect deep
+contralto notes, the two voices harmonising most charmingly. They sang
+with unceasing verve throughout and the audience was enchanted, and
+enthusiastic applause greeted them at the finish. These talented ladies
+sing with equal facility in several languages and their pronunciation is
+faultless. It was indeed a treat to hear this perfect style of singing,
+instead of the objectionable tremolo so much cultivated by the French
+school”**
+
+During the next 20 years, they travelled widely throughout Britain and
+became known as “The Devonshire Nightingales”. Occasionally they would
+visit the continent where they still retained their popularity. Neither
+sister married and in the 1901 census, they were living at Lower
+Porchester St, Hyde Park Square, Paddington. They were described as
+“classical vocalists”. By the 1911 census, they had moved to Elm Park
+Mansions, Park Walk, Chelsea. and were described as “professional
+vocalists”.
+
+The last record of a concert by the sisters appears to have been one
+given in aid of the military hospital at Colchester in September 1917.
+They continued to live in Chelsea until the 1930s when they moved back
+to Devon to live in Dawlish. Florence died there in 1942 and was brought
+back to be buried at Colebrooke with a request to be buried as near as
+possible to her parents, who were buried just to the northwest of the
+church in the old churchyard, on the site of the Old Bell Inn. Florence
+was buried in the cemetery by the hedge adjoining the church path.
+Bertha later moved away from Dawlish and at the time of her death in
+1959 was living at East Wyke, South Zeal, near Okehampton. She was also
+brought back to Colebrooke and, in line with her wishes, her grave lies
+as near as possible to her beloved sister. Both graves have identical
+granite kerbing surrounds with lead lettering as follows:
+
+**FLORENCE SALTER“Singer” born February 2^nd^ 1870 died October 6^th^
+1942**
+
+And on the foot
+
+**“Glory be to God on High”**
+
+**BERTHA SALTER“ Singer” born May 24^th^1872 died March 13^th^ 1959 **
+
+And on the foot
+
+**“And one clear call for me” **
+
+The inscription on the foot of Bertha’s grave is the second line from
+Alfred Lord Tennyson’s famous poem “Crossing the Bar”. This poem had
+been set to music by various composers including Sir Hubert Parry (of
+Jerusalem fame) who was a great admirer of the sisters. Programmes of
+the time reveal it was a favourite in Bertha's repertoire.
+
+© Neville Enderson
