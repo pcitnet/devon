@@ -61,18 +61,17 @@ brought back to Colebrooke and, in line with her wishes, her grave lies
 as near as possible to her beloved sister. Both graves have identical
 granite kerbing surrounds with lead lettering as follows:
 
-**FLORENCE SALTER“Singer” born February 2^nd^ 1870 died October 6^th^
-1942**
+**FLORENCE SALTER “Singer” born February 2nd 1870 died October 6th 1942**
 
 And on the foot
 
 **“Glory be to God on High”**
 
-**BERTHA SALTER“ Singer” born May 24^th^1872 died March 13^th^ 1959 **
+**BERTHA SALTER “Singer” born May 24th 1872 died March 13th 1959**
 
 And on the foot
 
-**“And one clear call for me” **
+**“And one clear call for me”**
 
 The inscription on the foot of Bertha’s grave is the second line from
 Alfred Lord Tennyson’s famous poem “Crossing the Bar”. This poem had
