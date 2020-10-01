@@ -1,7 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Colebrooke Parish"
-description = "Combining the villages of Colebrooke, Coleford & Penstone"
 theme = "notrack"
 newContentEditor = "nvim"
 mainSections = ["blog"]
@@ -9,9 +8,8 @@ mainSections = ["blog"]
 paginate = 4
 
 [params]
-  author = "John Enderson"
+  author = "Neville & John Enderson"
   siteHeading = "Colebrooke Parish" # defaults to author
-  sitedescription = "Combining the villages of Colebrooke, Coleford & Penstone"
   showBlogLatest = true
   mainSections = ["blog"]
   showTaxonomyLinks = false
