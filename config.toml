@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Colebrooke Parish"
 theme = "notrack"
-newContentEditor = "nvim"
+newContentEditor = "remarkable"
 mainSections = ["blog"]
 # disqusShortname = "colebrooke"
 paginate = 4
@@ -23,6 +23,7 @@ paginate = 4
     mastodon = "example"
     medium = "example"
     keybase = "example"
+    facebook = "colebrookeparish"
 
 [taxonomies]
   year = "year"
