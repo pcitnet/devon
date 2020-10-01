@@ -9,8 +9,8 @@ draft: false
 Colebrooke Parish Hall History
 ==============================
 
-![](media/image1.jpeg "1960s colebrooke village hall committee"){width="6.25in"
-height="4.75in"}
+{{<image float="right" width="11em" frame="true" caption="Miss
+Mary Pope with members of the Parish Council and Village Hall Committee" src="img/1960scommittee.jpg" >}}
 
 **Photograph of the official opening of the Village Hall in 1960 by Miss
 Mary Pope with members of the Parish Council and Village Hall Committee
