@@ -17,12 +17,7 @@ paginate = 4
   blogLatestHeading = "Latest.."
 
   [params.social]
-    github = "example"
-    linkedin = "example"
-    email = "example@example.com"
-    mastodon = "example"
-    medium = "example"
-    keybase = "example"
+    email = ""
     facebook = "colebrookeparish"
 
 [taxonomies]
