@@ -8,7 +8,7 @@ mainSections = ["blog"]
 paginate = 4
 
 [params]
-  author = "Neville & John Enderson"
+  author = "Neville Enderson, John Enderson"
   siteHeading = "Colebrooke Parish" # defaults to author
   showBlogLatest = true
   mainSections = ["blog"]
