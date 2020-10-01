@@ -16,7 +16,7 @@ THE DEVONSHIRE NIGHTINGALES
 Many people will be unaware of the fact that in Colebrooke cemetery lie
 two Colebrooke celebrities of international repute. The sisters Florence
 and Bertha Salter were farmers’ daughters born at Broomhill Farm in 1870
-and 1872. Florence and Bertha first performed in public in 1890, when
+and in 1872. Florence and Bertha first performed in public in 1890, when
 they gave a concert at Crediton Town Hall which was a great success.
 Then, at the suggestion of Mr Jekyll of Exeter, who had given them
 singing lessons, they went to Brussels to study. They performed in
@@ -46,7 +46,6 @@ Porchester St, Hyde Park Square, Paddington. They were described as
 “classical vocalists”. By the 1911 census, they had moved to Elm Park
 Mansions, Park Walk, Chelsea. and were described as “professional
 vocalists”.
-
 The last record of a concert by the sisters appears to have been one
 given in aid of the military hospital at Colchester in September 1917.
 They continued to live in Chelsea until the 1930s when they moved back
@@ -78,5 +77,12 @@ Alfred Lord Tennyson’s famous poem “Crossing the Bar”. This poem had
 been set to music by various composers including Sir Hubert Parry (of
 Jerusalem fame) who was a great admirer of the sisters. Programmes of
 the time reveal it was a favourite in Bertha's repertoire.
+
+{{<image float="right" width="11em" frame="true" caption="Painting of Florence Salter" src="img/florence-salter-painting-1890.jpg" >}}
+
+
+**Florence’s will revealed that she had left a painting of herself by Jean Ballantyne to Exeter University.**
+
+Until recently this painting, originally mistakenly identified as being of her sister Bertha, had resided at the university together with various ephemera relating to the sisters. It has now been correctly titled, restored and hangs in the Devon and Exeter Institution together with more information regarding the sisters. It was thought that the artist Jean Ballantyne may well have been John Ballantyne a leading 19C portrait painter, born in Kelso 1815 and died 1897, who for reasons unknown sometimes had his paintings listed under the name Jean Ballantyne. His last known paintings date from the 1880s by which time he had retired to Wiltshire in poor health and financial difficulties. He was supported by a small pension provided by his younger brother Robert. Robert was better known as R M Ballantyne the Victorian juvenile adventure story writer of “The Coral Island” and numerous other books.
 
 © Neville Enderson
