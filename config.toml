@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Colebrooke Parish"
+title = "Colebrooke Parish in Devon"
 theme = "notrack"
 newContentEditor = "remarkable"
 mainSections = ["blog"]
@@ -9,7 +9,7 @@ paginate = 4
 
 [params]
   author = "Neville Enderson, John Enderson"
-  siteHeading = "Colebrooke Parish" # defaults to author
+  siteHeading = "Colebrooke Parish in Devon" # defaults to author
   showBlogLatest = true
   mainSections = ["blog"]
   showTaxonomyLinks = false
