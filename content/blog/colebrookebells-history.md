@@ -1,8 +1,10 @@
 
 ---
 title: "Colebrooke Church Bells History"
-
+date: 2020-06-01T16:09:23+02:00
 draft: false
+tags: [colebrooke, bells]
+categories: [colebrooke]
 ---
 
 Colebrooke Church Bells History
@@ -406,7 +408,8 @@ An account was opened at the bank of Messrs. Fox, Fowler & Co. ( later
 Lloyds ) in Exeter. Only one transaction was recorded in the account: a
 deposit of eleven guineas. The account was closed in the same year,
 having accrued interest of 5s. 3d. The Exeter architect W. Harbottle
-Reed was commissioned to come and view the tower, and he opined that the
+Reed was commissioned to come and view the tower, and he opined that thetags: [latin, dolor, test-tag]
+categories: [lorem]
 pinnacles, windows and pointing were all in a bad state. Mr. Jack Pope
 had hand-bills printed, and letters asking for help in the fund-raising
 were sent out all over the country – some even further afield – to

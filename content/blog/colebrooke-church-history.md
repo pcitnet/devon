@@ -1,7 +1,9 @@
 ---
 title: "Colebrooke Church History"
-
+date: 2020-06-01T16:09:23+02:00
 draft: false
+tags: [colebrooke, history]
+categories: [colebrooke]
 ---
 
 Colebrooke Church History

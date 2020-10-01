@@ -1,6 +1,8 @@
 ---
 title: "Colebrooke Parish History"
-
+date: 2020-06-01T16:09:23+02:00
+tags: [colebrooke, parish, history]
+categories: [colebrooke]
 draft: false
 ---
 

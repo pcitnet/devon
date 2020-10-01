@@ -1,5 +1,9 @@
 ---
 title: "Coleford’s Pronunciation"
+date: 2020-06-01T16:09:23+02:00
+
+tags: [coleford,]
+categories: [coleford]
 
 draft: false
 ---
