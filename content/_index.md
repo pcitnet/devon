@@ -8,7 +8,7 @@ menu:
     weight: 1
 ---
 
-{{<image float="right" width="11em" frame="true" caption="Portrait of the Salter Sisters" src="img/salter-sisters01.jp2" >}}
+{{<image float="right" width="11em" frame="true" caption="Portrait of the Salter Sisters" src="img/salter-sisters01.jpg" >}}
 
 THE DEVONSHIRE NIGHTINGALES 
 ============================
