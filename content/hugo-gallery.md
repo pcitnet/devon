@@ -7,18 +7,17 @@ menu:
     weight: 200
 ---
 
-# What I look like
+# Some interesting Photos
 
-Here are some pictures of pictures or statues of me, all in the public domain by
-either age or by the use of Creative Commons CC0 licence.
+Here are some pictures..
 
-{{< gallery-category >}}
+<!-- {{< gallery-category >}}
     {{< gallery-photo fn="hugo1.jpg" caption="Clay figure of me" >}}
     {{< gallery-photo fn="hugo2.jpg" caption="Clay bust of me" >}}
     {{< gallery-photo fn="hugo4.jpg" caption="Portrait of me as an adult" >}}
     {{< gallery-photo fn="hugo5.jpg" caption="Portrait of me as a kid" >}}
     {{< gallery-photo fn="hugo3.jpg" caption="Portrait of me getting screwed over by the Orthodox Calvinists" >}}
-{{< /gallery-category >}}
+{{< /gallery-category >}}-->
 
 {{< gallery-modal >}}
 {{< gallery-script >}}
