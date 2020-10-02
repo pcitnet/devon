@@ -5,7 +5,7 @@ menu:
   main:
     name: "Blog"
     weight: 50
-    url: "blog"
+    url: "/blog"
 ---
 
 
