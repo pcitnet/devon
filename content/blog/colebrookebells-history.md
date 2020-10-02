@@ -351,12 +351,12 @@ Thee, the God of their salvation, through Jesus Christ our Lord. Amen”.
 The ringers who rang the six after their re-dedication are named as the
 following:-
 
-**1. W. T. Leamon. (Stationmaster Copplestone)**
-**2. H. Ellis. (Thatcher Colebrooke)**
-**3. J. Willcocks. (Farmer Coleford)**
-**4. J. Ellis (Thatcher Coleford)**
-**5. W. Leyman (Farmworker Colebrooke)**
-**6. A. Gregory. (Shepherd Colebrooke)**
+1. W. T. Leamon. (Stationmaster Copplestone)
+2. H. Ellis. (Thatcher Colebrooke)
+3. J. Willcocks. (Farmer Coleford)
+4. J. Ellis (Thatcher Coleford)
+5. W. Leyman (Farmworker Colebrooke)
+6. A. Gregory. (Shepherd Colebrooke)
 
 The names Leaman and Leyman we find often associated with Colebrooke
 Church at this time. Around 1881, James Leyman received regular payments
