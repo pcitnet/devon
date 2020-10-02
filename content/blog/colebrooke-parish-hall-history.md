@@ -6,8 +6,8 @@ categories: [colebrooke]
 draft: false
 ---
 
-Colebrooke Parish Hall History
-==============================
+##Colebrooke Parish Hall History
+
 
 {{<image float="right" width="11em" frame="true" caption="Miss Mary Pope with members of the Parish Council and Village Hall Committee" src="img/1960scommittee.jpg" >}}
 

@@ -7,8 +7,8 @@ tags: [colebrooke, bells]
 categories: [colebrooke]
 ---
 
-Colebrooke Church Bells History
-===============================
+##Colebrooke Church Bells History
+
 
 There have been bells ringing at Colebrooke for centuries, in common
 with many Devon churches. Even a parish church as small as Colebrooke
