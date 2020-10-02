@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "THE DEVONSHIRE NIGHTINGALES "
 date: 2020-06-01T16:16:24+02:00
 draft: false
 menu:
@@ -26,7 +26,7 @@ front of, amongst many other celebrities, King Oscar of Sweden. This
 concert resulted in glowing reports in the French press. One report
 said:
 
-**“This concert surpassed anything we have had the chance of listening to
+>*“This concert surpassed anything we have had the chance of listening to
 before in Biarritz. The Misses Florence and Bertha Salter possess vocal
 organs of exceptional merit. The high and sweet soprano of Miss Florence
 Salter stood out in delightful contrast to her sister's perfect deep
@@ -36,7 +36,8 @@ enthusiastic applause greeted them at the finish. These talented ladies
 sing with equal facility in several languages and their pronunciation is
 faultless. It was indeed a treat to hear this perfect style of singing,
 instead of the objectionable tremolo so much cultivated by the French
-school”**
+school”*
+
 
 During the next 20 years, they travelled widely throughout Britain and
 became known as “The Devonshire Nightingales”. Occasionally they would

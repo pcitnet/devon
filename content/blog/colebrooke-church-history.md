@@ -431,20 +431,28 @@ done in 1934. A plaque in the Tower states “The six bells were rehung
 with ball bearings and the second and fifth bells recast in 1934 by
 Mears & Stainbank”.
 
-**Treble. Cast 1887. Warner. 
-2nd. Cast 1627. Pennington. 
-Recast 1664. Pennington. 
-Recast 1676. Purdue. 
-Recast 1934. Mears and Stainbank. 
-3rd. Cast 1627. Pennington.
-Recast 1854. Pannell. 
-4th, Cast 1627. Pennington. 
-5th. Cast 1627. Pennington. 
-Recast 1751. Bilbie. 
-Recast 1934. Mears and Stainbank. 
-Tenor. Cast 1627. Pennington. 
-Recast 1787. Bilbie. 
-Recast 1887. Warner.** 
+**1. Treble. Cast 1887. Warner**
+
+**2. 2nd. Cast 1627. Pennington**
+>   **Recast 1664. Pennington**
+
+>   **Recast 1676. Purdue**
+
+>   **Recast 1934. Mears and Stainbank**
+
+**3. 3rd. Cast 1627. Pennington**
+>   **Recast 1854. Pannell.** 
+
+**4. 4th, Cast 1627. Pennington**
+
+**5. 5th. Cast 1627. Pennington**
+
+**6. Tenor. Cast 1627. Pennington**
+
+>   **Recast 1787. Bilbie** 
+
+>   **Recast 1887. Warner**
+
 
 ### The Registers, etc. 
 
@@ -522,57 +530,58 @@ security reasons.
 
 ### List Of Vicars
 
-**c.1170 Paganus 
- William de Bisenam 
-1280 Alanus 
-1283 William de Churitone 
-Before 1330 Sir Adam 
-1334 Sir John de Nymet 
-c. 1400 Andrew Hude 
-1416 William Kelwa 
- John Tregodynow 
-1427 John Colmptone 
-1441 Richard Stoyle 
-1463 John Ewen 
-1475 John Rogers 
-1524 Roger Crugge 
-1533 John Williams 
-1546 John Moreman 
-1554 Richard Martyn (deprived) 
-1561 Henry Reddinge 
-1573 John Chardon 
-1578 Henry Eastebrooke, alias Shilston 
-1604 Christoper Eaton 
-c. 1644 Bartholomew Dickes } Intruded Ministers 
-1653 William Crompton } Intruded Ministers 
-1655 Richard Richards 
-1662 Richard Richards subscribed 11th August 
-1687 John Chilcot 
-1723 Philip Sprey 
-1724 Samuel Coker (deprived) 
-1740 Thomas Michell 
-1743 John Collins 
-1745 John Elworthy 
-1769 Peter Tucker, resigned c.1781 reinstated 1782 
-1803 William Short 
-1805 Frederick Barnes, D.D. 
-1807 William Hutchinson 
-1816 Thomas Robyns 
-1831 Arthur Grueber 
-1848 Thomas Drosier 
-1885 Isidore Daimpre. 
-1923 Henry Cowper Pratt 
-1945 Glyndwr Rogers 
-1959 Arnold Pye
-1965 Ronald Baker 
-1967 R.B.Smith 
-1969 Brian Copus 
-1974 Frank Chancellor 
-1975 D.A.Davies (vicar of Bow) Plurality with Bow 
-1978 Frank Atherton (Bow) 
-1980 Bernard Gales (Bow) 
-1994 John Hall (Bow). 
-2004 Rev. Canon Michael Hall** 
+1.  c.1170 Paganus 
+ 2. William  de Bisenam 
+3. 1280 Alanus 
+4. 1283 William de Churitone 
+5. Before 1330 Sir Adam 
+6. 1334 Sir John de Nymet 
+7. c. 1400 Andrew Hude 
+8. 1416 William Kelwa 
+ 9. John Tregodynow 
+10. 1427 John Colmptone 
+11. 1441 Richard Stoyle 
+12. 1463 John Ewen 
+13. 1475 John Rogers 
+14. 1524 Roger Crugge 
+15. 1533 John Williams 
+16. 1546 John Moreman 
+17. 1554 Richard Martyn (deprived) 
+18. 1561 Henry Reddinge 
+19. 1573 John Chardon 
+20. 1578 Henry Eastebrooke, alias Shilston 
+21. 1604 Christoper Eaton 
+22. c. 1644 Bartholomew Dickes } Intruded Ministers 
+23. 1653 William Crompton } Intruded Ministers 
+24. 1655 Richard Richards 
+25. 1662 Richard Richards subscribed 11th August 
+26. 1687 John Chilcot 
+27. 1723 Philip Sprey 
+28. 1724 Samuel Coker (deprived) 
+29. 1740 Thomas Michell 
+30. 1743 John Collins 
+31. 1745 John Elworthy 
+32. 1769 Peter Tucker, resigned c.1781 reinstated 1782 
+33. 1803 William Short 
+34. 1805 Frederick Barnes, D.D. 
+35. 1807 William Hutchinson 
+36. 1816 Thomas Robyns 
+37. 1831 Arthur Grueber 
+38. 1848 Thomas Drosier 
+39. 1885 Isidore Daimpre. 
+40. 1923 Henry Cowper Pratt 
+41. 1945 Glyndwr Rogers 
+42. 1959 Arnold Pye
+43. 1965 Ronald Baker 
+44. 1967 R.B.Smith 
+45. 1969 Brian Copus 
+46. 1974 Frank Chancellor 
+47. 1975 D.A.Davies (vicar of Bow) Plurality with Bow 
+48. 1978 Frank Atherton (Bow) 
+49. 1980 Bernard Gales (Bow) 
+50. 1994 John Hall (Bow). 
+51. 2004 Rev. Canon Michael Hall
+52. Rev Lindsey Starrs
 
 ### The Vicars
 
