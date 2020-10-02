@@ -10,6 +10,7 @@ paginate = 4
 [params]
   author = "Neville Enderson, John Enderson"
   siteHeading = "Colebrooke Parish in Devon" # defaults to author
+  Description = "Colebrooke Parish - bringing the villages of Colebrooke, Coleford & Penstone together"
   showBlogLatest = true
   mainSections = ["blog"]
   showTaxonomyLinks = false
