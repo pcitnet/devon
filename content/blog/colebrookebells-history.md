@@ -351,12 +351,12 @@ Thee, the God of their salvation, through Jesus Christ our Lord. Amen”.
 The ringers who rang the six after their re-dedication are named as the
 following:-
 
-**1\. W. T. Leamon. (Stationmaster Copplestone)
-2\. H. Ellis. (Thatcher Colebrooke)
-3\. J. Willcocks. (Farmer Coleford)
-4\. J. Ellis (Thatcher Coleford)
-5\. W. Leyman (Farmworker Colebrooke)
-6\. A. Gregory. (Shepherd Colebrooke)**
+**1. W. T. Leamon. (Stationmaster Copplestone)**
+**2. H. Ellis. (Thatcher Colebrooke)**
+**3. J. Willcocks. (Farmer Coleford)**
+**4. J. Ellis (Thatcher Coleford)**
+**5. W. Leyman (Farmworker Colebrooke)**
+**6. A. Gregory. (Shepherd Colebrooke)**
 
 The names Leaman and Leyman we find often associated with Colebrooke
 Church at this time. Around 1881, James Leyman received regular payments
@@ -510,20 +510,27 @@ faithful to worship in the church on the hill at Colebrooke.
 
 **Some of the certificates won by Colebrooke ringers on display in the tower.**
 
- **1. Treble – Cast 1887 – Warner
- 2.  2nd – Cast 1627 – Pennington
-Recast – 1664 – Pennington
-Recast – 1676 – Purdue
-Recast – 1934 – Mears & Stainbank
- 3. 3rd – Cast 1627 – Pennington
-Recast – 1854 – Pannell
- 4. 4th – Cast 1627 – Pennington
- 5. 5th – Cast 1627 – Pennington
-Recast – 1751 – Bilbie
-Recast – 1934 – Mears & Stainbank
- 6. Tenor – Cast 1627 – Pennington
-Recast – 1787 – Bilbie
-Recast – 1887 – Warner**
+ **1. Treble. Cast 1887. Warner**
+
+**2. 2nd. Cast 1627. Pennington**
+>   **Recast 1664. Pennington**
+
+>   **Recast 1676. Purdue**
+
+>   **Recast 1934. Mears and Stainbank**
+
+**3. 3rd. Cast 1627. Pennington**
+>   **Recast 1854. Pannell.** 
+
+**4. 4th, Cast 1627. Pennington**
+
+**5. 5th. Cast 1627. Pennington**
+
+**6. Tenor. Cast 1627. Pennington**
+
+>   **Recast 1787. Bilbie** 
+
+>   **Recast 1887. Warner**
 
 Acknowledgements.
 
