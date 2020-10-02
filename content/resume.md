@@ -9,14 +9,14 @@ menu:
 ---
 ### Tales of Colebrooke Parish by Mabel Lee, Jack Price, Ernest Harris & Georgina Pitts - Music by Neville Enderson
 
-{{< audio src="http://www.coleforddevon.co.uk/colebrooke.mp3" class="Tales of Colebrooke Parish " >}}
+{{< audio src="https://www.coleforddevon.co.uk/colebrooke.mp3" class="Tales of Colebrooke Parish " >}}
 
 Recorded by Mary Stephenson & Carole Herbert
 © Mary Stephenson & Carole Herbert
 
 ### Tales of Coleford by Neville Enderson
 
-{{< audio src="http://www.coleforddevon.co.uk/tales-of-coleford.mp3" class="Tales of Coleford by Neville Enderson" >}}
+{{< audio src="https://www.coleforddevon.co.uk/tales-of-coleford.mp3" class="Tales of Coleford by Neville Enderson" >}}
 
 Recorded by Mary Stephenson & Carole Herbert
 © Mary Stephenson & Carole Herbert
