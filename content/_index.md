@@ -79,10 +79,10 @@ been set to music by various composers including Sir Hubert Parry (of
 Jerusalem fame) who was a great admirer of the sisters. Programmes of
 the time reveal it was a favourite in Bertha's repertoire.
 
-{{<image float="right" width="11em" frame="true" caption="Painting of Florence Salter" src="img/florence-salter-painting-1890.jpg" >}}
+{{<image float="right" width="11em" frame="true" caption="Painting of Florence Salter by Jean Ballantyne" src="img/florence-salter-painting-1890.jpg" >}}
 
 
-Florence’s will revealed that she had left **a painting of herself by Jean Ballantyne to Exeter University.**
+Florence’s will revealed that she had left a painting of herself by Jean Ballantyne to Exeter University.
 
 Until recently this painting, originally mistakenly identified as being of her sister Bertha, had resided at the university together with various ephemera relating to the sisters. It has now been correctly titled, restored and hangs in the Devon and Exeter Institution together with more information regarding the sisters. It was thought that the artist Jean Ballantyne may well have been John Ballantyne a leading 19C portrait painter, born in Kelso 1815 and died 1897, who for reasons unknown sometimes had his paintings listed under the name Jean Ballantyne. His last known paintings date from the 1880s by which time he had retired to Wiltshire in poor health and financial difficulties. He was supported by a small pension provided by his younger brother Robert. Robert was better known as R M Ballantyne the Victorian juvenile adventure story writer of “The Coral Island” and numerous other books.
 
