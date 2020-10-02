@@ -7,7 +7,7 @@ tags: [colebrooke, bells]
 categories: [colebrooke]
 ---
 
-##Colebrooke Church Bells History
+## Colebrooke Church Bells History
 
 
 There have been bells ringing at Colebrooke for centuries, in common

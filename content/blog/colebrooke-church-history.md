@@ -6,7 +6,7 @@ tags: [colebrooke, history]
 categories: [colebrooke]
 ---
 
-##Colebrooke Church History
+## Colebrooke Church History
 
 Introduction.
 =============
