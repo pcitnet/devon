@@ -7,7 +7,7 @@ menu:
     weight: 200
 ---
 
-# Some interesting Photos
+## Some interesting Photos
 
 Here are some pictures..
 

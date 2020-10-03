@@ -6,8 +6,8 @@ categories: [colebrooke]
 draft: false
 ---
 
-Colebrooke Parish History
-=========================
+## Colebrooke Parish History
+
 
 Colebrooke Parish
 -----------------
