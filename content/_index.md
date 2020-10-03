@@ -73,6 +73,7 @@ And on the foot
 
 **“And one clear call for me”**
 
+
 The inscription on the foot of Bertha’s grave is the second line from
 Alfred Lord Tennyson’s famous poem “Crossing the Bar”. This poem had
 been set to music by various composers including Sir Hubert Parry (of
@@ -84,6 +85,10 @@ the time reveal it was a favourite in Bertha's repertoire.
 
 Florence’s will revealed that she had left a painting of herself by Jean Ballantyne to Exeter University.
 
-Until recently this painting, originally mistakenly identified as being of her sister Bertha, had resided at the university together with various ephemera relating to the sisters. It has now been correctly titled, restored and hangs in the Devon and Exeter Institution together with more information regarding the sisters. It was thought that the artist Jean Ballantyne may well have been John Ballantyne a leading 19C portrait painter, born in Kelso 1815 and died 1897, who for reasons unknown sometimes had his paintings listed under the name Jean Ballantyne. His last known paintings date from the 1880s by which time he had retired to Wiltshire in poor health and financial difficulties. He was supported by a small pension provided by his younger brother Robert. Robert was better known as R M Ballantyne the Victorian juvenile adventure story writer of “The Coral Island” and numerous other books.
+Until recently this painting, originally mistakenly identified as being of her sister Bertha, had resided at the university together with various ephemera relating to the sisters. It has now been correctly titled, restored and hangs in the Devon and Exeter Institution together with more information regarding the sisters. It was thought that the artist Jean Ballantyne may well have been John Ballantyne a leading 19th Century portrait painter, born in Kelso 1815 and died 1897, who for reasons unknown sometimes had his paintings listed under the name Jean Ballantyne. His last known paintings date from the 1880s by which time he had retired to Wiltshire in poor health and financial difficulties. He was supported by a small pension provided by his younger brother Robert. Robert was better known as R M Ballantyne the Victorian juvenile adventure story writer of “The Coral Island” and numerous other books. It has recently been established that the portrait was in fact painted by Jean Ballantyne, the daughter of R M Ballantyne and a close neighbour of the sisters when they lived in London. She’d also had a painting of her younger sister Isobel Ballantyne exhibited at the Royal Scottish Academy in 1903. 
+{{<image float="right" width="11em" frame="true" caption="Bertha Salter" src="img/bertha-salter.jpg" >}}
+
+Isobel had singing lessons from Bertha and would sometimes perform with the sisters under the name Belle Ballantyne until nasal problems forced her to give up her musical career.
+
 
 © Neville Enderson
