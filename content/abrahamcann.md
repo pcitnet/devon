@@ -9,7 +9,7 @@ menu:
 ---
 {{<image float="right" width="11em" frame="true" caption="Abraham Cann 1848" src="img/abrahamcann1848.jpg" >}}
 
-Abraham was baptised privately at home a few days old at Snells Farm (Duck Street) Colebrooke December 4th 1794. Around 1800 the Cann family moved to Eastcoombehead Farm, Colebrooke, a more massive farm. Rene Stoneman of the Stoneman family who farmed Great Heale ( which adjoins Eastcoombehead) whose mother was Abraham's niece used to describe a route which Abraham would use to get to Colebrooke in his youth. It involved vaulting gates and running across the fields of Great Heale and Great Wotton to keep fit.
+Abraham was baptised privately at home a few days old at Snells Farm (Duck Street) Colebrooke December 4th 1794. Around 1800 the Cann family moved to Eastcoombehead Farm, Colebrooke, a bigger farm. Rene Stoneman of the Stoneman family who farmed Great Heale (which adjoins Eastcoombehead) whose mother was Abraham's niece used to describe a route which Abraham would use to get to Colebrooke in his youth. It involved vaulting gates and running across the fields of Great Heale and Great Wotton to keep fit.
 
 As the youngest member of a family whose chief hobby would appear to have been wrestling, young Abraham would have been continuously matching his skills against his elders. By the time he reached his early twenties, he was recognised as being the best wrestler in Devon. He was also according to reports of the time, "a good looking and most sporting contestant".
 
