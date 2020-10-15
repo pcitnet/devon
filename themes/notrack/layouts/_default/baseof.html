@@ -3,7 +3,7 @@
     {{- partial "head.html" . -}}
     <body>
         {{- partial "header.html" . -}}
-        <div id="content">
+        <div id="content" onmousedown='return false;' onselectstart='return false;'>
         {{- block "main" . }}{{- end }}
         </div>
     </body>
