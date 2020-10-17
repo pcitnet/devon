@@ -24,3 +24,5 @@ At a vestry meeting, the beginning of February 1842, plans and specifications fo
 **When the Tithe Map appeared in 1845 the bridge had been completed.**
 
 So the “Ford over the Cole” ceased to exist. At certain times of the year when silt has been washed away, and weed has disappeared the large flat edging stones of the old ford can still be seen beneath the lower side of the bridge. Also until recent years some of the stumps of the timbers which had supported a footbridge could still be seen in the stream near the end wall of Riverside cottage. This was also washed away at that time.
+
+© Neville Enderson
