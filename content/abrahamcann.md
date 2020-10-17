@@ -23,6 +23,7 @@ This was scheduled to be Abraham Cann's last wrestling match took place on Tuesd
 Spectators left the field that day believing they had witnessed the last fight of a grand champion. However just over 12 months later, on August 10th 1842 Abraham was persuaded to return to the same ring to wrestle with the same opponent. This was a special event to be held as part of a wrestling tournament at the St Thomas field Exeter. Onlookers said that Abraham appeared in much better condition than when his shoulder was damaged the previous year.
 
 {{<image float="right" width="11em" frame="true" caption="Abraham Cann's Headstone at Colebrooke" src="img/cannheadstone.jpg" >}}
+
 After a lengthy contest, Abraham defeated his much younger opponent. His jubilant supporters carried him around the field on their shoulders.
 There are no reports of Abraham ever contesting another fight. 
 He continued to live and work on the family farm at Colebrooke but accepted numerous invitations to attend wrestling matches as a guest referee or a "trier" (similar to a second in boxing,) in tournaments all over the country. 
