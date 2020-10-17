@@ -1,8 +1,11 @@
 
 <head>
     <title>{{ .Site.Title }} {{ with .Title }}- {{ . }} {{ end }}</title>
+    <link rel="preload" type="text/css" as="style" href="{{ "css/fonts.css" | absURL }}">
     <link rel="stylesheet" type="text/css" href="{{ "css/fonts.css" | absURL }}">
+    <link rel="preload" type="text/css" as="style" href="{{ "css/fontawesome.css" | absURL }}">
     <link rel="stylesheet" type="text/css" href="{{ "css/fontawesome.css" | absURL }}">
+    <link rel="preload" type="text/css" as="style" href="{{ "css/styles.css" | absURL }}">
     <link rel="stylesheet" type="text/css" href="{{ "css/styles.css" | absURL }}">
     {{ with resources.Get "css/userstyles.css" }}
     <link rel="stylesheet" type="text/css" href="{{ .Permalink }}">
