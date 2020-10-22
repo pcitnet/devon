@@ -675,5 +675,5 @@ drive gate, there is the base of an old cross, and some years ago there
 was found in the garden a small section of the shaft suggesting by its
 shape a date of the fifteenth century.\
 \
-By Neville P. Enderson © Neville P. Enderson
+By Rev. Vyvyan Hope & Neville P. Enderson © Rev. Vyvyan Hope & Neville P. Enderson
 
