@@ -6,8 +6,10 @@ Categories: [coleford]
 draft: false
 ---
 
-{{<image float="right" width="11em" frame="true" caption="Cob Making In Devon" src="img/cobmaking.jpg" >}}
+
 ### Cob Building  
+
+{{<image float="right" width="11em" frame="true" caption="Cicely Fox Smith" src="img/author-Cicely-Fox-Smith.jpg" >}}
 
 >OLD cob wall\
 Have falled at last;\
@@ -29,6 +31,8 @@ And frost and snaw\
 Have all combined\
 To lay en law.
 
+{{<image float="right" width="11em" frame="true" caption="Cob Making In Devon" src="img/cobmaking.jpg" >}}
+
 >Us propped en up\
 With stones and 'ood,\
 Us done our best,\
@@ -48,6 +52,7 @@ Us'll build another\
 He was afore,\
 'Cos no one builds\
 Cob walls no more.
+
 
 (Poem above by Cicely Fox Smith)
 

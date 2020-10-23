@@ -8,9 +8,9 @@ Categories: [colebrooke]
 
 ### James Stone 1798 – 1841
 
-***Farmer and one time wrestler***
+***Farmer and one time wrestler (My great great grandfather)***
 
-***(My great great grandfather)***
+
 
 
 **JAMES STONE**  was born at Knowle Farm, Crediton, Devon and baptised at Crediton on the March 28th 1798, the second son of **JAMES STONE** and **ELIZABETH** nee **FRANCIS**. He died July 28th 1841 near Sydney, New South Wales, Australia. He married **ANN GIBBINGS** on the November 1st 1828 at Coldridge, Crediton, Devon. She was the eldest daughter of **RICHARD GIBBINGS** and **DOROTHY** nee **LUXTON**. She was born at Chilverton Farm, Coldridge and baptised at Coldridge 23rd September 1800. She died July 9th 1874 at Chilverton Farm, Coldridge, Devon as a result of injuries sustained after falling from a carriage.
@@ -62,7 +62,9 @@ Unfortunately, this event was never to take place. Late in 1841, Ann received a 
 
 **From The Sydney Gazette Tuesday, April 14th 1842, this brief notice.**
 
->*The execution took place on Tuesday, April 5th of the wretched man Thomas Homer. He had been convicted at the Maitland Assizes before His Honour Mr Justice Burton of the murder of Mr James Stone and paid the penalty of his crime at Newcastle Gaol. The unhappy criminal fully confessed his guilt, previous to his execution. Because of the distance involved probate of James's will was not obtained until 1853*
+>*The execution took place on Tuesday, April 5th of the wretched man Thomas Homer. He had been convicted at the Maitland Assizes before His Honour Mr Justice Burton of the murder of Mr James Stone and paid the penalty of his crime at Newcastle Gaol. The unhappy criminal fully confessed his guilt, previous to his execution.* 
+
+Because of the distance involved probate of James's will was not obtained until 1853.
 
 Meanwhile, after receiving the news of James's death, Ann returned to Hooke Farm and continued farming there until the marriage of her eldest son James in 1861 to local farmers daughter Charity Ann Stoneman. The young couple then began to farm Hooke, and Ann returned "home" to Lower Chilverton Farm, Coldridge, where she acted as housekeeper for her two unmarried brothers Richard and Samuel Gibbings.
 
