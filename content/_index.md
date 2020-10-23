@@ -11,11 +11,11 @@ menu:
 
 
 
-### Colebrooke Parish
+# Colebrooke Parish
 -----------------
 
 
-#### The Manor
+## The Manor
 
 Bishop BARTHOLOMEW, in his letter to King Henry II, c. 1170, claimed that “the town of Colebrooke has always from the beginning been, and still is, a part of the Manor of Crediton which belongs to the Church of Exeter and the Episcopal See”. Thus when the Domesday Survey was made in 1086, the manor lands were included in the Crediton totals without being named. (Where the name `Colebroca’ does occur in Domesday, it refers to one of the other two Colebrookes in the county, or to Holbrook near Clyst Honiton.) The connection with Crediton remained unaltered for several centuries, for, when John Mills died in 1635, be was “seised of the Manor of Colebrooke held of Sir William Killigrewe Knight, as of the Manor of Crediton by knight service”.
 
