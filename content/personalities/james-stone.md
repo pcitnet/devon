@@ -70,3 +70,6 @@ Ann died from a fracture of the skull after being accidentally thrown from a car
 
 _**"Ann Stone sister of the above who died July 9th 1874, aged 74 years."**
 
+By Neville P. Enderson\
+© Neville P. Enderson
+
