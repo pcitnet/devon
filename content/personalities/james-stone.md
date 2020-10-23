@@ -8,10 +8,7 @@ Categories: [colebrooke]
 
 ### James Stone 1798 – 1841
 
-***Farmer and one time wrestler (My great great grandfather)***
-
-
-
+**Farmer and one time wrestler (My great great grandfather)**
 
 **JAMES STONE**  was born at Knowle Farm, Crediton, Devon and baptised at Crediton on the March 28th 1798, the second son of **JAMES STONE** and **ELIZABETH** nee **FRANCIS**. He died July 28th 1841 near Sydney, New South Wales, Australia. He married **ANN GIBBINGS** on the November 1st 1828 at Coldridge, Crediton, Devon. She was the eldest daughter of **RICHARD GIBBINGS** and **DOROTHY** nee **LUXTON**. She was born at Chilverton Farm, Coldridge and baptised at Coldridge 23rd September 1800. She died July 9th 1874 at Chilverton Farm, Coldridge, Devon as a result of injuries sustained after falling from a carriage.
 
