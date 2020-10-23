@@ -2,10 +2,7 @@
 title: "Abraham Cann - Colebrooke's Champion "
 date: 2020-06-01T16:16:24+02:00
 draft: false
-menu:
-  main:
-    name: "Champion"
-    weight: 2
+Categories: [colebrooke]
 ---
 {{<image float="right" width="11em" frame="true" caption="Abraham Cann 1848" src="img/abrahamcann1848.jpg" >}}
 
