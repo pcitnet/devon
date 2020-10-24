@@ -12,7 +12,7 @@ draft: false
 ---
 
 ### Coleford Police Station
-Following the recent article in the Bell concerning the injuries received by a constable at the hands of railway navvies, people have asked if Coleford ever had a regular police constable.
+
 Before being moved to Copplestone during the 1920s, Coleford had its constable for over 60 years.
 
 Initially, when the Devon Constabulary underwent a significant overhaul in 1856, a guideline was introduced whereby a constable would be provided to look after an area based on acreage and population. This resulted in most parishes gaining the services of a constable. Jesse Snell, a shoemaker from Kilmington, was Colebrooke’s first PC and c1860 was living at Colebrooke with his family.
