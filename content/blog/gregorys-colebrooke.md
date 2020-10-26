@@ -8,6 +8,8 @@ draft: false
 
 # The Gregorys of Colebrooke (and beyond) 
 
+{{<image float="right" width="11em" frame="true" caption="Brownsland/Broomsland Home of The Gregorys in 1860" src="img/brownsland.jpg" >}}
+
 Brownsland Colebrooke was formerly a  farm of about 70 acres lying below what is now Sheppark Farm. The name Sheppark referred to the field Sheep Park which used to stretch from Brownsland farmhouse down to the railway line with other smaller fields, no longer in existence, surrounding the farmstead. (Early records referred to the farm as Brownsland but from the Colebrooke estate sale of 1919 it became known as Broomsland. However, census returns for the 1950s when it was last habited still showed it as Brownsland)
 
 The remnants of Brownsland can be seen from the corner below Brocks Cross on the road to Horwell, lying in splendid isolation in the middle of a large field. It was originally accessed by a track beside what is now Redhill Thatch. It ceased to be a separate farm in the mid 19th century and was made part of Youngs Farm. Brownsland farmhouse became the shepherds cottage. It was at Brownsland in 1859  Mariann Gregory wife of Andrew,  farmer James Wreford's shepherd gave birth to Andrew the second of their nine children. Their youngest sons twins William and Robert born 1872 joined the marines at Plymouth in 1893, and both served in the Boer War and WW1 with distinction. After WW1 William farmed West Studham farm and was the local representative of the newly formed British Legion, when he moved away in the 1930s, it broke the link with Colebrooke of the Gregory family who had been resident here since the early 1700s.
