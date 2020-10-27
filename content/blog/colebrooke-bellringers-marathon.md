@@ -30,7 +30,7 @@ The ringers involved were:
 
 5.  Chris Parker
 
-6.  John Rodd (Tenor Bell)
+6.  John Rodd (Tenor bell)
 
 The peal callers were Jim King & Eric Abrahams (not pictured).
 
