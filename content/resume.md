@@ -7,7 +7,7 @@ menu:
     name: "Resume"
     weight: 5
 ---
-### Tales of Colebrooke Parish by Mabel Lee, Jack Price, Ernest Harris & Georgina Pitts - Music by Neville Enderson
+### Tales of Colebrooke Parish by Mabel Lee, Jack Price, Ernest Harris & Georgina Pitts - Music by Neville Enderson esq.
 
 {{< audio src="https://www.coleforddevon.co.uk/colebrooke.mp3" class="Tales of Colebrooke Parish " >}}
 
