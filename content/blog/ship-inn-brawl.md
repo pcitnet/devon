@@ -3,7 +3,7 @@ title: 'Ship Inn Brawl'
 date: 2022-03-08T15:13:55Z
 Tags: [coleford, ship inn, brawl]
 Categories: [coleford]
-draft: true
+draft: false
 ---
 
 ## SHIP INN - COLEFORD PUBLIC HOUSE BRAWL
