@@ -1,0 +1,13 @@
+---
+title: 'Old Houses of Colebrooke'
+date: 2022-03-09T15:47:25Z
+Tags: [vicarage, colebrooke]
+Categories: [colebrooke]
+draft: false
+---
+
+Several houses in Colebrooke have vanished almost without trace. Others were burnt down, but like the Phoenix arose again. Another group fell into disrepair but were rebuilt. Here is one of the latter. THE OLD VICARAGE, the present building, dates from 1912 and replaced a much older vicarage of which parts were estimated to have dated from the 14th century. A rather quaint description of the old house in 1821 describes it thus A Terrier of the Glebe House and Lands of the Parish of Colebrooke Taken May 18th 1821 The dwelling house contains two parlours, one vestibule and passage and a kitchen on the ground floor. There are five chambers and a closet above, a brewhouse with a cellar, a dairy with a cheese room above, a stable with loft above, one barn, a linhay and woodhouse and a coal house. There are two tiny houses or offices, one poultry house and two other sheds. The whole is thatched, except the roof on the back entrance, which is tiled. In 1885 the Rev Isidore Daimpre became the incumbent, and the dilapidated condition of the old house was given as one of the reasons for his bankruptcy in 1889, which forced him to leave the parish for a while. In 1897 with his debts cleared, Rev Daimpre returned to Colebrooke and over the next ten years exerted pressure to have a new vicarage built. 
+
+In June 1908, The Ecclesiastical Commissioners announced in the London Gazette they had approved a grant of £1000 towards building a new vicarage at Colebrooke. In June 1909, a further grant of £500 was made. The demolition of the old vicarage was due to begin in June 1912. But it was delayed because members of The Antiquarian Society pronounced it to be probably one of the finest examples of a 14thC house in England after carrying out a survey. Messrs H Spiller of Taunton finally began work on July 25th 1912. On Sunday, August 4th, after service of Evensong at 3 pm and with the church bells ringing, the choir in their surplices which included my father as a young lad led a large congregation down to the site of the new vicarage. Here the laying of the foundation stone of the new building was carried out by Mr Charles Calmady Hamlyn of Paschoe. He laid the mortar with a suitably inscribed silver trowel and tapped the stone in place with a mallet fashioned from one of the oak beams of the old building. The new vicarage was designed by Mr E H Harbottle and Son of Exeter.
+
+© Neville P. Enderson
