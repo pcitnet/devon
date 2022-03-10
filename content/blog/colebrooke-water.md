@@ -26,3 +26,5 @@ The newly-elected Labour government’s post-war council house building programm
 
 It was some four or five years later that NDWB eventually got mains water to Colebrooke. This enabled two more houses and four bungalows to be built at Bellingsgate. Kitchen Spring still gurgles happily away, although in recent years, with careful excavation, it has become an attractive feature as a pond.
 
+© Neville Enderson
+
