@@ -1,6 +1,6 @@
 baseURL = "https://www.colebrooke.org/"
 languageCode = "en-us"
-title = "Colebrooke Parish Devon"
+title = "Village of Colebrooke, Devon - Welcome to Our Community"
 theme = "notrack"
 newContentEditor = "remarkable"
 mainSections = ["blog"]
@@ -9,8 +9,9 @@ paginate = 4
 
 [params]
   author = "Neville Enderson, John Enderson"
-  siteHeading = "Colebrooke Parish Devon" # defaults to author
-  Description = "Colebrooke Parish - bringing the villages of Colebrooke, Coleford & Penstone together"
+  siteHeading = "Village of Colebrooke, Devon - Welcome to Our Community" # defaults to author
+  Description = "Discover Colebrooke, a charming village in Devon, known for its historical landmarks, beautiful countryside, and community spirit. Learn about local attractions, events, and more."
+  
   showBlogLatest = true
   mainSections = ["blog"]
   showTaxonomyLinks = false
