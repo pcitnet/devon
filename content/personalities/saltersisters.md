@@ -1,50 +1,48 @@
 ---
-title: "Devonshire Nightingales "
-date: 2020-06-01T16:16:24+02:00
+title: "The Salter Sisters: Devon's Beloved 'Devonshire Nightingales'"
+description: "Discover the inspiring story of Florence and Bertha Salter, the 'Devonshire Nightingales,' celebrated classical vocalists from Colebrooke, Devon. Learn about their rise to fame, royal performances, and lasting legacy."
+date: 2024-11-15
+author: "Neville & John Enderson"
+tags: ["Salter Sisters", "Devon", "Devonshire Nightingales", "classical music", "Colebrooke history"]
+categories: ["History", "Music"]
 draft: false
-Categories: [colebrooke]
 ---
-
 {{<image float="right" width="11em" frame="true" caption="Portrait of the Salter Sisters" src="img/salter-sisters01.jpg" >}}
 
-THE DEVONSHIRE NIGHTINGALES 
-============================
+# The Salter Sisters: Devon’s Beloved "Devonshire Nightingales"
 
-Many people will be unaware of the fact that in Colebrooke cemetery lie two Colebrooke celebrities of international repute. The sisters Florence and Bertha Salter were farmers’ daughters born at Broomhill Farm in 1870 and 1872. Florence and Bertha first performed in public in 1890, when they gave a concert at Crediton Town Hall, which was a great success. Then, at the suggestion of Mr Jekyll of Exeter, who had given them singing lessons, they went to Brussels to study. They performed in Brussels in 1893 before Queen Marie Henriette of Belgium and her daughter Princess Clementine. The sisters also performed at Biarritz, in front of, amongst many other celebrities, King Oscar of Sweden. This concert resulted in glowing reports in the French press. One report said:
+Florence and Bertha Salter, affectionately known as the *"Devonshire Nightingales"*, were celebrated classical vocalists originating from the picturesque village of Colebrooke, Devon. Their melodious voices and remarkable careers have left a lasting legacy in the world of classical music.
 
->*“This concert surpassed anything we have had the chance of listening to before in Biarritz. The Misses Florence and Bertha Salter possess vocal organs of exceptional merit. The high and sweet soprano of Miss Florence Salter stood out in delightful contrast to her sister’s perfect deep contralto notes, the two voices harmonising most charmingly. They sang with unceasing verve throughout, and the audience was enchanted, and enthusiastic applause greeted them at the finish. These talented ladies sing with equal facility in several languages, and their pronunciation is faultless. It was indeed a treat to hear this perfect style of singing, instead of the objectionable tremolo so much cultivated by the French school.”*
+## Early Life and Rise to Fame
 
+Born at **Broomhill Farm** in 1870 (Florence) and 1872 (Bertha), the Salter sisters grew up surrounded by the serene beauty of rural Devon. Their musical journey began with a promising concert at **Crediton Town Hall** in 1890. Encouraged by their talented singing instructor, **Mr. Jekyll of Exeter**, the sisters pursued professional training in Brussels, refining their vocal artistry.
 
-During the next 20 years, they travelled widely throughout Britain and became known as “The Devonshire Nightingales”. Occasionally they would visit the continent where they still retained their popularity. Neither sister married and in the 1901 census, they were living at Lower Porchester St, Hyde Park Square, Paddington. They were described as “classical vocalists”. By the 1911 census, they had moved to Elm Park Mansions, Park Walk, Chelsea and were also described as “professional vocalists”. The last record of a concert by the sisters appears to have been one given in aid of the military hospital at Colchester in September 1917. They continued to live in Chelsea until the 1930s when they moved back to Devon to live in Dawlish. Florence died there in 1942 and was brought back to be buried at Colebrooke with a request to be buried as near as possible to her parents, who were buried just to the northwest of the church in the old churchyard, on the site of the Old Bell Inn. Florence was buried in the cemetery by the hedge adjoining the church path. Bertha later moved away from Dawlish and at the time of her death in 1959 was living at East Wyke, South Zeal, near Okehampton. She was also brought back to Colebrooke and, in line with her wishes, her grave lies as near as possible to her beloved sister. Both graves have identical granite kerbing surrounds with lead lettering as follows:
+In 1893, their undeniable talent brought them before **Queen Marie Henriette of Belgium** and **Princess Clementine**, a royal audience that solidified their reputation. Their performances in **Biarritz**, attended by **King Oscar of Sweden**, also earned widespread acclaim, with the French press hailing their extraordinary abilities.
 
-**FLORENCE SALTER “Singer” born February 2nd 1870 died October 6th 1942**
+## A Flourishing Career: The Devonshire Nightingales
 
-And on the foot
+For over two decades, the Salter sisters captivated audiences across Britain and Europe. Touring extensively, they gained the affectionate title of the *"Devonshire Nightingales."* By 1901, the sisters had settled in **Paddington, London**, listed as "classical vocalists" in the census. A decade later, they moved to **Chelsea**, continuing to thrive as "professional vocalists."
 
-**“Glory be to God on High”**
+One of their final recorded performances occurred in **September 1917**, where they sang to support a military hospital in **Colchester**, demonstrating their commitment to using their talents for good causes.
 
-**BERTHA SALTER “Singer” born May 24th 1872 died March 13th 1959**
+## Returning to Devon: A Quiet Retirement
 
-And on the foot
+In the 1930s, Florence and Bertha returned to their Devon roots, settling in the seaside town of **Dawlish**. Florence passed away in 1942 and was buried in **Colebrooke cemetery**, near their parents' resting place. Bertha moved to **East Wyke, South Zeal**, and after her passing in 1959, she was laid to rest beside her sister. Their graves, adorned with granite surrounds and lead inscriptions, reflect their enduring legacy.
 
-**“And one clear call for me”**
+- **Florence Salter**: "Singer" born February 2nd, 1870, died October 6th, 1942. Inscription: *"Glory be to God on High."*
+- **Bertha Salter**: "Singer" born May 24th, 1872, died March 13th, 1959. Inscription: *"And one clear call for me,"* a poignant line from Alfred Lord Tennyson’s poem *Crossing the Bar*.
 
-
-The inscription on the foot of Bertha’s grave is the second line from
-Alfred Lord Tennyson’s famous poem “Crossing the Bar”. This poem had
-been set to music by various composers including Sir Hubert Parry (of
-Jerusalem fame) who was a great admirer of the sisters. Programmes of
-the time reveal it was a favourite in Bertha's repertoire.
+## Legacy and Cultural Impact
 
 {{<image float="right" width="11em" frame="true" caption="Painting of Florence Salter by Jean Ballantyne" src="img/florence-salter-painting-1890.jpg" >}}
 
+The Salter sisters' contributions to classical music remain timeless. A portrait of Florence by **Jean Ballantyne**, initially misattributed to Bertha, now hangs in the **Devon and Exeter Institution**, thanks to Florence’s generous bequest to **Exeter University**. The portrait serves as a testament to their cultural significance.
 
-Florence’s will revealed that she had left a painting of herself by Jean Ballantyne to Exeter University.
+Ballantyne, the daughter of **R.M. Ballantyne** (author of *The Coral Island*), was a close friend and neighbour of the sisters in London. Her artistic connection adds another layer to the sisters’ fascinating story.
 
-Until recently this painting, initially mistakenly identified as being of her sister Bertha, had resided at the university together with various ephemera relating to the sisters. It has now been correctly titled, restored and hangs in the Devon and Exeter Institution together with more information regarding the sisters. It was thought that the artist Jean Ballantyne may well have been John Ballantyne a leading 19th Century portrait painter, born in Kelso 1815 and died 1897, who for reasons unknown sometimes had his paintings listed under the name Jean Ballantyne. His last known paintings date from the 1880s by which time he had retired to Wiltshire in poor health and financial difficulties. He was supported by a small pension provided by his younger brother Robert. Robert was better known as R M Ballantyne the Victorian juvenile adventure story writer of “The Coral Island” and numerous other books. It has recently been established that the portrait was in fact painted by Jean Ballantyne, the daughter of R M Ballantyne and a close neighbour of the sisters when they lived in London. She’d also had a painting of her younger sister Isobel Ballantyne exhibited at the Royal Scottish Academy in 1903. 
 {{<image float="right" width="11em" frame="true" caption="Bertha Salter" src="img/bertha-salter.jpg" >}}
 
-Isobel had singing lessons from Bertha and would sometimes perform with the sisters under the name Belle Ballantyne until nasal problems forced her to give up her musical career.
+## Celebrating the Devonshire Nightingales
 
+Today, the Salter sisters are remembered not only for their extraordinary voices but also for their deep connection to Devon. Their story, immortalized in **Colebrooke cemetery** and celebrated in historical records, continues to inspire music lovers and historians alike.
 
-© Neville Enderson
