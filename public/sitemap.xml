@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.colebrooke.org/tags/19th-century-history/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.colebrooke.org/personalities/abrahamcann/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.colebrooke.org/tags/colebrooke/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.colebrooke.org/tags/colebrooke-church/</loc>
@@ -14,10 +20,16 @@
     <loc>https://www.colebrooke.org/tags/devon/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.colebrooke.org/categories/devon/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.colebrooke.org/categories/devon-history/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.colebrooke.org/tags/devon-pubs/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.colebrooke.org/tags/devonshire-wrestling/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.colebrooke.org/categories/historical-figures/</loc>
@@ -33,6 +45,12 @@
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.colebrooke.org/categories/hospitality/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.colebrooke.org/tags/james-stone/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.colebrooke.org/personalities/james-stone/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.colebrooke.org/tags/mabel-lee/</loc>
@@ -79,9 +97,6 @@
   </url><url>
     <loc>https://www.colebrooke.org/tags/widecombe-fair/</loc>
     <lastmod>2022-03-09T15:51:49+00:00</lastmod>
-  </url><url>
-    <loc>https://www.colebrooke.org/tags/colebrooke/</loc>
-    <lastmod>2022-03-09T15:47:25+00:00</lastmod>
   </url><url>
     <loc>https://www.colebrooke.org/blog/2022/03/old-houses-of-colebrooke/</loc>
     <lastmod>2022-03-09T15:47:25+00:00</lastmod>
@@ -256,9 +271,6 @@
   </url><url>
     <loc>https://www.colebrooke.org/resume/</loc>
     <lastmod>2020-06-01T17:11:12+02:00</lastmod>
-  </url><url>
-    <loc>https://www.colebrooke.org/personalities/james-stone/</loc>
-    <lastmod>2020-06-01T16:16:24+02:00</lastmod>
   </url><url>
     <loc>https://www.colebrooke.org/</loc>
     <lastmod>2020-06-01T16:16:24+02:00</lastmod>
