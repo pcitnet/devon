@@ -40,9 +40,9 @@ The Salter sisters' contributions to classical music remain timeless. A portrait
 
 Ballantyne, the daughter of **R.M. Ballantyne** (author of *The Coral Island*), was a close friend and neighbour of the sisters in London. Her artistic connection adds another layer to the sisters’ fascinating story.
 
-{{<image float="right" width="11em" frame="true" caption="Bertha Salter" src="img/bertha-salter.jpg" >}}
+
 
 ## Celebrating the Devonshire Nightingales
 
 Today, the Salter sisters are remembered not only for their extraordinary voices but also for their deep connection to Devon. Their story, immortalized in **Colebrooke cemetery** and celebrated in historical records, continues to inspire music lovers and historians alike.
-
+{{<image float="right" width="11em" frame="true" caption="Bertha Salter" src="img/bertha-salter.jpg" >}}
