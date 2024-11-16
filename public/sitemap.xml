@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.colebrooke.org/personalities/abrahamcann/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.colebrooke.org/tags/colebrooke-church/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.colebrooke.org/tags/coleford-history/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.colebrooke.org/tags/devon/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.colebrooke.org/categories/devon-history/</loc>
@@ -20,6 +26,12 @@
     <loc>https://www.colebrooke.org/tags/historical-figures-in-devon/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.colebrooke.org/tags/history/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.colebrooke.org/categories/history/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.colebrooke.org/categories/hospitality/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -29,7 +41,13 @@
     <loc>https://www.colebrooke.org/personalities/mabel-lee/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.colebrooke.org/categories/sports/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.colebrooke.org/tags/the-new-inn/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.colebrooke.org/tags/wrestling/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.colebrooke.org/tags/classical-music/</loc>
@@ -38,13 +56,7 @@
     <loc>https://www.colebrooke.org/tags/colebrooke-history/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.colebrooke.org/tags/devon/</loc>
-    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.colebrooke.org/tags/devonshire-nightingales/</loc>
-    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.colebrooke.org/categories/history/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.colebrooke.org/categories/music/</loc>
@@ -245,9 +257,6 @@
     <loc>https://www.colebrooke.org/resume/</loc>
     <lastmod>2020-06-01T17:11:12+02:00</lastmod>
   </url><url>
-    <loc>https://www.colebrooke.org/personalities/abrahamcann/</loc>
-    <lastmod>2020-06-01T16:16:24+02:00</lastmod>
-  </url><url>
     <loc>https://www.colebrooke.org/personalities/james-stone/</loc>
     <lastmod>2020-06-01T16:16:24+02:00</lastmod>
   </url><url>
@@ -270,9 +279,6 @@
     <lastmod>2020-06-01T16:09:23+02:00</lastmod>
   </url><url>
     <loc>https://www.colebrooke.org/tags/hall/</loc>
-    <lastmod>2020-06-01T16:09:23+02:00</lastmod>
-  </url><url>
-    <loc>https://www.colebrooke.org/tags/history/</loc>
     <lastmod>2020-06-01T16:09:23+02:00</lastmod>
   </url><url>
     <loc>https://www.colebrooke.org/tags/parish/</loc>
