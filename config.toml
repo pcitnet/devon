@@ -1,6 +1,6 @@
 baseURL = "https://www.colebrooke.org/"
 languageCode = "en-us"
-title = "Village of Colebrooke, Devon - Welcome to Our Community"
+title = "The Village of Colebrooke, Devon - Welcome to Our Community"
 theme = "notrack"
 newContentEditor = "remarkable"
 mainSections = ["blog"]

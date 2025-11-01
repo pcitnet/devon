@@ -38,7 +38,7 @@ type: "page"
 }
 </script>
 {{<image float="right" width="15em" frame="true" caption="Colebrooke Village" src="/img/colebrooke-village.jpg" >}}
-# Welcome to Colebrooke, Devon
+# The Village & Parish Of Colebrooke, Devon
 
 **Colebrooke** is a peaceful rural village and civil parish in **Mid Devon, England**, located a few miles west of Crediton. Surrounded by rolling farmland and scenic countryside, Colebrooke offers a glimpse of traditional Devon life — a close-knit community, historic charm, and beautiful walks.
 
