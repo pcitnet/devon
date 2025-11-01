@@ -1,6 +1,6 @@
 baseURL = "https://www.colebrooke.org/"
 languageCode = "en-us"
-title = "The Village of Colebrooke, Devon - Welcome to Our Community"
+title = "The Village of Colebrooke, Devon"
 theme = "notrack"
 newContentEditor = "remarkable"
 mainSections = ["blog"]
@@ -9,7 +9,7 @@ paginate = 4
 
 [params]
   author = "Neville Enderson, John Enderson"
-  siteHeading = "Village of Colebrooke, Devon - Welcome to Our Community" # defaults to author
+  siteHeading = "Village of Colebrooke, Devon" # defaults to author
   Description = "Discover Colebrooke, a charming village in Devon, known for its historical landmarks, beautiful countryside, and community spirit. Learn about local attractions, events, and more."
   
   showBlogLatest = true
