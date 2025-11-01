@@ -7,7 +7,7 @@ slug: "colebrooke"
 keywords: ["Colebrooke", "Colebrooke Devon", "Colebrooke parish", "St Andrew’s Colebrooke", "Colebrooke village history", "Colebrooke walks", "Mid Devon villages"]
 tags: ["Colebrooke", "Devon", "Parish", "Village Life", "St Andrew’s Church"]
 categories: ["Local Guides", "Devon Villages", "Community"]
-images: ["/images/colebrooke-village.jpg"]
+images: ["/img/colebrooke-village.jpg"]
 type: "page"
 ---
 
@@ -18,7 +18,7 @@ type: "page"
   "@type": "Place",
   "name": "Colebrooke",
   "description": "Colebrooke is a small rural village and civil parish in Mid Devon, England. It features St Andrew’s Church, scenic walks, and a friendly local community.",
-  "image": "https://www.example.com/images/colebrooke-village.jpg",
+  "image": "https://www.example.com/img/colebrooke-village.jpg",
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Colebrooke",
@@ -37,17 +37,20 @@ type: "page"
   "url": "https://www.example.com/colebrooke"
 }
 </script>
-
+{{<image float="right" width="15em" frame="true" caption="Colebrooke Village" src="/img/colebrooke-village.jpg" >}}
 # Welcome to Colebrooke, Devon
+
 **Colebrooke** is a peaceful rural village and civil parish in **Mid Devon, England**, located a few miles west of Crediton. Surrounded by rolling farmland and scenic countryside, Colebrooke offers a glimpse of traditional Devon life — a close-knit community, historic charm, and beautiful walks.
 
-![St Andrew’s Church in Colebrooke, Devon](/images/colebrooke-church.jpg "St Andrew’s Church, Colebrooke")
+
 
 ---
-
+{{<image float="right" width="15em" frame="true" caption="St Andrew’s Church, Colebrooke" src="/img/colebrooke-church.jpg" >}}
 ## History & Heritage
 The parish of Colebrooke dates back centuries, its name thought to mean *“the brook by the cool place.”*  
 At the heart of the village stands **St Andrew’s Church**, a Grade II* listed building with medieval origins and a striking 15th-century tower. Inside, visitors can admire ancient stonework and Victorian pews that reflect the church’s long and varied history.
+
+
 
 ---
 
