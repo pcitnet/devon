@@ -69,7 +69,7 @@ Remember to follow the countryside code and respect the rural landscape.
 The **Colebrooke Parish Council** represents residents and organises community events throughout the year.  
 The **village hall** hosts gatherings, meetings, and local celebrations, helping maintain Colebrooke’s friendly and welcoming atmosphere.  
 
-[Visit Mid Devon Council →](https://www.middevon.gov.uk/){target="_blank" rel="noopener"}
+[Visit Colebrooke Parish Council →](http://www.colebrooke-pc.gov.uk/)
 
 ---
 
