@@ -42,7 +42,7 @@ canonical: "https://www.colebrooke.org.uk/"
 }
 </script>
 {{<image float="right" width="15em" frame="true" caption="Colebrooke Village" src="/img/colebrooke-village.jpg" >}}
-# Welcome to the Parish of Colebrooke
+# The Parish of Colebrooke
 
 Nestled in the heart of **Mid Devon**, the **Parish of Colebrooke** is a beautiful rural community made up of the villages of **Colebrooke**, **Coleford**, and **Penstone**. Surrounded by rolling countryside, winding lanes, and rich farmland, the parish combines deep historical roots with a warm and welcoming community spirit.
 
