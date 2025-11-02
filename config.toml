@@ -9,8 +9,8 @@ paginate = 4
 
 [params]
   author = "Neville Enderson, John Enderson"
-  siteHeading = "Village of Colebrooke, Devon" # defaults to author
-  Description = "Discover Colebrooke, a charming village in Devon, known for its historical landmarks, beautiful countryside, and community spirit. Learn about local attractions, events, and more."
+  siteHeading = "The Parish of Colebrooke, Devon" # defaults to author
+  Description = "Discover Colebrooke, a charming village in Devon, known for its historical landmarks, beautiful countryside, and community spirit."
   
   showBlogLatest = true
   mainSections = ["blog"]
