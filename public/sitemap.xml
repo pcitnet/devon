@@ -3,31 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.colebrooke.org/tags/colebrooke/</loc>
-    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.colebrooke.org/</loc>
-    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
+    <loc>https://www.colebrooke.org/tags/coleford/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.colebrooke.org/categories/community/</loc>
-    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
+    <loc>https://www.colebrooke.org/categories/community-life/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.colebrooke.org/tags/devon/</loc>
-    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
+    <loc>https://www.colebrooke.org/tags/devon-countryside/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.colebrooke.org/categories/devon-villages/</loc>
-    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.colebrooke.org/categories/local-guides/</loc>
-    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
+    <loc>https://www.colebrooke.org/categories/local-history/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.colebrooke.org/tags/parish/</loc>
-    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
+    <loc>https://www.colebrooke.org/tags/mid-devon/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.colebrooke.org/tags/st-andrews-church/</loc>
-    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
+    <loc>https://www.colebrooke.org/tags/parish-of-colebrooke/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.colebrooke.org/tags/village-life/</loc>
-    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
+    <loc>https://www.colebrooke.org/tags/penstone/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.colebrooke.org/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.colebrooke.org/tags/1920s-britain/</loc>
     <lastmod>2025-10-27T15:45:59+00:00</lastmod>
@@ -72,6 +75,9 @@
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.colebrooke.org/tags/dartmoor/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.colebrooke.org/tags/devon/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.colebrooke.org/categories/devon-history/</loc>
@@ -194,9 +200,6 @@
     <loc>https://www.colebrooke.org/tags/1945/</loc>
     <lastmod>2022-03-05T15:07:02+00:00</lastmod>
   </url><url>
-    <loc>https://www.colebrooke.org/tags/coleford/</loc>
-    <lastmod>2022-03-05T15:07:02+00:00</lastmod>
-  </url><url>
     <loc>https://www.colebrooke.org/categories/coleford/</loc>
     <lastmod>2022-03-05T15:07:02+00:00</lastmod>
   </url><url>
@@ -218,9 +221,6 @@
     <loc>https://www.colebrooke.org/tags/1853/</loc>
     <lastmod>2022-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.colebrooke.org/categories/local-history/</loc>
-    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.colebrooke.org/tags/north-devon-railway/</loc>
     <lastmod>2022-03-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -240,9 +240,6 @@
     <lastmod>2021-08-03T09:20:31+01:00</lastmod>
   </url><url>
     <loc>https://www.colebrooke.org/blog/2021/08/gateway-to-penstone-penstone-bridge/</loc>
-    <lastmod>2021-08-03T09:20:31+01:00</lastmod>
-  </url><url>
-    <loc>https://www.colebrooke.org/tags/penstone/</loc>
     <lastmod>2021-08-03T09:20:31+01:00</lastmod>
   </url><url>
     <loc>https://www.colebrooke.org/categories/penstone/</loc>
@@ -348,6 +345,9 @@
     <lastmod>2020-06-01T16:09:23+02:00</lastmod>
   </url><url>
     <loc>https://www.colebrooke.org/tags/hall/</loc>
+    <lastmod>2020-06-01T16:09:23+02:00</lastmod>
+  </url><url>
+    <loc>https://www.colebrooke.org/tags/parish/</loc>
     <lastmod>2020-06-01T16:09:23+02:00</lastmod>
   </url><url>
     <loc>https://www.colebrooke.org/archive/</loc>

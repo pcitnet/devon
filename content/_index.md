@@ -1,97 +1,102 @@
 ---
-title: "Colebrooke, Devon — Village & Parish Guide"
-description: "Discover Colebrooke, Devon — a peaceful village and parish near Crediton. Learn about its history, St Andrew’s Church, best walks, community events, and local life."
-date: 2025-10-31
+title: "The Parish of Colebrooke – A Historic Devon Community"
+description: "Discover the Parish of Colebrooke in Mid Devon, including the villages of Colebrooke, Coleford, and Penstone. Learn about its history, community life, countryside, and local attractions."
+date: 2025-11-01
 draft: false
-slug: "colebrooke"
-keywords: ["Colebrooke", "Colebrooke Devon", "Colebrooke parish", "St Andrew’s Colebrooke", "Colebrooke village history", "Colebrooke walks", "Mid Devon villages"]
-tags: ["Colebrooke", "Devon", "Parish", "Village Life", "St Andrew’s Church"]
-categories: ["Local Guides", "Devon Villages", "Community"]
-images: ["/img/colebrooke-village.jpg"]
 type: "page"
+url: "/"
+keywords: ["Colebrooke", "Coleford", "Penstone", "Mid Devon", "Devon villages", "Colebrooke Parish", "Colebrooke church", "Colebrooke community", "Colebrooke village"]
+categories: ["Devon Villages", "Local History", "Community Life"]
+tags: ["Colebrooke", "Coleford", "Penstone", "Mid Devon", "Parish of Colebrooke", "Devon Countryside"]
+author: "Colebrooke Parish Council"
+image: "/images/colebrooke-village.jpg"
+canonical: "https://www.colebrooke.org.uk/"
 ---
 
-<!-- JSON-LD Structured Data -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Place",
-  "name": "Colebrooke",
-  "description": "Colebrooke is a small rural village and civil parish in Mid Devon, England. It features St Andrew’s Church, scenic walks, and a friendly local community.",
-  "image": "https://www.example.com/img/colebrooke-village.jpg",
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "Colebrooke",
-    "addressRegion": "Devon",
-    "addressCountry": "United Kingdom"
+  "@type": "WebPage",
+  "name": "The Parish of Colebrooke – A Historic Devon Community",
+  "description": "Learn about the Parish of Colebrooke in Mid Devon, home to the villages of Colebrooke, Coleford, and Penstone. Explore its church, community, and countryside.",
+  "url": "https://www.colebrooke.org.uk/",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Colebrooke Parish Council",
+    "url": "https://www.colebrooke.org.uk/"
   },
-  "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 50.7833,
-    "longitude": -3.7333
-  },
-  "containedInPlace": {
-    "@type": "AdministrativeArea",
-    "name": "Mid Devon"
-  },
-  "url": "https://www.example.com/colebrooke"
+  "mainEntity": {
+    "@type": "Place",
+    "name": "Colebrooke Parish",
+    "containedInPlace": {
+      "@type": "AdministrativeArea",
+      "name": "Mid Devon"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Colebrooke",
+      "addressRegion": "Devon",
+      "addressCountry": "UK"
+    }
+  }
 }
 </script>
 {{<image float="right" width="15em" frame="true" caption="Colebrooke Village" src="/img/colebrooke-village.jpg" >}}
-# The Village & Parish Of Colebrooke, Devon
+# Welcome to the Parish of Colebrooke
 
-**Colebrooke** is a peaceful rural village and civil parish in **Mid Devon, England**, located a few miles west of Crediton. Surrounded by rolling farmland and scenic countryside, Colebrooke offers a glimpse of traditional Devon life — a close-knit community, historic charm, and beautiful walks.
-
-
+Nestled in the heart of **Mid Devon**, the **Parish of Colebrooke** is a beautiful rural community made up of the villages of **Colebrooke**, **Coleford**, and **Penstone**. Surrounded by rolling countryside, winding lanes, and rich farmland, the parish combines deep historical roots with a warm and welcoming community spirit.
 
 ---
 {{<image float="right" width="15em" frame="true" caption="St Andrew’s Church, Colebrooke" src="/img/colebrooke-church.jpg" >}}
-## History & Heritage
-The parish of Colebrooke dates back centuries, its name thought to mean *“the brook by the cool place.”*  
-At the heart of the village stands **St Andrew’s Church**, a Grade II* listed building with medieval origins and a striking 15th-century tower. Inside, visitors can admire ancient stonework and Victorian pews that reflect the church’s long and varied history.
+## About Colebrooke
 
-
+The village of **Colebrooke** lies just west of **Crediton**, offering stunning views across the Devon countryside. At its centre stands the historic **St Andrew’s Church**, a Grade I listed building that has served as a spiritual and social hub for centuries. The village features a strong sense of identity, with regular community events, parish meetings, and rural traditions that continue to thrive.
 
 ---
 
-## St Andrew’s Church
-**St Andrew’s Church, Colebrooke** sits on a hill and is visible across the surrounding countryside.  
-It remains an active place of worship and a hub for local events — from harvest festivals and concerts to fairs and coffee mornings.  
-Visitors are always welcome to enjoy its peaceful atmosphere and historic architecture.
+## Coleford – A Small but Vibrant Community
+
+Just a short distance away, **Coleford** is a charming hamlet known for its character cottages and peaceful surroundings. With easy access to Crediton and local walking routes, it’s a haven for those seeking a tranquil village lifestyle in the heart of Devon.
 
 ---
 
-## Walks & Nature
-Colebrooke is surrounded by green fields, woodlands, and quiet country lanes — perfect for walking and wildlife spotting.  
-Popular routes connect to nearby parishes and offer far-reaching views across Mid Devon.  
-Remember to follow the countryside code and respect the rural landscape.
+## Penstone – Countryside Charm
+
+The hamlet of **Penstone** sits quietly amidst fields and streams, showcasing Devon’s natural beauty at its best. Popular with walkers and nature enthusiasts, Penstone offers a glimpse of rural life untouched by modern development, making it a special part of the wider Colebrooke parish.
 
 ---
 
 ## Local Life & Community
-The **Colebrooke Parish Council** represents residents and organises community events throughout the year.  
-The **village hall** hosts gatherings, meetings, and local celebrations, helping maintain Colebrooke’s friendly and welcoming atmosphere.  
 
-[Visit Colebrooke Parish Council →](http://www.colebrooke-pc.gov.uk/)
+The **Colebrooke Parish Council** supports a range of local initiatives and activities, from environmental projects to church events and local heritage work. The parish’s calendar is filled with **seasonal celebrations**, **community gatherings**, and **volunteer opportunities** that strengthen village life.
 
----
-
-## Visitor Information
-- **Getting here:** Colebrooke is best reached by car; Crediton station is the nearest rail link.  
-- **Facilities:** Parking near the church and village hall; please check signage.  
-- **Accessibility:** Footpaths are uneven in places; suitable footwear is recommended.  
+Residents and visitors alike can explore local walking paths, nearby farms, and traditional pubs that reflect the region’s authentic rural character.
 
 ---
 
-## Quick Facts
-- **Location:** Mid Devon, South West England  
-- **Parish Church:** St Andrew’s — 13th–15th century origins  
-- **Community:** Active parish council and local events  
-- **Nearby town:** Crediton (approx. 5 miles east)
+## History & Heritage
 
+The history of the **Parish of Colebrooke** stretches back to the Domesday Book, where the name “Colbroc” first appeared. Through the centuries, the area has maintained its agricultural heritage while adapting to the changing world. Today, the parish stands as a living link between Devon’s past and present.
+
+---
+
+## Visiting Colebrooke Parish
+
+Colebrooke is located just **5 miles west of Crediton** and about **12 miles from Exeter**, making it an ideal countryside destination for visitors seeking quiet landscapes and local charm.
+
+For those interested in heritage tourism, walking, or exploring **Devon’s hidden gems**, Colebrooke, Coleford, and Penstone offer an authentic experience of English rural life.
+
+---
+
+## Get Involved
+
+Whether you’re a local resident or a visitor discovering the area for the first time, the **Parish of Colebrooke** welcomes you. Stay updated on **community news**, **events**, and **council information** through our parish website.
+
+[Learn more about the Parish Council →](/parish-council/)  
 
 
 ---
 
-*© 2025 Colebrooke Parish — All rights reserved.*
+*The Parish of Colebrooke – preserving Devon’s rural heritage and community spirit for generations to come.*
 
+---
