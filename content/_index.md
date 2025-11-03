@@ -48,6 +48,7 @@ Nestled in the heart of **Mid Devon**, the **Parish of Colebrooke** is a beautif
 
 ---
 {{<image float="right" width="15em" frame="true" caption="St Andrew’s Church, Colebrooke" src="/img/colebrooke-church.webp" >}}
+
 ## About Colebrooke
 
 The village of **Colebrooke** lies just west of **Crediton**, offering stunning views across the Devon countryside. At its centre stands the historic **St Andrew’s Church**, a Grade I listed building that has served as a spiritual and social hub for centuries. The village features a strong sense of identity, with regular community events, parish meetings, and rural traditions that continue to thrive.
