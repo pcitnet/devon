@@ -1,5 +1,5 @@
 ---
-title: "The Parish of Colebrooke – A Historic Devon Community"
+title: "The Parish of Colebrooke"
 description: "Discover the Parish of Colebrooke in Mid Devon, including the villages of Colebrooke, Coleford, and Penstone. Learn about its history, community life, countryside, and local attractions."
 date: 2025-11-01
 draft: false

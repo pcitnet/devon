@@ -1,6 +1,6 @@
 baseURL = "https://www.colebrooke.org/"
 languageCode = "en-us"
-title = "The Village of Colebrooke, Devon"
+title = "Colebrooke, Coleford & Penstone in Devon"
 theme = "notrack"
 newContentEditor = "remarkable"
 mainSections = ["blog"]
