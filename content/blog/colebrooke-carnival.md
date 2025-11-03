@@ -13,7 +13,7 @@ The first week in November marks the centenary of Colebrooke's first and only ca
 
 ## The Fundraising Plan
 
-{{<image float="right" width="18em" frame="true" caption="My father and some friends" src="img/carnival-car.jpg" >}}
+{{<image float="right" width="18em" frame="true" caption="My father and some friends" src="img/carnival-car.webp" >}}
 
 My father and some friends, all members of the sports committee, either hired or procured a barrel organ, which they carried around the district in the back of Ern Hutchings’ car.  
 The collection team included (from left to right):
@@ -48,7 +48,7 @@ Inside, however, they found only a kettle on a Primus stove. Visitors quietly ex
 
 This crowd-pleaser was created by **Miss Mounsden**, assistant teacher at Colebrooke School. It featured:
 
-{{<image float="right" width="18em" frame="true" caption="Merry Little Workers" src="img/merry-little-workers.jpg" >}}
+{{<image float="right" width="18em" frame="true" caption="Merry Little Workers" src="img/merry-little-workers.webp" >}}
 
 - Children busy with pots, pans, and brushes
 - An older man asleep in a chair

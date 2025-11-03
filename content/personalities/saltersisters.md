@@ -7,7 +7,7 @@ tags: ["Salter Sisters", "Devon", "Devonshire Nightingales", "classical music", 
 categories: ["History", "Music"]
 draft: false
 ---
-{{<image float="right" width="11em" frame="true" caption="Portrait of the Salter Sisters" src="img/salter-sisters01.jpg" >}}
+{{<image float="right" width="11em" frame="true" caption="Portrait of the Salter Sisters" src="img/salter-sisters01.webp" >}}
 
 # The Salter Sisters: Devon’s Beloved "Devonshire Nightingales"
 
@@ -34,7 +34,7 @@ In the 1930s, Florence and Bertha returned to their Devon roots, settling in the
 
 ## Legacy and Cultural Impact
 
-{{<image float="right" width="11em" frame="true" caption="Painting of Florence Salter by Jean Ballantyne" src="img/florence-salter-painting-1890.jpg" >}}
+{{<image float="right" width="11em" frame="true" caption="Painting of Florence Salter by Jean Ballantyne" src="img/florence-salter-painting-1890.webp" >}}
 
 The Salter sisters' contributions to classical music remain timeless. A portrait of Florence by **Jean Ballantyne**, initially misattributed to Bertha, now hangs in the **Devon and Exeter Institution**, thanks to Florence’s generous bequest to **Exeter University**. The portrait serves as a testament to their cultural significance.
 
@@ -45,4 +45,4 @@ Ballantyne, the daughter of **R.M. Ballantyne** (author of *The Coral Island*), 
 ## Celebrating the Devonshire Nightingales
 
 Today, the Salter sisters are remembered not only for their extraordinary voices but also for their deep connection to Devon. Their story, immortalized in **Colebrooke cemetery** and celebrated in historical records, continues to inspire music lovers and historians alike.
-{{<image float="right" width="11em" frame="true" caption="Bertha Salter" src="img/bertha-salter.jpg" >}}
+{{<image float="right" width="11em" frame="true" caption="Bertha Salter" src="img/bertha-salter.webp" >}}

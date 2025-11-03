@@ -16,7 +16,7 @@ The occasion was to raise money for the refurbishment of Colebrooke's
 bells. Much needed refreshments were laid on by volunteers at the
 village hall afterwards.
 
-{{<image float="right" width="15em" frame="true" caption="Back row: Arthur Way, Chris Parker, John Rodd  Front row: John Enderson, Margaret Enderson, Paul Dart" src="img/colebrooke-bellringers.jpg" >}}
+{{<image float="right" width="15em" frame="true" caption="Back row: Arthur Way, Chris Parker, John Rodd  Front row: John Enderson, Margaret Enderson, Paul Dart" src="img/colebrooke-bellringers.webp" >}}
 
 The ringers involved were:
 

@@ -10,7 +10,7 @@ categories: ["history", "sports"]
 draft: false
 ---
 
-{{<image float="right" width="11em" frame="true" caption="Abraham Cann Wrestling 1848" src="img/abrahamcann1848.jpg" >}}
+{{<image float="right" width="11em" frame="true" caption="Abraham Cann Wrestling 1848" src="img/abrahamcann1848.webp" >}}
 # Abraham Cann: The Legendary Champion of Devon Wrestling
 
 Abraham Cann, born in **1794 in Colebrooke, Devon**, is remembered as one of **19th-century England’s greatest wrestlers**. His unparalleled strength, skill, and sportsmanship earned him the title of **"Champion of All England"**, securing his legacy as a prominent figure in the history of traditional Devonshire wrestling.
@@ -37,7 +37,7 @@ Abraham Cann’s career-defining match took place on **July 27, 1841**, celebrat
 
 In **1842**, Cann made a triumphant return, defeating a younger opponent and further cementing his reputation. Even after retiring, he remained involved as a **guest referee**, passing on his expertise to the next generation.
 
-{{<image float="right" width="11em" frame="true" caption="Abraham Cann's Headstone at Colebrooke" src="img/cannheadstone.jpg" >}}
+{{<image float="right" width="11em" frame="true" caption="Abraham Cann's Headstone at Colebrooke" src="img/cannheadstone.webp" >}}
 
 ## Later Years and Legacy
 
@@ -45,7 +45,7 @@ In his later years, Abraham Cann faced health and financial challenges. A **subs
 
 Tragically, Cann’s son, Abraham Jr., died in a fire in **1862**, a loss that deeply affected him. Abraham Cann passed away on **April 7, 1864**, at the age of 69. He was laid to rest in **Colebrooke churchyard**, where his headstone honors his legacy alongside his wife Mary and son.
 
-{{<image float="right" width="11em" frame="true" caption="Abraham Cann Painting by artist Derek Farndon" src="img/abrahamcannpainting.jpg" >}}
+{{<image float="right" width="11em" frame="true" caption="Abraham Cann Painting by artist Derek Farndon" src="img/abrahamcannpainting.webp" >}}
 ## Bicentenary Tribute in Colebrooke
 
 In **1994**, to commemorate Abraham Cann’s bicentenary, a commissioned painting by artist **Derek Farndon** was unveiled in Colebrooke. The artwork, featuring a view of the village, celebrates Cann’s contribution to the sport and his enduring connection to Colebrooke.

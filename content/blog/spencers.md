@@ -5,7 +5,7 @@ Tags: [coleford, Post Office, king charles]
 Categories: [coleford]
 draft: false
 ---
-{{<image float="right" width="11em" frame="true" caption="Painting of Spencer Cottage - Post office" src="img/spencers.jpg" >}}
+{{<image float="right" width="11em" frame="true" caption="Painting of Spencer Cottage - Post office" src="img/spencers.webp" >}}
 ## SPENCERS COLEFORD
 
 Most people are familiar with various guide books and estate agents telling us how Charles 1st either reviewed his troops, stabled his horse or even slept in the porch at Spencers in 1644. Charles indeed passed through Coleford on July 29th 1644, having spent the previous night at Crediton and was at Bow by the night of the 29th. But who was Spencer, and why has his name remained with the property.
