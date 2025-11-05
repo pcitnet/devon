@@ -42,7 +42,7 @@ canonical: "https://www.colebrooke.org.uk/"
 }
 </script>
 {{<image float="right" width="20em" frame="true" caption="Colebrooke Parish" src="/img/colebrooke-parish.webp" >}}
-# Colebrooke Parish
+# Colebrooke Parish in Devon
 
 Nestled in the heart of **Mid Devon**, the **Parish of Colebrooke** is a beautiful rural community made up of the villages of **Colebrooke**, **Coleford**, and **Penstone**. Surrounded by rolling countryside, winding lanes, and rich farmland, the parish combines deep historical roots with a warm and welcoming community spirit.
 
@@ -51,7 +51,7 @@ Nestled in the heart of **Mid Devon**, the **Parish of Colebrooke** is a beautif
 
 ## About Colebrooke
 
-The village of **Colebrooke** lies just west of **Crediton**, offering stunning views across the Devon countryside. At its centre stands the historic **St Andrew’s Church**, a Grade I listed building that has served as a spiritual and social hub for centuries. The village features a strong sense of identity, with regular community events, parish meetings, and rural traditions that continue to thrive.
+The village of **Colebrooke** lies just west of Crediton, offering stunning views across the Devon countryside. At its centre stands the historic **St Andrew’s Church**, a Grade I listed building that has served as a spiritual and social hub for centuries. The village features a strong sense of identity, with regular community events, parish meetings, and rural traditions that continue to thrive.
 
 ---
 
@@ -69,7 +69,7 @@ The hamlet of **Penstone** sits quietly amidst fields and streams, showcasing De
 
 ## Local Life & Community
 
-The **Colebrooke Parish Council** supports a range of local initiatives and activities, from environmental projects to church events and local heritage work. The parish’s calendar is filled with **seasonal celebrations**, **community gatherings**, and **volunteer opportunities** that strengthen village life.
+The **Colebrooke Parish Council** supports a range of local initiatives and activities, from environmental projects to church events and local heritage work. The parish’s calendar is filled with seasonal celebrations, community gatherings, and **volunteer opportunities** that strengthen village life.
 
 Residents and visitors alike can explore local walking paths, nearby farms, and traditional pubs that reflect the region’s authentic rural character.
 
@@ -91,7 +91,7 @@ For those interested in heritage tourism, walking, or exploring **Devon’s hidd
 
 ## Get Involved
 
-Whether you’re a local resident or a visitor discovering the area for the first time, the **Parish of Colebrooke** welcomes you. Stay updated on **community news**, **events**, and **council information** through our parish website.
+Whether you’re a local resident or a visitor discovering the area for the first time, the **Colebrooke Parish** welcomes you. Stay updated on **community news**, **events**, and **council information** through our parish website.
 
 [Learn more about the Parish Council →](http://www.colebrooke-pc.gov.uk)  
 
