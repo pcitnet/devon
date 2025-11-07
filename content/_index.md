@@ -69,7 +69,7 @@ The hamlet of **Penstone** sits quietly amidst fields and streams, showcasing De
 
 ## Local Life & Community
 
-The **Colebrooke Parish Council** supports a range of local initiatives and activities, from environmental projects to church events and local heritage work. The parish’s calendar is filled with seasonal celebrations, community gatherings, and **volunteer opportunities** that strengthen village life.
+The **Colebrooke Parish Council** supports a range of local initiatives and activities, from environmental projects to church events and local heritage work. The parish’s calendar is filled with seasonal celebrations, community gatherings, and volunteer opportunities that strengthen village life.
 
 Residents and visitors alike can explore local walking paths, nearby farms, and traditional pubs that reflect the region’s authentic rural character.
 
@@ -91,7 +91,7 @@ For those interested in heritage tourism, walking, or exploring **Devon’s hidd
 
 ## Get Involved
 
-Whether you’re a local resident or a visitor discovering the area for the first time, the **Colebrooke Parish** welcomes you. Stay updated on **community news**, **events**, and **council information** through our parish website.
+Whether you’re a local resident or a visitor discovering the area for the first time, the Colebrooke Parish welcomes you. Stay updated on community news, events, and council information through our parish website.
 
 [Learn more about the Parish Council →](http://www.colebrooke-pc.gov.uk)  
 
