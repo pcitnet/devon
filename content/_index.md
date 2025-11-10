@@ -77,7 +77,7 @@ Residents and visitors alike can explore local walking paths, nearby farms, and 
 
 ## History & Heritage
 
-The history of the **Parish of Colebrooke** stretches back to the Domesday Book, where the name “Colbroc” first appeared. Through the centuries, the area has maintained its agricultural heritage while adapting to the changing world. Today, the parish stands as a living link between Devon’s past and present.
+The history of the Parish of Colebrooke stretches back to the Domesday Book, where the name “Colbroc” first appeared. Through the centuries, the area has maintained its agricultural heritage while adapting to the changing world. Today, the parish stands as a living link between Devon’s past and present.
 
 ---
 
