@@ -114,9 +114,9 @@ Volume I attempts to preserve that history by bringing the surviving evidence to
 
 The book is available to order online.
 
-**[Buy Colebrooke Parish Volume I on Amazon](https://www.amazon.co.uk/Colebrooke-Parish-I-John-Enderson/dp/1807389847/ref=sr_1_1?crid=1JBFJ2JF5X3E6&dib=eyJ2IjoiMSJ9.cJvukBS4PGAxum97mTjUbrlCxRhCaXUZNWPEYq4LnkDGjHj071QN20LucGBJIEps.BJFAFvV2H09OuYkibbI6eHVfJt8_WSbMq13it0PCrvc&dib_tag=se&keywords=colebrooke+parish&qid=1789577075&sprefix=colebrooke%2Caps%2C149&sr=8-1)**
+<strong><a href="https://www.amazon.co.uk/Colebrooke-Parish-I-John-Enderson/dp/1807389847/ref=sr_1_1?crid=1JBFJ2JF5X3E6&dib=eyJ2IjoiMSJ9.cJvukBS4PGAxum97mTjUbrlCxRhCaXUZNWPEYq4LnkDGjHj071QN20LucGBJIEps.BJFAFvV2H09OuYkibbI6eHVfJt8_WSbMq13it0PCrvc&dib_tag=se&keywords=colebrooke+parish&qid=1789577075&sprefix=colebrooke%2Caps%2C149&sr=8-1" target="_blank" rel="noopener noreferrer">Buy Colebrooke Parish Volume I on Amazon</a></strong>
 
-**[Buy Colebrooke Parish Volume I from The Great British Bookshop](https://www.thegreatbritishbookshop.co.uk/products/colebrooke-parish-volume-i?_pos=1&_sid=88cb3a05c&_ss=r)**
+<strong><a href="https://www.thegreatbritishbookshop.co.uk/products/colebrooke-parish-volume-i?_pos=1&_sid=88cb3a05c&_ss=r" target="_blank" rel="noopener noreferrer">Buy Colebrooke Parish Volume I from The Great British Bookshop</a></strong>
 
 ---
 
@@ -176,9 +176,9 @@ The result is a book that can be read from beginning to end or simply opened at 
 
 ### Buy Colebrooke Parish Stories
 
-**[Buy Colebrooke Parish Stories on Amazon](https://www.amazon.co.uk/Colebrooke-Parish-Stories-John-Enderson/dp/1808971124/ref=sr_1_4?dib=eyJ2IjoiMSJ9.cJvukBS4PGAxum97mTjUbrlCxRhCaXUZNWPEYq4LnkDGjHj071QN20LucGBJIEps.BJFAFvV2H09OuYkibbI6eHVfJt8_WSbMq13it0PCrvc&dib_tag=se&keywords=colebrooke+parish&qid=1789577173&sr=8-4)**
+<strong><a href="https://www.amazon.co.uk/Colebrooke-Parish-Stories-John-Enderson/dp/1808971124/ref=sr_1_4?dib=eyJ2IjoiMSJ9.cJvukBS4PGAxum97mTjUbrlCxRhCaXUZNWPEYq4LnkDGjHj071QN20LucGBJIEps.BJFAFvV2H09OuYkibbI6eHVfJt8_WSbMq13it0PCrvc&dib_tag=se&keywords=colebrooke+parish&qid=1789577173&sr=8-4" target="_blank" rel="noopener noreferrer">Buy Colebrooke Parish Stories on Amazon</a></strong>
 
-**[Buy Colebrooke Parish Stories from The Great British Bookshop](https://www.thegreatbritishbookshop.co.uk/products/colebrooke-parish-stories?_pos=2&_sid=88cb3a05c&_ss=r)**
+<strong><a href="https://www.thegreatbritishbookshop.co.uk/products/colebrooke-parish-stories?_pos=2&_sid=88cb3a05c&_ss=r" target="_blank" rel="noopener noreferrer">Buy Colebrooke Parish Stories from The Great British Bookshop</a></strong>
 
 ---
 
