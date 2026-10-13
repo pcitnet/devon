@@ -58,6 +58,8 @@ The village of **Colebrooke** lies just west of Crediton, offering stunning view
 ## Coleford – A Small but Vibrant Community
 
 Just a short distance away, **Coleford** is a charming hamlet known for its character cottages and peaceful surroundings. With easy access to Crediton and local walking routes, it’s a haven for those seeking a tranquil village lifestyle in the heart of Devon.
+For a closer look at Coleford’s village life, historic buildings and intriguing local stories, visit <a href="https://www.coleforddevon.co.uk/" target="_blank" rel="noopener noreferrer">Coleford, Devon — the village website ↗</a>.
+
 
 ---
 
