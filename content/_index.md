@@ -57,7 +57,6 @@ Just a short distance away, **Coleford** is a charming hamlet known for its char
 For a closer look at Coleford’s village life, historic buildings and intriguing local stories, visit <a href="https://www.coleforddevon.co.uk/" target="_blank" rel="noopener noreferrer">Coleford, Devon — the village website ↗</a>.
 
 
-For a closer look at Coleford’s village life, historic buildings and intriguing local stories, visit <a href="https://www.coleforddevon.co.uk/" target="_blank" rel="noopener noreferrer">Coleford, Devon — the village website ↗</a>.
 
 ---
 ## Penstone – Countryside Charm
