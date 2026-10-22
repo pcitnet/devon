@@ -5,7 +5,7 @@
         <link>{{ .Permalink }}</link>
         <description>Latest blog posts from {{ .Site.Title }}</description>
 
-        {{ with .Site.LanguageCode }}
+        {{ with .Site.Language.Locale }}
         <language>{{.}}</language>
         {{end}}
 
