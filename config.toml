@@ -1,7 +1,7 @@
 baseURL = "https://www.colebrooke.org/"
 languageCode = "en-us"
 title = "Colebrooke, Coleford & Penstone in Devon"
-theme = "notrack"
+theme = ["colebrooke-directory", "notrack"]
 newContentEditor = "remarkable"
 mainSections = ["blog"]
 # disqusShortname = "colebrooke"
