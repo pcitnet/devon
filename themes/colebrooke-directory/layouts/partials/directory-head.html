@@ -1,0 +1,20 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>{{ if not .IsHome }}{{ if and (eq .Kind "section") (eq .Section "blog") }}Parish Chronicles{{ else }}{{ .Title }}{{ end }} | {{ end }}{{ site.Title }}</title>
+  {{ $description := site.Params.Description }}
+  {{ with .Summary }}{{ $description = . | plainify | truncate 155 }}{{ end }}
+  {{ with .Description }}{{ $description = . }}{{ end }}
+  <meta name="description" content="{{ $description }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="stylesheet" href="{{ "css/directory-optimized.css" | relURL }}">
+  <link rel="icon" href="{{ "img/icon.png" | relURL }}">
+  {{ range .AlternativeOutputFormats }}<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink }}" title="{{ site.Title }}">{{ end }}
+  {{/* Social sharing: uses per-page title, description, and canonical URL. */}}
+  <meta property="og:site_name" content="{{ site.Title }}">
+  <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+  <meta property="og:title" content="{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }}{{ end }}">
+  <meta property="og:description" content="{{ $description }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta name="twitter:card" content="summary">
+</head>

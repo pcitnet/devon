@@ -110,6 +110,17 @@ Many of Colebrooke Parish's old farms and buildings survive, but their uses, occ
 
 Volume I attempts to preserve that history by bringing the surviving evidence together in one place, allowing present and future generations to discover not only **what stood where**, but something of the people whose lives were connected with those places.
 
+### About the book
+
+**Title:** *Colebrooke Parish — Volume I*<br>
+**Subtitle:** *The Parish, its Places, People and Landscape*<br>
+**Author:** John Enderson<br>
+**Publisher:** BookVAULT Publishing<br>
+**Format:** A4 case-bound hardback<br>
+**Pages:** 228<br>
+**Published:** 14 August 2026<br>
+**ISBN:** 978-1-80738-984-0
+
 ### Buy Colebrooke Parish — Volume I
 
 The book is available to order online.
@@ -167,11 +178,11 @@ The result is a book that can be read from beginning to end or simply opened at 
 
 ### About the book
 
-**Title:** *Colebrooke Parish Stories*
-**Subtitle:** *Lives, events and memories from Colebrooke, Coleford and Penstone*
-**Authors:** John & Neville Enderson
-**Stories:** 101
-**Format:** A4 colour hardback
+**Title:** *Colebrooke Parish Stories*<br>
+**Subtitle:** *Lives, events and memories from Colebrooke, Coleford and Penstone*<br>
+**Authors:** John & Neville Enderson<br>
+**Stories:** 101<br>
+**Format:** A4 colour hardback<br>
 **ISBN:** 978-1-80897-112-9
 
 ### Buy Colebrooke Parish Stories

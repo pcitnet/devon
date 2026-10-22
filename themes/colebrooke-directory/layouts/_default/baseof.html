@@ -1,0 +1,10 @@
+<!doctype html><html lang="{{ site.Language.LanguageCode | default "en" }}">
+{{ partial "directory-head.html" . }}
+<body><div class="outer"><div class="ornament" aria-hidden="true"></div>
+{{ partial "directory-header.html" . }}
+<div class="book"><aside class="sidebar" aria-label="Parish index"><h2>Contents &amp; Index</h2><nav class="index" aria-label="Quick links">
+<a href="{{ "blog/" | relURL }}">Parish Stories</a><a href="{{ "archive/" | relURL }}">Historic Archive</a><a href="{{ "books/" | relURL }}">Parish Books</a><a href="{{ "gallery/" | relURL }}">Photographs</a><a href="{{ "personalities/" | relURL }}">People of the Parish</a></nav>
+<p class="sidebar-note">An illustrated record of people, buildings, traditions and memories.</p></aside>
+<div class="leaf" id="main-content"><span class="page-corner" aria-hidden="true"></span>{{ block "main" . }}{{ end }}</div></div>
+<footer class="footer">Colebrooke Parish, Devon <span aria-hidden="true">✥</span> Heritage · People · Places</footer></div>
+</body></html>

@@ -1,0 +1,3 @@
+<li class="gallery-photo">
+  <img src="{{ printf "img/thumbnails/%s" (.Get "fn") | relURL }}" alt="{{ .Get "caption" }}" loading="lazy" decoding="async">
+</li>
