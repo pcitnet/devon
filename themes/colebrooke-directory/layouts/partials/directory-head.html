@@ -7,9 +7,7 @@
   {{ with .Description }}{{ $description = . }}{{ end }}
   <meta name="description" content="{{ $description }}">
   <link rel="canonical" href="{{ .Permalink }}">
-  <link rel="stylesheet" href="{{ "css/directory.css" | relURL }}">
-  <link rel="stylesheet" href="{{ "css/directory-legacy-support.css" | relURL }}">
-  <link rel="stylesheet" href="{{ "css/directory-mobile-refinement.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "css/directory-optimized.css" | relURL }}">
   <link rel="icon" href="{{ "img/icon.png" | relURL }}">
   {{ range .AlternativeOutputFormats }}<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink }}" title="{{ site.Title }}">{{ end }}
   {{/* Social sharing: uses per-page title, description, and canonical URL. */}}
