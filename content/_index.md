@@ -10,7 +10,7 @@ categories: ["Devon Villages", "Local History", "Community Life"]
 tags: ["Colebrooke", "Coleford", "Penstone", "Mid Devon", "Parish of Colebrooke", "Devon Countryside"]
 author: "Colebrooke Parish Council"
 image: "/images/colebrooke-village.jpg"
-canonical: "https://www.colebrooke.org.uk/"
+canonical: "https://www.colebrooke.org/"
 ---
 <script type="application/ld+json">
 {
@@ -18,12 +18,7 @@ canonical: "https://www.colebrooke.org.uk/"
   "@type": "WebPage",
   "name": "The Parish of Colebrooke – A Historic Devon Community",
   "description": "Learn about the Parish of Colebrooke in Mid Devon, home to the villages of Colebrooke, Coleford, and Penstone. Explore its church, community, and countryside.",
-  "url": "https://www.colebrooke.org.uk/",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Colebrooke Parish Council",
-    "url": "https://www.colebrooke.org.uk/"
-  },
+  "url": "https://www.colebrooke.org/",
   "mainEntity": {
     "@type": "Place",
     "name": "Colebrooke Parish",

@@ -1,7 +1,15 @@
+# Source-controlled Hugo build settings: takes effect in production only AFTER merge.
+[build]
+  command = 'hugo --config config.toml,config-directory.toml --cleanDestinationDir --minify'
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.168.0"
+
 # Colebrooke Parish — preview configuration
 
 [context.deploy-preview]
-  command = 'hugo --config config.toml,config-directory.toml --baseURL "$DEPLOY_PRIME_URL/" --minify'
+  command = 'hugo --config config.toml,config-directory.toml --baseURL "$DEPLOY_PRIME_URL/" --cleanDestinationDir --minify'
   publish = "public"
 
 [context.deploy-preview.environment]

@@ -12,4 +12,11 @@
   <link rel="stylesheet" href="{{ "css/directory-mobile-refinement.css" | relURL }}">
   <link rel="icon" href="{{ "img/icon.png" | relURL }}">
   {{ range .AlternativeOutputFormats }}<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink }}" title="{{ site.Title }}">{{ end }}
+  {{/* Social sharing: uses per-page title, description, and canonical URL. */}}
+  <meta property="og:site_name" content="{{ site.Title }}">
+  <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+  <meta property="og:title" content="{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }}{{ end }}">
+  <meta property="og:description" content="{{ $description }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta name="twitter:card" content="summary">
 </head>
