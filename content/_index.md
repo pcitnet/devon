@@ -87,7 +87,7 @@ For those interested in heritage tourism, walking, or exploring **Devon’s hidd
 
 Whether you’re a local resident or a visitor discovering the area for the first time, the Colebrooke Parish welcomes you. Stay updated on community news, events, and council information through our parish website.
 
-[Learn more about the Parish Council →](http://www.colebrooke-pc.gov.uk)
+<a href="http://www.colebrooke-pc.gov.uk" target="_blank" rel="noopener noreferrer">Learn more about the Parish Council →</a>
 
 
 ---
