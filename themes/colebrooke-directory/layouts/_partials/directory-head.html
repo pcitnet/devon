@@ -1,0 +1,15 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>{{ if not .IsHome }}{{ if and (eq .Kind "section") (eq .Section "blog") }}Parish Chronicles{{ else }}{{ .Title }}{{ end }} | {{ end }}{{ site.Title }}</title>
+  {{ $description := site.Params.Description }}
+  {{ with .Summary }}{{ $description = . | plainify | truncate 155 }}{{ end }}
+  {{ with .Description }}{{ $description = . }}{{ end }}
+  <meta name="description" content="{{ $description }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="stylesheet" href="{{ "css/directory.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "css/directory-legacy-support.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "css/directory-mobile-refinement.css" | relURL }}">
+  <link rel="icon" href="{{ "img/icon.png" | relURL }}">
+  {{ range .AlternativeOutputFormats }}<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink }}" title="{{ site.Title }}">{{ end }}
+</head>

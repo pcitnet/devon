@@ -1,0 +1,28 @@
+{{- /* RSS replacement for Hugo 0.168; avoids the obsolete .Site.Author property in notrack. */ -}}
+{{- $entries := .Pages -}}
+{{- if .IsHome -}}
+  {{- $entries = where site.RegularPages "Section" "blog" -}}
+{{- else if .IsSection -}}
+  {{- $entries = .RegularPages -}}
+{{- end -}}
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\"?>" | safeHTML }}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ site.Title }}</title>
+    <link>{{ .Permalink }}</link>
+    <description>Historical stories and records from {{ site.Title }}</description>
+    <language>{{ site.Language.Locale }}</language>
+    <atom:link href="{{ .Permalink }}" rel="self" type="application/rss+xml" />
+    {{- range $entries.ByDate.Reverse }}
+    <item>
+      <title>{{ .Title }}</title>
+      <link>{{ .Permalink }}</link>
+      <guid isPermaLink="true">{{ .Permalink }}</guid>
+      {{- if not .Date.IsZero }}
+      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
+      {{- end }}
+      <description>{{ .Summary | plainify }}</description>
+    </item>
+    {{- end }}
+  </channel>
+</rss>

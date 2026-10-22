@@ -1,0 +1,8 @@
+{{ define "main" }}
+<main><p class="kicker">A Devon parish remembered</p><p class="book-title">Pages from the Past</p><div class="rule" aria-hidden="true">❧</div>
+<div class="article-content home-intro">{{ .Content }}</div>
+{{ $posts := where site.RegularPages "Section" "blog" }}
+{{ with $posts.ByDate.Reverse }}<h2 class="section-heading">From the Parish Directory</h2><div class="articles">
+{{ range first 8 . }}{{ partial "directory-card.html" . }}{{ end }}</div>
+<p class="all-stories"><a href="{{ "blog/" | relURL }}">Browse all parish stories &rarr;</a></p>{{ end }}
+</main>{{ end }}

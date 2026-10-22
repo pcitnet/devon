@@ -1,0 +1,3 @@
+{{ define "main" }}<main><p class="kicker">The parish directory</p><h1 class="book-title">{{ .Title }}</h1><div class="rule" aria-hidden="true">❧</div>
+{{ with .Content }}<div class="article-content">{{ . }}</div>{{ end }}
+<div class="articles">{{ range (where site.RegularPages "Section" "blog").ByDate.Reverse }}{{ partial "directory-card.html" . }}{{ end }}</div></main>{{ end }}

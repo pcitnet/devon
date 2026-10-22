@@ -1,0 +1,36 @@
+{{ define "main" }}
+<!-- Colebrooke Directory v4.3 heading fix -->
+<main>
+  <article class="entry">
+    <p class="kicker">{{ if eq .Section "blog" }}From the parish chronicles{{ else }}Colebrooke Parish, Devon{{ end }}</p>
+    <h1 class="book-title">{{ .Title }}</h1>
+    <div class="rule" aria-hidden="true">❧</div>
+    {{ if and (eq .Section "blog") (not .Date.IsZero) }}
+      <p class="entry-meta">Published {{ .Date.Format "2 January 2006" }}</p>
+    {{ end }}
+    {{- /*
+      Colebrooke Directory v4.3 — duplicate article heading correction.
+      Find the FIRST heading anywhere in the rendered content, even when
+      the article starts with other HTML, whitespace or a shortcode.
+      Remove that one heading ONLY if its visible text matches .Title.
+      This changes output HTML, never the underlying Markdown or URLs.
+    */ -}}
+    {{- $body := printf "%s" .Content -}}
+    {{- $headings := findRE `(?s)<h[1-6]([^>]*)>.*?</h[1-6]>` $body 1 -}}
+    {{- if gt (len $headings) 0 -}}
+      {{- $firstHeading := index $headings 0 -}}
+      {{- $firstText := $firstHeading | plainify | strings.TrimSpace -}}
+      {{- $headingKey := lower (replaceRE `[[:space:]]+` " " $firstText) -}}
+      {{- $titleKey := lower (replaceRE `[[:space:]]+` " " (.Title | strings.TrimSpace)) -}}
+      {{- if eq $headingKey $titleKey -}}
+        {{- $body = replace $body $firstHeading "" 1 -}}
+      {{- end -}}
+    {{- end -}}
+        {{- /* Colebrooke v5.3: preserve article headings as H2; source Markdown unchanged. */ -}}
+    {{- $body = replaceRE `(?i)<h1([[:space:]][^>]*)?>` `<h2$1>` $body -}}
+    {{- $body = replaceRE `(?i)</h1[[:space:]]*>` `</h2>` $body -}}
+    <div class="article-content">{{ $body | safeHTML }}</div>
+  </article>
+  <p class="back"><a href="{{ if eq .Section "blog" }}{{ "blog/" | relURL }}{{ else }}{{ site.Home.RelPermalink }}{{ end }}">&larr; Return to directory</a></p>
+</main>
+{{ end }}

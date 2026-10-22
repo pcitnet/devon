@@ -1,0 +1,2 @@
+<article class="card"><p class="card-label">{{ if eq .Section "blog" }}Parish Chronicles{{ else }}{{ .Section | humanize }}{{ end }}</p><h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+{{ with .Summary }}<p>{{ . | plainify | truncate 160 }}</p>{{ end }}<a class="read-more" href="{{ .RelPermalink }}">Read entry &rarr;</a></article>

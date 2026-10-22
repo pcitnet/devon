@@ -1,0 +1,4 @@
+name = "Colebrooke Directory"
+license = "MIT"
+description = "Leather-bound directory look for Colebrooke parish, layered over notrack."
+min_version = "0.112.0"

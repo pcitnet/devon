@@ -1,0 +1,17 @@
+{{ define "main" }}
+<main>
+  <p class="kicker">The parish directory</p>
+  <h1 class="book-title">{{ if and (eq .Kind "section") (eq .Section "blog") }}Parish Chronicles{{ else }}{{ .Title }}{{ end }}</h1>
+  <div class="rule" aria-hidden="true">❧</div>
+  {{ with .Content }}<div class="article-content">{{ . }}</div>{{ end }}
+  {{ $pages := .RegularPages.ByDate.Reverse }}
+  {{ if $pages }}
+    {{ $pager := .Paginate $pages }}
+    <div class="articles">{{ range $pager.Pages }}{{ partial "directory-card.html" . }}{{ end }}</div>
+    <nav class="paging" aria-label="Pages">
+    {{ with $pager.Prev }}<a href="{{ .URL }}">&larr; Newer entries</a>{{ end }}
+    {{ with $pager.Next }}<a href="{{ .URL }}">Older entries &rarr;</a>{{ end }}
+    </nav>
+  {{ end }}
+</main>
+{{ end }}

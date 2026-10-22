@@ -1,0 +1,23 @@
+<header class="masthead">
+  <p class="eyebrow">The Historical Record of</p>
+  <a class="brand" href="{{ site.Home.RelPermalink }}">Colebrooke Parish</a>
+  <p class="strapline">Coleford · Penstone · The Devon Countryside</p>
+  <p class="eyebrow bottom">An illustrated collection of local history and stories</p>
+</header>
+<nav class="nav" aria-label="Main navigation">
+  <a href="{{ site.Home.RelPermalink }}"{{ if .IsHome }} aria-current="page"{{ end }}>Home</a>
+  {{- with site.Menus.main }}
+    {{- range . }}
+      {{- /* The old Blog menu contains children (categories/tags/archive).
+             Never output these in the top navigation: the archive is available
+             in the book's Contents & Index, and child links stay accessible by URL. */ -}}
+      <a href="{{ .URL | relURL }}"{{ if or ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) }} aria-current="page"{{ end }}>{{ if eq (lower .Name) "blog" }}Parish Chronicles{{ else }}{{ .Name }}{{ end }}</a>
+    {{- end }}
+  {{- else }}
+    <a href="{{ "blog/" | relURL }}">Parish Chronicles</a>
+    <a href="{{ "archive/" | relURL }}">Archive</a>
+    <a href="{{ "books/" | relURL }}">Books</a>
+    <a href="{{ "gallery/" | relURL }}">Gallery</a>
+    <a href="{{ "contact/" | relURL }}">Contact</a>
+  {{- end }}
+</nav>

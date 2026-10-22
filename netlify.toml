@@ -1,0 +1,8 @@
+# Colebrooke Parish — preview configuration
+
+[context.deploy-preview]
+  command = 'hugo --config config.toml,config-directory.toml --baseURL "$DEPLOY_PRIME_URL/" --minify'
+  publish = "public"
+
+[context.deploy-preview.environment]
+  HUGO_VERSION = "0.168.0"

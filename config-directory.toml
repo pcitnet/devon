@@ -1,0 +1,3 @@
+# TEST ONLY: use with --config config.toml,config-directory.toml
+# notrack remains as fallback for image shortcodes and other custom templates.
+theme = ["colebrooke-directory", "notrack"]

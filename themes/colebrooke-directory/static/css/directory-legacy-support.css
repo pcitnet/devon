@@ -1,0 +1,89 @@
+/* Support the site's original notrack image, gallery, and resume shortcodes.
+   Included separately to avoid the old theme's white-page layout styles. */
+.article-content figure.image-shortcode {display:table;max-width:100%;margin:1em auto;}
+.article-content figure.image-shortcode img {display:block;width:100%;max-width:100%;height:auto;}
+.article-content figure.image-shortcode.frame {border:1px solid #ae8755;background:#f7edcf;padding:.5em;box-shadow:0 3px 9px #40200720;}
+.article-content figcaption {font-size:.86em;color:#6b4a34;text-align:center;margin-top:.3em;}
+.article-content figcaption p {margin:.25em 0;}
+.article-content figure.right {float:right;max-width:45%;margin:.3em 0 1.2em 1.2em;}
+.article-content figure.left {float:left;max-width:45%;margin:.3em 1.2em 1.2em 0;}
+.article-content figure.wide {float:none;max-width:100%;}
+.article-content::after {content:"";display:table;clear:both;}
+.gallery-category {display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,155px),1fr));gap:12px;list-style:none;padding:0;margin:1.2em 0;}
+.gallery-photo {min-width:0;list-style:none;}
+.gallery-photo img {display:block;width:100%;height:190px;object-fit:cover;border:6px solid #f1e4c4;box-shadow:0 2px 6px #3a251933;cursor:zoom-in;}
+.gallery-photo img:focus-visible {outline:3px solid #75440e;outline-offset:3px;}
+.modal[hidden]{display:none!important;}
+.modal {position:fixed;z-index:1000;inset:0;display:grid;place-items:center;grid-template-columns:60px minmax(0,1fr) 60px;gap:8px;background:#120b07ef;color:#fff;padding:70px max(10px,3vw) 25px;}
+.modal-content {grid-column:2;grid-row:1;max-width:100%;max-height:74vh;width:auto;height:auto;object-fit:contain;}
+.modal .close {position:absolute;top:15px;right:18px;border:1px solid #bd9f65;background:#432a1d;color:#fff;font-size:34px;cursor:pointer;min-width:48px;min-height:48px;}
+.modal .gallery-previous,.modal .gallery-next {background:#4b311fc9;color:#fff;border:1px solid #c5a778;min-width:44px;min-height:56px;cursor:pointer;font-size:32px;}
+.modal .gallery-previous {grid-column:1;grid-row:1;}
+.modal .gallery-next {grid-column:3;grid-row:1;}
+.modal #caption {grid-column:1/-1;text-align:center;max-width:70ch;line-height:1.4;}
+.gallery-open {overflow:hidden;}
+.contactbox {width:min(100%,20em)!important;max-width:100%;padding:10px;}
+.contactbox ul,.social ul {list-style:none;padding:10px;}
+.contactbox a,.social a {overflow-wrap:anywhere;}
+.resume-content {display:flex;flex-wrap:wrap;gap:1em;}
+.category-title {flex:1 1 150px;}.category-content {flex:3 1 240px;min-width:0;}
+.category-content ul {padding-left:1.3em;}
+.article-content .video-shortcode {display:block;width:100%;height:auto;max-width:100%;}
+.archive-list {padding-left:1.2em;line-height:1.85;}
+.archive-list li {border-bottom:1px dotted #ad9063;padding:.24em 0;}
+.archive-date {color:#7c6044;font-style:italic;display:inline-block;min-width:4em;}
+.nav-group {position:relative;display:flex;flex-direction:column;align-items:center;min-width:0;}
+.nav-group>a {display:block;}
+.nav-children {display:flex;justify-content:center;flex-wrap:wrap;gap:2px;}
+.nav-children a {font-size:.77em;text-decoration:underline;text-underline-offset:3px;color:#e8d2ae;padding:4px 8px;}
+.article-content pre {white-space:pre;overflow-x:auto;max-width:100%;}
+.article-content :is(table,pre,code) {max-width:100%;}
+.article-content :is(a,li,td,th,h1,h2,h3,h4) {overflow-wrap:anywhere;}
+@media(max-width:760px){
+ .article-content figure.image-shortcode {width:auto!important;max-width:100%;}
+ .article-content figure.right,.article-content figure.left {float:none;max-width:100%;margin:1em auto;}
+ .modal {grid-template-columns:44px minmax(0,1fr) 44px;gap:2px;padding:75px 4px 22px;}
+ .modal .gallery-previous,.modal .gallery-next {min-width:40px;}
+ .gallery-photo img {height:145px;}
+}
+@media print {.modal,.nav-children {display:none!important;}}
+
+
+/* COLEBROOKE v4.6 — mounting the gallery photographs as old album prints.
+   Only the gallery thumbnails are affected; the enlarged photo viewer is unchanged. */
+.gallery-category {
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:flex-start;
+  align-items:flex-start;
+  gap:1.1rem;
+  margin:1.3em 0;
+  padding:0;
+  list-style:none;
+}
+.gallery-category > .gallery-photo {
+  flex:0 1 250px;
+  width:min(250px, 100%);
+  min-width:0;
+  max-width:100%;
+  padding:0;
+  margin:0;
+  list-style:none;
+}
+.gallery-category > .gallery-photo > img {
+  display:block;
+  width:100%;
+  max-width:100%;
+  height:auto;
+  object-fit:contain;
+  padding:6px;
+  border:1px solid #aa885b;
+  border-radius:1px;
+  background:#f7edd4;
+  box-shadow:0 2px 3px #4529182b,0 6px 13px #45291820;
+  cursor:zoom-in;
+}
+@media(max-width:480px) {
+  .gallery-category {justify-content:center;}
+  .gallery-category > .gallery-photo {flex-basis:min(250px,100%);}
+}

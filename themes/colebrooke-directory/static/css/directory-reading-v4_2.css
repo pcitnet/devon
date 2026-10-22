@@ -1,0 +1,14 @@
+
+/* COLEBROOKE DIRECTORY v4.2 — comfortable chapter reading. */
+@media (min-width: 980px) {
+  .entry .article-content { max-width: 82ch; margin-inline: auto; }
+}
+.entry .article-content { line-height: 1.72; }
+.entry .article-content p { margin-block: 1.05em; }
+.entry .article-content h2 { margin-block: 1.7em .55em; }
+.entry .article-content h3 { margin-block: 1.4em .5em; }
+.entry .article-content figure, .entry .article-content img { max-width: 100%; }
+/* Do not constrain old image shortcodes with fixed widths on small phones. */
+@media (max-width: 760px) {
+  .entry .article-content figure.image-shortcode { width: 100% !important; }
+}
