@@ -3,7 +3,7 @@ title: "Why Is Colebrooke Called Colebrooke? The History Behind the Name"
 description: "Explore the possible origins of the name Colebrooke, its medieval history, local streams, historic watermills and links with the River Yeo in Devon."
 date: 2026-10-24
 type: "page"
-url: "/blog/why-is-colebrooke-called-colebrooke/"
+
 keywords: ["why is Colebrooke called Colebrooke", "origin of Colebrooke name", "Colebrooke history", "Alexander de Colebrooke", "Colebrooke watermills", "River Cole", "Troney", "Upper Yeo"]
 draft: false
 slug: "why-is-colebrooke-called-colebrooke"
