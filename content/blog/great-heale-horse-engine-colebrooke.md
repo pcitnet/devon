@@ -3,7 +3,7 @@ title: "When Horses Powered the Barn: Great Heale's Forgotten Horse Engine"
 description: "Discover the rare horse-powered threshing machinery documented at Great Heale Farm in Colebrooke, Devon, and what a 2000 historic-building survey revealed."
 summary: "A rare geared horse wheel, an old threshing barn and a forgotten chapter of farming technology at Great Heale in Colebrooke parish."
 date: 2026-10-24
-draft: true
+draft: false
 slug: "great-heale-horse-engine-colebrooke"
 author: "Colebrooke.org"
 categories: ["Parish Chronicles"]
