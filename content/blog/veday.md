@@ -1,5 +1,7 @@
 ---
 title: 'V E Day in Coleford 1945'
+description: "Neville Enderson recalls VE Day in Coleford on 8 May 1945, with village sports, a children's tea at the New Inn, and bonfire celebrations."
+summary: "An eyewitness childhood memory of Coleford's VE Day sports, tea, music and celebrations in May 1945."
 date: 2022-03-05T15:07:02Z
 Tags: [ve day, 1945, coleford]
 Categories: [coleford]
@@ -22,5 +24,4 @@ Meanwhile, Fred Keen had been busy on another project. He had made a full-size r
 
 Hitler was ceremoniously placed on the top, and the bonfire lit. A few musicians had gathered to provide music for singing and dancing around the fire. In particular, Albert Hooper of Firestone Cottage, playing his accordion, had positioned himself halfway up a ladder that had been leant against a nearby oak tree providing a lasting memory of the event. My father had placed a small barrel of cider on a farm cart which gave the necessary "assistance" to the celebrations. As the flames began to die down, the crowds made their way back down to the village. Here the music and dancing continued outside the New Inn until a very late hour. By this time, one very tired eight year old was tucked up in bed. The flags and bunting stayed up until the end of the week, and on Saturday night, there was other dancing up and down the village.
 
-
-
+Further reading: [the Colebrooke Revel](/blog/2020/12/colebrooke-revel/) and [Colebrooke Carnival in 1925](/blog/2025/10/colebrooke-carnival-the-1925-centenary-story/).

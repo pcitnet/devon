@@ -1,5 +1,7 @@
 ---
 title: 'The Great Fire of Colebrooke'
+description: "An account of the Great Fire of Colebrooke on 24 August 1893, when thatched cottages near the churchyard burned and neighbours helped the families."
+summary: "The events and aftermath of the 1893 fire that destroyed thatched cottages beside Colebrooke churchyard."
 date: 2020-11-06T10:09:37Z
 Tags: [colebrooke, fire,]
 Categories: [colebrooke]
@@ -23,3 +25,4 @@ We have no pictures of the Colebrooke fire, but this is much as it might have lo
 
 © Neville P. Enderson
 
+Further reading: [Colebrooke Church History](/blog/2020/06/colebrooke-church-history/) and [Historic Houses of Colebrooke](/blog/2024/11/historic-houses-of-colebrooke-exploring-devons-architectural-heritage/).

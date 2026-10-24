@@ -1,6 +1,8 @@
 
 ---
 title: "Colebrooke Church Bells History"
+description: "A history of Colebrooke church bells in Devon, from the 1553 inventory and Thomas Pennington's 1627 casting to later recastings and ringing traditions."
+summary: "Trace centuries of bellringing at St Andrew's, Colebrooke, through churchwardens' accounts, bellfounders and repairs."
 date: 2020-06-01T16:09:23+02:00
 draft: false
 tags: [colebrooke, bells]
@@ -159,5 +161,4 @@ Memorial Museum, Exeter; and Rev. John Scott.
 By Margaret B. J. Enderson\
 © Margaret B. J. Enderson
 
-
-
+Further reading: [Colebrooke Church History](/blog/2020/06/colebrooke-church-history/) and [the 1991 Colebrooke bellringing marathon](/blog/2020/10/colebrooke-bellringers-bell-ringing-marathon/).

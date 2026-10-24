@@ -1,5 +1,6 @@
 ---
 title: "Historic Houses of Colebrooke: Exploring Devon's Architectural Heritage"
+summary: "The medieval Old Vicarage at Colebrooke, its nineteenth-century condition and its replacement in 1912."
 description: "Discover the rich architectural heritage of Colebrooke in Devon, focusing on the fascinating history of the 14th-century Old Vicarage and its evolution."
 keywords: ["historic houses Colebrooke", "Colebrooke Devon history", "14th century architecture", "Old Vicarage Colebrooke", "Devon heritage", "historic landmarks Devon"]
 author: "Village of Colebrooke"
@@ -48,5 +49,5 @@ Colebrooke’s historic homes, such as the Old Vicarage, offer a window into the
 
 ### Explore More
 
-For more on the **historic houses of Colebrooke**, explore the original article on the [Village of Colebrooke website](https://www.colebrooke.org/blog/).
+For more about Colebrooke's historic buildings, read [Colebrooke Parish History](/blog/2020/06/colebrooke-parish-history/) and [Paschoe House](/blog/2022/03/paschoe-house/).
 

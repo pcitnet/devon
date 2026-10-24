@@ -1,5 +1,7 @@
 ---
 title: "Coleford Police Station"
+description: "The history of Coleford's village constables and police house in Devon, from the 1850s until policing moved to Copplestone in the 1920s."
+summary: "Meet the village constables who served Coleford before its police station moved to Copplestone."
 date: 2020-10-18T10:20:43+01:00
 categories:
   - coleford
@@ -22,3 +24,5 @@ He stayed for about four years before being posted to Sandford, where his wife d
 Then came ex Coldstream Guardsman PC Henry Tancock who was a resident policeman in the village when my father and his sisters were children and was remembered as a firm but kindly man respected by old and young alike. He stayed until near the end of WW1 when the “Police House” was moved to Browns Cottage at the bottom of the village now the northern end of Burnhills. Eventually, after two more constables had arrived and departed in quick succession PC Edward Nicholls came in 1924 stayed 12 months and was moved to the police house with telephone which had been provided at Copplestone, thus ending the days of the “Coleford Copper.”
 
 © Neville Enderson
+
+Further reading: [the Great Flood of Coleford in 1841](/blog/2020/10/the-great-flood-of-coleford-1841/) and [the Ship Inn brawl of 1853](/blog/2022/03/the-ship-inn-brawl-of-1853-a-historic-tale-from-coleford/).
