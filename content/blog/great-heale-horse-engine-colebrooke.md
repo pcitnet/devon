@@ -3,7 +3,7 @@ title: "When Horses Powered the Barn: Great Heale's Forgotten Horse Engine"
 description: "Discover the rare horse-powered threshing machinery documented at Great Heale Farm in Colebrooke, Devon, and what a 2000 historic-building survey revealed."
 summary: "A rare geared horse wheel, an old threshing barn and a forgotten chapter of farming technology at Great Heale in Colebrooke parish."
 date: 2026-10-24
-draft: false
+draft: true
 slug: "great-heale-horse-engine-colebrooke"
 author: "Colebrooke.org"
 categories: ["Parish Chronicles"]
@@ -67,9 +67,9 @@ If you have a historical photograph or first-hand information about the Great He
 
 ## Sources and further reading
 
-1. **Devon and Dartmoor Historic Environment Record**, [MDV80640 — Horse Engine House at Great Heal, Colebrooke](https://www.heritagegateway.org.uk/gateway/Results_Single.aspx?resourceID=104&uid=MDV80640). Summarises P. Child's correspondence and records a 2000 photograph of the gearing (SDV365687).
-2. **Devon and Dartmoor Historic Environment Record**, [MDV104622 — Farm Buildings at Great Heale](https://www.heritagegateway.org.uk/gateway/Results_Single.aspx?resourceID=104&uid=MDV104622). Records the barn's approximate period and the relationship between the farm buildings.
-3. **Historic England**, [*National Farm Building Types* — Horse Engine House](https://historicengland.org.uk/images-books/publications/national-farm-building-types/national-building-types-2014/). Background on the technology and rarity of surviving working equipment.
-4. **Devon and Dartmoor Historic Environment Record**, [MDV80013 — Horse Engine House at Whelmstone Barton, Colebrooke](https://historicengland.org.uk/listing/heritage-gateway/results/record/c39bc47e-3b72-4a06-9863-681629e456a2/MDV80013). Comparative parish example, recorded as a former engine house.
+1. **Devon and Dartmoor Historic Environment Record**, <a href="https://www.heritagegateway.org.uk/gateway/Results_Single.aspx?resourceID=104&amp;uid=MDV80640" target="_blank" rel="noopener noreferrer">MDV80640 — Horse Engine House at Great Heal, Colebrooke</a>. Summarises P. Child's correspondence and records a 2000 photograph of the gearing (SDV365687).
+2. **Devon and Dartmoor Historic Environment Record**, <a href="https://www.heritagegateway.org.uk/gateway/Results_Single.aspx?resourceID=104&amp;uid=MDV104622" target="_blank" rel="noopener noreferrer">MDV104622 — Farm Buildings at Great Heale</a>. Records the barn's approximate period and the relationship between the farm buildings.
+3. **Historic England**, <a href="https://historicengland.org.uk/images-books/publications/national-farm-building-types/national-building-types-2014/" target="_blank" rel="noopener noreferrer"><em>National Farm Building Types</em> — Horse Engine House</a>. Background on the technology and rarity of surviving working equipment.
+4. **Devon and Dartmoor Historic Environment Record**, <a href="https://historicengland.org.uk/listing/heritage-gateway/results/record/c39bc47e-3b72-4a06-9863-681629e456a2/MDV80013" target="_blank" rel="noopener noreferrer">MDV80013 — Horse Engine House at Whelmstone Barton, Colebrooke</a>. Comparative parish example, recorded as a former engine house.
 
-*Research note: This article has been written independently from the records cited above. The underlying 2000 correspondence and photographic record have not been separately inspected, and no claim is made about the site's current condition. This is an editorial draft, not a survey of a private property. 
+*Research note: This article has been written independently from the records cited above. The underlying 2000 correspondence and photographic record have not been separately inspected, and no claim is made about the site's current condition. This is an editorial draft, not a survey of a private property. Please do not reproduce heritage-record photographs or source text without appropriate permission.*
