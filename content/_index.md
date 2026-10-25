@@ -8,8 +8,8 @@ url: "/"
 keywords: ["Colebrooke", "Coleford", "Penstone", "Mid Devon", "Devon villages", "Colebrooke Parish", "Colebrooke church", "Colebrooke community", "Colebrooke village"]
 categories: ["Devon Villages", "Local History", "Community Life"]
 tags: ["Colebrooke", "Coleford", "Penstone", "Mid Devon", "Parish of Colebrooke", "Devon Countryside"]
-author: "Colebrooke Parish Council"
-image: "/images/colebrooke-village.jpg"
+author: "John and Neville Enderson"
+image: "/img/colebrooke-parish.webp"
 canonical: "https://www.colebrooke.org/"
 ---
 <script type="application/ld+json">
@@ -37,7 +37,18 @@ canonical: "https://www.colebrooke.org/"
 </script>
 {{<image float="right" width="20em" frame="true" caption="Colebrooke Parish" src="/img/colebrooke-parish.webp" >}}
 # Colebrooke Parish in Devon
-Nestled in the heart of **Mid Devon**, the **Parish of Colebrooke** is a beautiful rural community made up of the villages of **Colebrooke**, **Coleford**, and **Penstone**. Surrounded by rolling countryside, winding lanes, and rich farmland, the parish combines deep historical roots with a warm and welcoming community spirit.
+The **Parish of Colebrooke** lies in Mid Devon, west of Crediton, and includes **Colebrooke, Coleford and Penstone**. This independent historical collection brings together accounts of the parish’s farms and houses, people and families, churches, village events and changing rural life.
+
+---
+## Explore the Parish's History
+
+Choose a subject or search the growing collection of research, stories and recollections:
+
+- **[Historic farms, houses, inns and mills]({{< relref "places/_index.md" >}})** — an A–Z index of places and buildings in Colebrooke, Coleford and Penstone.
+- **[People of the parish]({{< relref "personalities/_index.md" >}})** — residents, families and personalities remembered in local accounts.
+- **[Parish Chronicles]({{< relref "blog/_index.md" >}})** — unusual events, newspaper stories, village traditions and memories.
+- **[St Andrew’s Church and its bells]({{< relref "blog/colebrooke-church-history.md" >}})** — church history and the separate [history of the bells]({{< relref "blog/colebrookebells-history.md" >}}).
+- **[Search parish history]({{< relref "search.md" >}})** — look for a particular surname, building or subject across the site's articles.
 
 ---
 {{<image float="right" width="15em" frame="true" caption="St Andrew’s Church, Colebrooke" src="/img/colebrooke-church.webp" >}}
@@ -61,14 +72,14 @@ The hamlet of Penstone sits quietly amidst fields and streams, showcasing Devon�
 ---
 ## Local Life & Community
 
-The **Colebrooke Parish Council** supports a range of local initiatives and activities, from environmental projects to church events and local heritage work. The parish’s calendar is filled with seasonal celebrations, community gatherings, and volunteer opportunities that strengthen village life.
+The parish's story is preserved through family memories, newspaper reports, maps, photographs and the history of its buildings. The independent [parish books]({{< relref "books/colebrooke-parish-books.md" >}}) bring together longer studies, while the [Parish Chronicles]({{< relref "blog/_index.md" >}}) record individual episodes from local life.
 
-Residents and visitors alike can explore local walking paths, nearby farms, and traditional pubs that reflect the region’s authentic rural character.
+For present-day meetings and official parish notices, use the Parish Council website linked below.
 
 ---
 ## History & Heritage
 
-The history of the Parish of Colebrooke stretches back to the Domesday Book, where the name “Colbroc” first appeared. Through the centuries, the area has maintained its agricultural heritage while adapting to the changing world. Today, the parish stands as a living link between Devon’s past and present.
+The lands later known as Colebrooke were included within the **Manor of Crediton** at the time of the Domesday survey in 1086; **Colebrooke itself is not named separately in Domesday**. A reference to the parish appears in Bishop Bartholomew's correspondence with Henry II, usually dated to about **1170**. Read [why Colebrooke is called Colebrooke]({{< relref "blog/why-is-colebrooke-called-colebrooke.md" >}}) and the fuller [history of the manor]({{< relref "blog/colebrooke-parish-history.md" >}}) for the evidence and the limits of what can be established.
 
 ---
 ## Visiting Colebrooke Parish
@@ -80,7 +91,7 @@ For those interested in heritage tourism, walking, or exploring **Devon’s hidd
 ---
 ## Get Involved
 
-Whether you’re a local resident or a visitor discovering the area for the first time, the Colebrooke Parish welcomes you. Stay updated on community news, events, and council information through our parish website.
+Readers with memories, photographs or carefully sourced corrections about the parish can get in touch through our [contact page]({{< relref "contact.md" >}}). For official parish news, meeting notices and council services, use the separate Parish Council website.
 
 <a href="http://www.colebrooke-pc.gov.uk" target="_blank" rel="noopener noreferrer">Learn more about the Parish Council →</a>
 

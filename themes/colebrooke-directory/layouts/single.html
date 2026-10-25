@@ -6,7 +6,7 @@
     <h1 class="book-title">{{ .Title }}</h1>
     <div class="rule" aria-hidden="true">❧</div>
     {{ if and (eq .Section "blog") (not .Date.IsZero) }}
-      <p class="entry-meta">Published {{ .Date.Format "2 January 2006" }}</p>
+      <p class="entry-meta">Published online {{ .Date.Format "2 January 2006" }}{{ with .Params.original_year }} · Originally written {{ . }}{{ end }}</p>
     {{ end }}
     {{- /*
       Colebrooke Directory v4.3 — duplicate article heading correction.
@@ -30,6 +30,16 @@
     {{- $body = replaceRE `(?i)<h1([[:space:]][^>]*)?>` `<h2$1>` $body -}}
     {{- $body = replaceRE `(?i)</h1[[:space:]]*>` `</h2>` $body -}}
     <div class="article-content">{{ $body | safeHTML }}</div>
+    {{ if eq .Section "blog" }}
+      {{ $related := where (site.RegularPages.Related .) "Section" "blog" }}
+      {{ with (first 3 $related) }}
+      <nav class="related-reading" aria-label="Related parish articles">
+        <h2>Related Reading</h2>
+        <ul>{{ range . }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}</ul>
+      </nav>
+      {{ end }}
+      <p class="more-history">Explore the <a href="{{ "places/" | relURL }}">places index</a> or <a href="{{ "search/" | relURL }}">search parish history</a>.</p>
+    {{ end }}
   </article>
   <p class="back"><a href="{{ if eq .Section "blog" }}{{ "blog/" | relURL }}{{ else }}{{ site.Home.RelPermalink }}{{ end }}">&larr; Return to directory</a></p>
 </main>

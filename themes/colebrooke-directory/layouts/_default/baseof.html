@@ -2,9 +2,28 @@
 {{ partial "directory-head.html" . }}
 <body><div class="outer"><div class="ornament" aria-hidden="true"></div>
 {{ partial "directory-header.html" . }}
-<div class="book"><aside class="sidebar" aria-label="Parish index"><h2>Contents &amp; Index</h2><nav class="index" aria-label="Quick links">
-<a href="{{ "blog/" | relURL }}">Parish Stories</a><a href="{{ "archive/" | relURL }}">Historic Archive</a><a href="{{ "books/" | relURL }}">Parish Books</a><a href="{{ "gallery/" | relURL }}">Photographs</a><a href="{{ "personalities/" | relURL }}">People of the Parish</a></nav>
+<div class="book"><aside class="sidebar" aria-label="Parish index"><h2>Contents &amp; Index</h2><!-- colebrooke-mobile-index-disclosure-20261025 -->
+<details class="parish-index-details" id="parish-index-details" open>
+  <summary>Browse the Parish Index</summary>
+<nav class="index" aria-label="Quick links">
+<a href="{{ "blog/" | relURL }}">Parish Stories</a><a href="{{ "places/" | relURL }}">Places A–Z</a><a href="{{ "search/" | relURL }}">Search History</a><a href="{{ "archive/" | relURL }}">Historic Archive</a><a href="{{ "books/" | relURL }}">Parish Books</a><a href="{{ "gallery/" | relURL }}">Photographs</a><a href="{{ "personalities/" | relURL }}">People of the Parish</a></nav>
+</details>
 <p class="sidebar-note">An illustrated record of people, buildings, traditions and memories.</p></aside>
 <div class="leaf" id="main-content"><span class="page-corner" aria-hidden="true"></span>{{ block "main" . }}{{ end }}</div></div>
 <footer class="footer">Colebrooke Parish, Devon <span aria-hidden="true">✥</span> Heritage · People · Places</footer></div>
+<script>
+/* On desktop the index is always visible; on mobile it starts folded. */
+(function () {
+  var panel = document.getElementById('parish-index-details');
+  if (!panel || !window.matchMedia) return;
+  var smallScreen = window.matchMedia('(max-width: 760px)');
+  function adjustForScreen() { panel.open = !smallScreen.matches; }
+  adjustForScreen();
+  if (smallScreen.addEventListener) {
+    smallScreen.addEventListener('change', adjustForScreen);
+  } else if (smallScreen.addListener) {
+    smallScreen.addListener(adjustForScreen);
+  }
+}());
+</script>
 </body></html>

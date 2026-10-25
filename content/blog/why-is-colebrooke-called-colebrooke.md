@@ -8,6 +8,7 @@ keywords: ["why is Colebrooke called Colebrooke", "origin of Colebrooke name", "
 draft: false
 slug: "why-is-colebrooke-called-colebrooke"
 author: "Neville Enderson"
+original_year: 2017
 tags:
   - Colebrooke history
   - Colebrooke name
@@ -105,4 +106,4 @@ A painting of the mill, made in **1850 by F. T. Lee of Barnstaple**, is known to
 
 ---
 
-*Written by Neville Enderson, 2017. 
+*Written by Neville Enderson, 2017.
