@@ -45,7 +45,7 @@ The report's closing words describe the decision as **“would fine him the cost
 
 ## A different side of Coleford's police history
 
-A separate history of <a href="/blog/2020/10/coleford-police/">Coleford Police Station</a> on this website recalls a PC Henry Tancock as a long-serving village constable. That account preserves the favourable way he was remembered by local people. The 1906 newspaper adds a different perspective: the public scrutiny of a policeman's conduct on one particular evening.
+A separate history of <a href="/blog/2020/10/coleford-police-station/">Coleford Police Station</a> on this website recalls a PC Henry Tancock as a long-serving village constable. That account preserves the favourable way he was remembered by local people. The 1906 newspaper adds a different perspective: the public scrutiny of a policeman's conduct on one particular evening.
 
 
 
