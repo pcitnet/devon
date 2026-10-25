@@ -246,3 +246,49 @@ html, body { max-width:100%; }
   .sidebar .index a { font-size: 13px; }
   .leaf { padding-inline: 13px; }
 }
+
+
+/* Colebrooke A–Z, search and related articles — preserve the leather-bound design. */
+.parish-search label { display:block; margin:1.4rem 0 .45rem; font-weight:bold; }
+.parish-search-row { display:flex; gap:.6rem; flex-wrap:wrap; }
+.parish-search-row input { flex:1 1 17rem; min-width:0; background:#fffaf0; color:#332013; border:1px solid #987b51; border-radius:3px; padding:.75rem; font:inherit; font-size:1rem; }
+.parish-search-row button { color:#fff2d0; background:#50301e; border:1px solid #987b51; border-radius:3px; padding:.75rem 1.25rem; font:inherit; cursor:pointer; }
+.parish-search-row button:hover { background:#694126; }
+.parish-search-row button:focus-visible, .parish-search-row input:focus-visible { outline:3px solid #a97422; outline-offset:2px; }
+#parish-search-status { color:#5f4a32; font-style:italic; }
+.parish-result { padding:1rem 0; border-bottom:1px solid #baa075; }
+.parish-result h2 { margin:.1rem 0 .5rem; font-weight:normal; font-size:1.32rem; }
+.parish-result p { margin:0; line-height:1.5; }
+.related-reading { border-top:1px solid #b99869; margin:2rem 0 1rem; padding-top:1rem; }
+.related-reading h2 { font-weight:normal; font-size:1.55rem; }
+.related-reading li { margin:.55rem 0; }
+.more-history { margin:1rem 0; font-style:italic; }
+@media(max-width:760px) { .parish-search-row button { width:100%; } }
+
+
+/* colebrooke-mobile-index-disclosure-20261025
+   Native accessible fold-out; desktop book index stays unchanged. */
+@media (min-width: 761px) {
+  .parish-index-details > summary { display: none; }
+}
+@media (max-width: 760px) {
+  .sidebar > h2 { display: none; }
+  .parish-index-details > summary {
+    cursor: pointer;
+    padding: 13px 14px;
+    margin: 0;
+    border: 1px solid #b18d62;
+    background: #e9d6af;
+    color: #643e28;
+    font: 700 15px Georgia, 'Times New Roman', serif;
+    text-align: left;
+  }
+  .parish-index-details > summary:hover,
+  .parish-index-details[open] > summary { background: #f2e1bd; }
+  .parish-index-details > summary::marker { color: #76502b; }
+  .parish-index-details > summary:focus-visible {
+    outline: 3px solid #a97422;
+    outline-offset: 2px;
+  }
+  .parish-index-details .index { margin-top: 9px; }
+}

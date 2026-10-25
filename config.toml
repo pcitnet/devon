@@ -10,7 +10,7 @@ paginate = 4
 [params]
   author = "Neville Enderson, John Enderson"
   siteHeading = "Colebrooke Parish, Devon" # defaults to author
-  Description = "Discover Colebrooke Parish, a charming group of villages in Devon, known for its historical landmarks, beautiful countryside."
+  Description = "Independent local history of Colebrooke, Coleford and Penstone in Mid Devon: historic farms, families, church bells, old photographs and parish stories."
   
   showBlogLatest = true
   mainSections = ["blog"]

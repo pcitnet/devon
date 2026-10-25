@@ -1,0 +1,27 @@
+{{ define "main" }}
+<main class="parish-search">
+  <p class="kicker">Find a name, place or subject</p>
+  <h1 class="book-title">Search Parish History</h1>
+  <div class="rule" aria-hidden="true">❧</div>
+  <p>Search the written histories, Parish Chronicles and people of Colebrooke, Coleford and Penstone. The search runs in your browser and does not send your words to an external search provider.</p>
+  <form id="parish-search-form" role="search">
+    <label for="parish-search-input">Enter a surname, farm, building or subject</label>
+    <div class="parish-search-row">
+      <input type="search" id="parish-search-input" name="q" maxlength="120" autocomplete="off" placeholder="e.g. Paschoe, Tancock, old vicarage" required>
+      <button type="submit">Search</button>
+    </div>
+  </form>
+  <p id="parish-search-status" aria-live="polite" role="status">Enter a term above to search the collection.</p>
+  <div id="parish-search-results" class="parish-search-results"></div>
+  <noscript><p>JavaScript is needed for instant search. You can still use the <a href="{{ "places/" | relURL }}">places index</a> or <a href="{{ "archive/" | relURL }}">archive</a>.</p></noscript>
+  {{/* Generate an index at build time. This is only loaded on the search page. */}}
+  {{ $records := slice }}
+  {{ range site.RegularPages }}
+    {{ if ne .RelPermalink ("search/" | relURL) }}
+      {{ $records = $records | append (dict "title" .Title "url" .RelPermalink "summary" (.Summary | plainify | truncate 175) "text" (.Plain | truncate 3600)) }}
+    {{ end }}
+  {{ end }}
+  <script type="application/json" id="parish-search-data">{{ $records | jsonify | safeJS }}</script>
+  <script src="{{ "js/parish-search.js" | relURL }}" defer></script>
+</main>
+{{ end }}
