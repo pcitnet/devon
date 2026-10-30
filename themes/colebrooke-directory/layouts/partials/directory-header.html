@@ -12,6 +12,9 @@
              Never output these in the top navigation: the archive is available
              in the book's Contents & Index, and child links stay accessible by URL. */ -}}
       <a href="{{ .URL | relURL }}"{{ if or ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) }} aria-current="page"{{ end }}>{{ if eq (lower .Name) "blog" }}Parish Chronicles{{ else }}{{ .Name }}{{ end }}</a>
+      {{- if eq (lower .Name) "books" }}
+      <a href="https://cemetery.colebrooke.org/" target="_blank" rel="noopener noreferrer" title="Colebrooke Cemetery interactive grave plan (opens in a new tab)">Cemetery ↗</a>
+      {{- end }}
     {{- end }}
   {{- else }}
     <a href="{{ "blog/" | relURL }}">Parish Chronicles</a>

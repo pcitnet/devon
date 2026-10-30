@@ -50,6 +50,11 @@ Choose a subject or search the growing collection of research, stories and recol
 - **[St Andrew’s Church and its bells]({{< relref "blog/colebrooke-church-history.md" >}})** — church history and the separate [history of the bells]({{< relref "blog/colebrookebells-history.md" >}}).
 - **[Search parish history]({{< relref "search.md" >}})** — look for a particular surname, building or subject across the site's articles.
 
+## Colebrooke Cemetery – Interactive Grave Plan
+
+Looking for a family grave or exploring the history of Colebrooke parish? The <a href="https://cemetery.colebrooke.org/" target="_blank" rel="noopener noreferrer">Colebrooke Cemetery interactive plan ↗</a> helps visitors explore the cemetery's mapped burial plots and available public plot information. The cemetery site opens in a new tab.
+
+
 ---
 {{<image float="right" width="15em" frame="true" caption="St Andrew’s Church, Colebrooke" src="/img/colebrooke-church.webp" >}}
 ## About Colebrooke
